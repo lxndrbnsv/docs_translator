@@ -1,0 +1,44 @@
+<h1> The Witcher 2. Quest problems </h1>
+<p> Zi <br /> Uddu-ya <br /> Ia Ia <br /> Gat <br /> Exa <br /> Nibbit <br /> Kanpa <br /> Gat <br /> Uddu-Zi < br /> As soon as you say all this, the spirit will let you into the next room with a new puzzle. To get to the main hall, you need to light all the hearths in the correct sequence. Let's number them clockwise from 1 to 6, starting with the one that is located directly in front of you (central). We light first the fourth (the first door to the left of the desired door), then the fifth, first, sixth and seventh. After that, the door will open. Going inside, you will find the Governor. He will offer you to use the power of an ancient artifact ("Operator's Staff"): redistribute all talents and upgrade the witcher in a new way. If you want this, ask the Governor what the artifact can do. Any other answer will anger him and you will have to fight. </p>
+
+<h1> The Witcher 2: Assassins of Kings </h1>
+<h2> How to solve the riddles of the crows in Lok Muinn? </h2>
+<ul>
+  <li> <img src = "https://faqusha.ru/uploads/images/00/00/05/2012/03/15/0u5c30e946-e563f7f0-257dda6c.jpg-64x64-crop.jpg" /> </ li>
+  <li> Zoltan </li>
+  <li> 15.03.2012, 21:08 </li>
+</ul>
+<ul>
+  <li> 7 7 0 0 </li>
+</ul>
+<p> Riddles of Vrans in the Lok Muinne dungeons will be the final stage of the "Memory of Old Years" quest from the second chapter. The entrance to the dungeon is located next to the circus strongman Mighty Numa in the shopping area of ​​the city. Inside, the witcher will be greeted by a guardian-light who will ask a question. The answer to the question is the correct sequence of words from Malguet's note, found in the basement of the house on the cliff in the task "Little Sisters" (the path of Vernon Roche), or during the witcher's visit to Henselt's camp in the task "Royal Blood" (the path of Iorwit). The correct sequence is: <strong> Zi </strong>, <strong> Uddu-ya </strong>, <strong> Ia Ia </strong>, <strong> Gat </strong>, <strong> Exa </ strong >, <strong> Nibbit </strong>, <strong> Kanpa </strong>, <strong> Gat </strong>, <strong> Uddu-zi </strong>. In the second room, on the way to the vrani treasures, you will need to solve the riddle with lights. First, we light the first fire on the left side of the entrance, then the second light on the right side of the entrance. </p>
+<p> In the last room, a meeting with the chosen steward is awaiting, who, as a reward, will offer to <strong> redistribute skill points </strong>, having previously discarded them in exchange for one talent point. If you refuse, the witcher will be left with nothing and will be thrown through the magic portal back into the dungeon. If you attack the steward, then a very difficult battle will await. After the first few hits, two gargoyles will come to his aid, inflicting 150 points of damage per successful attack. There will be several pairs of such assistants throughout the battle. The Yrden Sign will help against them, hindering movement. At this time, you can deal with their owner. In addition, the ruler constantly emits balls of fire and actively uses protection. Victory will bring the witcher <strong> operator's staff </strong> (damage 40-60, stun + 4%, freeze + 10%, burn + 80%), strengthening of the carapace of the crows, magical basis and dragon scales. </p>
+
+<h1> A complete list of rare weapons, armor and components found in the game (updated). </h1>
+<p> At my leisure, I compiled a table of individual armor, weapons and rare components that are found only once in the entire game and only in strictly defined places. </p>
+<p> The work was dreary and required a lot of dedication, attention and patience. Hope you enjoy it. </p>
+<h3> Steel Swords </h3>
+<p> Rune Sigil of Mahakam </p>
+<p> -Remove from the corpse in the fields (version 1.0 bug.) (Ⅳ act); </p>
+<p> -Get as a reward for the quest <em> "It won't hurt" </em>; </p>
+<p> -Take off <strong> Jean Pierre </strong> from the body during the quest <em> "Dirt and Velvet" </em>; </p>
+<p> -Get as a gift for killing 10 named monsters. </p>
+<p> Dol Blatann's Stout Sword </p>
+<p> <strong> [Path of Iorveth] </strong> Get the sword if you let the villagers lynch the prince. </p>
+<p> Poisoned Zerrican Saber </p>
+<p> Deitven Ceremonial Sword </p>
+<p> Short Elven Sigil </p>
+<p> Forgotten Vran Sword </p>
+<p> <em> The doom maker is right behind this chicken. Here is cholera. Okay, after the lead I will take away </em> </p>
+<p> <em> Armed with the Swallow, Geralt is definitely ready to defend Vergen </em> </p>
+<p> <em> Supported by <strong> Siegfried of Denesle </strong> and the Order of the Burning Rose in TW1? Then you can buy the sword <strong> Garhval </strong> in TW2 at an incredibly low price of 1127 orens </em> </p>
+<h3> Silver Swords </h3>
+<p> Great Silver Witcher Sword </p>
+<p> Sword from Kaer Morhen </p>
+<p> Sturdy Sword with Yellow Meteorite Ore </p>
+<p> [the path of Iorveth] Gives <strong> Philip </strong> after healing <strong> Saskia </strong>. </p>
+<p> <em> With the <u> "Zerrikanets" </u> in the hands of the fight with the Dragon will be 2 times faster, even on the insane difficulty level. Just don't mess with the <strong> QTE </strong> scene </em> </p>
+<h3> Staves </h3>
+<h6> Attention: The quest <u> "Memory of Old Years" </u> can also be obtained by playing <strong> as Iorvet </strong>. Be sure to pick up the <u> manuscript </u> while searching for <strong> Triss </strong> beyond the ghostly darkness. </h6>
+<p> <em> Fighting the Steward is by far the most difficult in the game. Tip: when the gargoyles appear, throw the <em> <u> Dancing Star </u> </em> bomb at the priest, and when he lights up you will have precious time to deal with the monsters. When there are no gargoyles, hide behind the columns and lick your wounds. Be sure to pump the <em><u> quen</u> </em> sign, drink <em><u> rook</u> </em>, <em> <u> swallow </u> </ em > and <em><u> filina</u> </em>, smear the blades with oils, roll constantly during the fight. </em> </p>
+

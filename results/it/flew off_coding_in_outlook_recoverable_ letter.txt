@@ -1,0 +1,68 @@
+<h1> Change the encoding of emails in Outlook </h1>
+<p> </p>
+<p> Surely, among the active users of the Outlook mail client there will be those who have received letters with incomprehensible characters. That is, instead of meaningful text, the letter contained various symbols. This happens when the composer of the letter created the message in a program that uses a different character encoding. </p>
+<p> For example, Windows operating systems use cp1251 encoding, but Linux systems use KOI-8. This is the reason for the incomprehensible text of the letter. We'll look at how to fix this problem in this tutorial. </p>
+<p> So, you received a letter that contains an incomprehensible set of characters. In order to bring it to its normal form, you must perform several actions in the following sequence: </p>
+<p> 1. First of all, open the received letter and, without paying attention to the incomprehensible characters in the text, open the quick access panel setting. </p>
+<blockquote> <p> Important! This must be done from the window with the letter, otherwise you will not be able to find the required command. </p> </blockquote>
+<p> 2. In the settings, select the item "Other commands". </p>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2016/08/Nastroyka-komand-v-Outlook.jpg" /> </p>
+<p> 3. Here in the list "Select commands from" select the item "All commands" </p>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2016/08/Parametryi-paneli-byistrogo-dostupa-v-Outlook.jpg" /> < / p>
+<p> 4. In the list of commands, look for "Encoding" and double-click (or click on the "Add" button) to transfer it to the "Quick Access Toolbar Settings" list. </p>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2016/08/Dobavlenie-komandyi-Kodirovka-v-Outlook.jpg" /> </ p >
+<p> 5. Click "OK", thereby confirming the change in the composition of the teams. </p>
+<p> That's all, now it remains to click on a new button in the panel, then go to the "Advanced" submenu and alternately (if you do not know in what encoding the message was written earlier) select encodings until you find the one you need. As a rule, setting the Unicode encoding (UTF-8) is sufficient. </p>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2016/08/Vyibor-kodirovki-v-Outlook.jpg" /> </p>
+<p> After that, the "Encoding" button will be available to you in each message and, if necessary, you can quickly find the one you need. </p>
+<p> There is another way to get to the "Encoding" command, but it is longer and you need to repeat it every time you need to change the text encoding. To do this, in the "Movements" section, click the "More Move Actions" button, then select "More Actions", then "Encoding" and in the "Advanced" list select the one you need. </p>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2016/08/Alternativnyiy-sposob-izmenit-kodirovku-v-Outlook.jpg" /> < / p>
+<p> Thus, you can access one command in two ways, you just have to choose the one that is more convenient for you and use it as needed. </p>
+<p> Thank the author, share the article on social networks. </p>
+
+<h1> How do I change the encoding of an incoming message? </h1>
+<p> You probably sometimes get emails with broken encoding - strange characters instead of normal text. It is even possible that you know how to fix the encoding of letters in previous versions of Outlook. </p>
+<p> <strong> How to change email encoding in Outlook 2010? </strong> </p>
+<p> To change the encoding of a received message, open the <strong> </strong> message itself. You will need the bottom right icon in the Move group. </p>
+<p style = "clear: both"> <img src = "https://msdnshared.blob.core.windows.net/media/TNBlogsFS/prod.evol.blogs.technet.com/CommunityServer.Blogs.Components.WeblogFiles /00/00/00/70/67/0410.Capture1.PNG "/> </p>
+<p> Click on it, in the drop-down menu select More actions, in the next drop-down menu - Encoding. </p>
+<p style = "clear: both"> <img src = "https://msdnshared.blob.core.windows.net/media/TNBlogsFS/prod.evol.blogs.technet.com/CommunityServer.Blogs.Components.WeblogFiles /00/00/00/70/67/4135.Capture2.PNG "/> </p>
+<p> Now all that remains is to choose a new encoding for the letter. </p>
+<p> By the way, it would be nice to highlight as a thread the phrase [open the letter ITSELF], otherwise somehow you don’t pay attention to [itself] ... </p>
+<p> I tried to find this button in the main window for a long time and unsuccessfully))) </p>
+<p> Thank you! It helped a lot) </p>
+<p> vital@gala.net - I asked my colleagues a question, but, of course, I was asked a counter question about the details. If possible - unsubscribe in the comments, the answer should be quick. </p>
+<p> Put bold, I hope it became noticeable) </p>
+<p> sorry, just saw the comment. I just copied pst in due time - there were no problems. Write me a comment in the answer form (available on the author's page). </p>
+<p> Then it will be sent to my mail, and I can give you a code that will help you. </p>
+<p> I am trying to transfer mail from 2007 to 2010. After the transfer, most of the messages cannot be read, I cannot find the encoding. </p>
+<p> The transfer was carried out: through import - export (including building a new pst in 2010); copying an existing pst from 2007 to 2010; as well as creating a new pst in 2010, connecting to 2007 and then copying the messages to the attached file. All in vain. </p>
+<p> I cannot move to a new laptop, because life is not nice without mail and its archive 🙁 </p>
+<p> Received a letter with the wrong encoding from Masterhost. Digitally signed. The encoding command is disabled. </p>
+<p> I cannot read the letter in any of the encodings. What to do ?? </p>
+<p> Thank you, helpful! </p>
+<p> (How I hate word and office 2010 for this.) </p>
+<p> I wouldn't have guessed it myself. Thanks to the author </p>
+<p> Here is the buried encoding. It is clear that in the production camp, many people have not heard about languages ​​other than English, but still .... </p>
+<p> Thank you so much! Otherwise, the developers buried this button, God knows where, and the help is not written. </p>
+<p> And what to do if this menu item is missing when opening a specific message? I also put the "Encoding" button on the toolbar, but when I open the message it is also inactive? </p>
+<p> The problem is with one specific message that is sent internally (i.e. the client and server are the same). </p>
+<p> Spent an awful lot of time, but I couldn't find the "Encoding" fad on my own. Incredibly inconvenient. </p>
+<p> And what to do with encoding if Outlook does not have the "Message" tab and, accordingly, this button? Version 2010. </p>
+<p> I don't have this Encoding menu item. </p>
+<p> Solved the problem by adding the "Encoding" command to the quick panel. </p>
+<p> If the letter is digitally signed, then the encoding item is missing. </p>
+<p> Thanks to odonata82 for the folk remedy. It was not possible to drive the specified button to any place, because just didn't find it. </p>
+<p> Thank you so much! Of course, Outlook provides a lot of additional options in terms of design and management of messages, but managing the settings of Outlook itself is so confusing and intuitively incomprehensible that it’s just a disaster. The old Express in this respect <br /> was much clearer and more convenient. </p>
+<p> Rakhmet !! Thanks! :), helped a lot </p>
+<p> I have a domain and there is an Exchenge 2007 server in outlock, the “Encoding” button is not active for the user. actually because of this I can not change the encoding. where to dig? </p>
+<p> the Encoding button is not active, what is the reason for this? </p>
+
+<h1> Encoding of outgoing messages in Outlook crashes </h1>
+<p> Problem: in rare situations, after forwarding a message, the encoding of the message in the Sent Items folder is changed. Something like this. </p>
+<p style = "clear: both"> <img src = "https://onix.me/wp-content/uploads/2018/02/Outlook_1.jpg" /> </p>
+<p> Through trial and error, it turned out that such a problem arises when, when sending (and possibly when replying), the user adds "" or - to the subject of the letter. Perhaps there are other situations in which the letter changes its original appearance, I did not begin to find out in detail. The most important thing is that this letter does not look correct only in Outlook, in OWA it displays normally. It turns out that this is an unknown glitch in the mail program, which for some reason considers that the letter is in Cyrillic (Windows) encoding, although it is in K0I8-R encoding. <br /> To solve this problem, I set the Outlook settings as shown in the slide below. After that, the letters stopped magically changing their appearance. </p>
+<p style = "clear: both"> <img src = "https://onix.me/wp-content/uploads/2018/02/Outlook_2-300x105.jpg" /> </p>
+<h3> Leave a comment <small> Cancel reply </small> </h3>
+<p> You must be logged in to post a comment. </p>
+

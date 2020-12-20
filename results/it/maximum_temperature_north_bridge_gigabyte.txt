@@ -1,0 +1,144 @@
+<h1> Bridge on the motherboard </h1>
+<p> The operation of various nodes of a personal computer (PC) is provided using special control schemes. The modern level of development of miniaturization of components makes it possible to combine similar control circuits in one microcircuit product, called a chip. </p>
+<p> There may be several such chips on the motherboard (MP); they are called bridges, by analogy with the transport function of bridges. Traditionally, the chip that works with high-speed PC components is called the North Bridge (SM), and all other components are connected to the South Bridge (YB). </p>
+<p> In this article, we will look at what North and South bridges are, what role they play in a PC, where they are and how to diagnose them. </p>
+<p style = "clear: both"> <img src = "https://wi-tech.ru/wp-content/uploads/2018/10/Most-na-plate.jpg" /> </p>
+<h2> What are motherboard bridges responsible for </h2>
+<p> These devices have their own role in ensuring the operation of certain PC nodes, consider what each of them does. </p>
+<h3> North </h3>
+<p> The answer to the question, what is the north bridge on a motherboard, in fact, this is the answer, what kind of motherboard we have. The main functions of the motherboard are laid down in it. It provides data exchange between the processor and memory, as well as high-speed external devices connected to PCI and PCI-E buses. </p>
+<p> The function of the north bridge on a laptop motherboard is similar to its function on a PC board, with the only difference that a laptop video card can be built into it. </p>
+<h3> Southern </h3>
+<p> UM functions are to ensure the correct operation of all other devices included in the PC, or connected to it. These include: </p>
+<p> <ul>
+  <li> USB devices; </li>
+  <li> hard drives; </li>
+  <li> various storage media; </li>
+  <li> input and output devices; </li>
+  <li> sound cards; </li>
+  <li> etc. </li>
+</ul>
+</p>
+<p style = "clear: both"> <img src = "https://wi-tech.ru/wp-content/uploads/2018/10/Za-chto-otvechayut-mosty-na-materinskoj-plate.png "/> </p>
+<h2> Where are located </h2>
+<p> These devices are located near the locations of the components they are responsible for ensuring their operation. In the place where the CPU is located, there is also the north bridge, where the periphery is located - the south one. </p>
+<h3> South Bridge </h3>
+<p> YUM is located in the lower right part of the motherboard, as close as possible to the SATA, USB and other peripheral connections. </p>
+<h3> Northbridge </h3>
+<p> The north bridge on the motherboard is located at the top of the motherboard, as close as possible to the processor and its power circuit. </p>
+<blockquote> <p> Important! About 10 years ago, almost all of the CM functions were moved to the processor. All modern processors have a built-in memory access controller and a system bus shaper. The need for a special chipset, placed in a separate microcircuit on the MP, disappeared by itself. </p> </blockquote>
+<h2> Checking the south bridge </h2>
+<p> Full diagnostics of YM is quite complicated and requires the use of special equipment, however, preliminary diagnostics can be carried out at home. </p>
+<p> Consider how to check YM using a minimum of available tools. As such, you can use an ordinary Chinese multimeter. The most common reason for the failure of the UM is the burnout of the power circuits, in which the power signal is "short-circuited" to the common wire. </p>
+<p> You can check this by measuring the resistance of the power circuits leaving the YM. This is best done using USB connectors. We transfer the multimeter to the resistance measurement mode and measure the resistance between the 1st and 7th, as well as between the 2nd and 8th legs of the USB connector. These legs are always signed, so there shouldn't be any problem. </p>
+<p> If YM is in order, the resistance should be of the order of several hundred Ohms, if it is significantly less (units of Ohms or even 0), then YM is out of order. </p>
+<p style = "clear: both"> <img src = "https://wi-tech.ru/wp-content/uploads/2018/10/Proverka-yuzhnogo-mosta.jpg" /> </p>
+<h2> Checking the North Bridge </h2>
+<p> Any malfunction of the CM is critical for the operation of the PC, so its diagnosis is elementary: if the computer starts up and starts to boot, then the CM works, otherwise it does not. Naturally, the rest of the components (processor, memory, video card, etc.) must be guaranteed to be in good working order so as not to mistake their malfunction for a false SM malfunction. </p>
+<h2> Why bridges are heated and what to do </h2>
+<p> Any semiconductor components are heated from exceeding the normal value of the current flowing through them. This may be due to the increase in the number of connected devices, the use of both software and hardware overclocking, poor ventilation conditions, etc. </p>
+<p> We should separately talk about emergency situations. For example, overloads due to improper connection of external devices (too much power consumption via SATA or USB ports, short circuits in these ports, connection errors, etc.). In case </p>
+<p> When such a situation arises, the time counts for minutes, and often for seconds. Therefore, it is better to simply avoid them. </p>
+<h3> South bridge warming up </h3>
+<p> This situation occurs quite often, since it is the YM that is responsible for the operation of the entire periphery, moreover, unlike the northern one, to which only the processor, bus and memory are connected, everything else is connected to the southern one. </p>
+<p> The best way to reduce the temperature of the UM is to reduce the load on it by disconnecting additional devices, for example, from the USB bus. However, if the tasks of a PC include working with a large number of peripherals, this, of course, cannot be done. </p>
+<p> Therefore, you will have to look for another solution. The simplest thing is to replace the YM heatsink (and sometimes not to replace, but to install, since the low heat generation on the YM often does not require a heatsink at all). </p>
+<p> For this purpose, it is necessary to find a radiator of suitable dimensions and install it on the YuM microcircuit using hot melt glue. </p>
+<blockquote> <p> Attention! The use of thermal paste, as is the case with a processor or video card, is not enough, since there are no clips in the fastening mechanism of the bridge cooling system, and the adhesive properties of the paste are not enough to hold the heat sink mass. </p> </blockquote>
+<p> <iframe src = "https://www.youtube.com/embed/6FVFWxM0cwU?feature=oembed"> </iframe> </p>
+<h3> Northbridge warming up </h3>
+<p> Very often you have to read on forums and in social media. networks: “Help! The north bridge is getting very hot, what to do? " The answer to this question is very simple: in 90% of cases nothing needs to be done. For SM, working at elevated temperatures is the norm. </p>
+<p> Another thing is when the temperature rises so much that it triggers the internal protection and disables the bridge, and with it the entire PC. </p>
+<p> There can be only one solution in this situation: to improve the bridge cooling system. This can be done in two ways: by altering the passive cooling system or by installing an active one. </p>
+<p> Alteration of the passive cooling system consists in changing the radiator to a more massive one or having a larger dissipation area. This difference is noticeable even visually. Separate the old heatsink from the chipset, remove the rest of the connecting compound and glue the new heatsink with hot melt glue. </p>
+<p> If you replace the radiator with a cooler (a heatsink-fan bundle), you can significantly reduce the temperature of the microcircuit. For this purpose, you can use any cooler with a fan diameter of 30 to 60 mm. </p>
+
+<H1> Review of GIGABYTE GA-880GA-UD3H rev 2.0 motherboard </H1>
+<p> Multifunctional balanced solutions are always in the greatest demand in the computer components market. Today we will talk about one of the products of this particular class from GIGABYTE and find out if it is able to win the heart of the mass consumer. So, in this review we will focus on the GIGABYTE GA-880GA-UD3H motherboard for the AM3 platform. This motherboard is based on the AMD 880G system logic set, which was first reviewed by us in the review of the ASUS M4A88TD-V EVO / USB3 motherboard, where, by the way, you can familiarize yourself with the full characteristics of the chipset. Here we recall its most characteristic features: the presence of an integrated ATI Radeon HD 4250 video core, operating at a frequency of 560 MHz, and a complete transition to the SATA 6.0 Gb / s standard, which is implemented by the AMD SB850 south bridge, because it is with this core that most motherboards on AMD eighth series chipsets. As for the heroine of our review, the GIGABYTE GA-880GA-UD3H motherboard, its high functionality, provided by a set of system logic, is successfully supplemented by support for a high-speed USB 3.0 interface using a third-party chip, as well as a proprietary Auto Unlock function for unlocking hidden processor cores. In addition, the GIGABYTE GA-880GA-UD3H motherboard configuration offers as many as seven expansion slots, including two PCI Express 2.0 x16. As a result, we have a good combination of all the technologies that are in demand, but in order to find out whether this product really turned out to be highly functional and balanced, let's go directly to the review of the GIGABYTE GA-880GA-UD3H motherboard. </p>
+<p style = "clear: both"> <img src = "https://ru.gecid.com/mboard/gigabyte_ga-880ga-ud3h/data/mboard/201009120000-2179/img/01.jpg" /> < / p>
+<p> GIGABYTE GA-880GA-UD3H Motherboard Specifications: </p>
+<p> AMD 880G + AMD SB850 </p>
+<p> AMD Phenom II / AMD Athlon II </p>
+<p> DDR3 1866 (OC) / 1333/1066 MHz </p>
+<p> 4 x 1.5V DDR3 DIMM slots supporting up to 16GB of memory. <br /> Dual channel memory architecture. ECC memory support. </p>
+<p> 1 x PCI Express 2.0 x16 (16 lanes) <br /> 1 x PCI Express 2.0 x16 (4 lanes) <br /> 3 x PCI <br /> 2 x PCI Express x1 </p>
+<p> ATI Radeon HD 4250 integrated into AMD 880G Northbridge <br /> 1 x D-Sub port <br /> 1 x DVI-D port <br /> 1 x HDMI </p>
+<p> SB850 Chipset: <br /> 6 x SATA 6.0 Gb / s with SATA RAID 0, 1, 5, 10, JBOD support </p>
+<p> GIGABYTE SATA2 Chip: <br /> 2 x SATA 3.0 Gb / s with support for SATA RAID 0, 1, JBOD <br /> 1 x IDE with support for dual ATA 133/100/66/33 </p>
+<p> iTE IT8720 Chip: <br /> 1 x FDD </p>
+<p> Realtek 8111D (10/100/1000) Mbps LAN Controller </p>
+<p> Realtek ALC892 8-Channel High-Definition Audio Codec </p>
+<p> 24-pin ATX power connector <br /> 8-pin ATX12V power connector </p>
+<p> Aluminum radiator on the north bridge; <br /> aluminum radiator on the south bridge. </p>
+<p> Fan connectors </p>
+<p> 1 x CPU <br /> 2 x case fans <br /> 1 x Power </p>
+<p> External I / O ports </p>
+<p> 1 x PS / 2 (keyboard / mouse) <br /> 1 x DVI <br /> 1 x VGA <br /> 1 x HDMI <br /> 1 x LAN (RJ45) port <br /> 1 x S / PDIF optical output <br /> 4 x USB 2.0 / 1.1 <br /> 2 x USB 3.0 / 2.0 <br /> 1 x IEEE 1394a <br /> 8 channel audio output </p>
+<p> Internal I / O Ports </p>
+<p> 4 x USB 2.0 / 1.1 <br /> 1 x S / PDIF out <br /> 1 x S / PDIF in <br /> 6 x SATA 6.0 Gb / s <br /> 2 x SATA 3.0 Gb / with <br /> 2 x IEEE 1394a <br /> 1 x IDE <br /> 1 x floppy disk drive <br /> 1 x COM <br /> Front panel audio connectors <br /> System panel connector </ p >
+<p> 2 x 8 MB ROM <br /> AWARD BIOS PnP 1.0a, DMI 2.0, SM BIOS 2.4, ACPI 1.0b </p>
+<p> @BIOS <br /> Q-Flash <br /> Xpress BIOS Rescue <br /> Download Center <br /> Xpress Install <br /> Xpress Recovery2 <br /> EasyTune (Note 7) <br /> Easy Energy Saver <br /> Smart Recovery <br /> Time Repair <br /> Q-Share <br /> Auto Green </p>
+<p> User manual <br /> 2 x SATA cables <br /> 1 x UltraDMA 100/66/33 cable <br /> rear panel blank <br /> CD with drivers and utilities </p>
+<p> Form factor, <br /> Dimensions, mm </p>
+<p> New BIOS and driver versions can be downloaded from the support page. </p>
+<p style = "clear: both"> <img src = "https://ru.gecid.com/mboard/gigabyte_ga-880ga-ud3h/data/mboard/201009120000-2179/img/02.jpg" /> < / p>
+<p> The GIGABYTE GA-880GA-UD3H motherboard is packed in a strikingly designed cardboard box with many inscriptions and brand emblems. All the main functions and technologies supported by this product are declared on the front side of the package, while the main emphasis is placed on the fact that this board belongs to the "333" series, the logo of which occupies a significant part of the front side of the package.
+<p style = "clear: both"> <img src = "https://ru.gecid.com/mboard/gigabyte_ga-880ga-ud3h/data/mboard/201009120000-2179/img/03.jpg" /> < / p>
+<p> The reverse side of the package is even more saturated with various information about the capabilities of the motherboard. It details the 333 series features (USB 3.0; SATA 3.0; 3xUSB Power Boost) and mentions all the other key features of the GIGABYTE GA-880GA-UD3H. </p>
+<p style = "clear: both"> <img src = "https://ru.gecid.com/mboard/gigabyte_ga-880ga-ud3h/data/mboard/201009120000-2179/img/04.jpg" /> < / p>
+<p> GIGABYTE GA-880GA-UD3H motherboard package includes the following items: </p>
+<p> <UL>
+  <li> user manual; </li>
+  <li> 2x SATA cables; </li>
+  <li> 1x UltraDMA 100/66/33 cable; </li>
+  <li> I / O Shield back cover; </li>
+  <li> CD with drivers and utilities. </li>
+</UL>
+</p>
+<p> Despite the fact that everything you need to assemble and start a PC is present here, the package bundle could have been richer, since this board is still positioned as a multifunctional product. </p>
+<p style = "clear: both"> <img src = "https://ru.gecid.com/mboard/gigabyte_ga-880ga-ud3h/data/mboard/201009120000-2179/img/05.jpg" /> < / p>
+<p style = "clear: both"> <img src = "https://ru.gecid.com/mboard/gigabyte_ga-880ga-ud3h/data/mboard/201009120000-2179/img/06.jpg" /> < / p>
+<p> The GIGABYTE GA-880GA-UD3H motherboard under review has a second revision printed circuit board, is made on a dark blue PCB and belongs to the ATX form factor. The layout of elements and connectors of the GIGABYTE GA-880GA-UD3H is generally successful. The RAM slots are far enough away from the upper PCI Express 2.0 x16 slot, so there should be no obstacles when replacing memory modules and the installed oversized video card. The location of the connectors for the main and additional power supply was chosen quite well along the edges of the board. The front panel and internal USB ports are soldered in the lower right corner of the board and are easy to use. The SATA ports are horizontally positioned, which allows them to be used when installing long video cards, but this will not be convenient in small cases. Another advantage of the GIGABYTE GA-890GPA-UD3H layout is that the cooling system behind the PCI Express x1 slot has a special shape, which should allow installing long expansion cards with the appropriate interface in the slot. </p>
+<p style = "clear: both"> <img src = "https://ru.gecid.com/mboard/gigabyte_ga-880ga-ud3h/data/mboard/201009120000-2179/img/07.jpg" /> < / p>
+<p> GIGABYTE GA-880GA-UD3H motherboard uses SB850 southbridge. The capabilities of this chip assume support for six SATA 6.0 Gb / s ports at once, with which you can organize RAID arrays of levels 0, 1, 5 and 10. Also, the south bridge is responsible for the functioning of 14 USB 2.0 ports. The tested motherboard has only 12 USB 2.0 ports, and two more are USB 3.0 and are controlled by a separate chip. The USB ports are distributed as follows: 4 on the rear panel and 4 internal (each of which can lead to two connectors). </p>
+<p> In addition to the potential of the south bridge SB850, the capabilities of the motherboard storage subsystem have been expanded with three microcircuits: </p>
+<p style = "clear: both"> <img src = "https://ru.gecid.com/mboard/gigabyte_ga-880ga-ud3h/data/mboard/201009120000-2179/img/08.jpg" /> < / p>
+<p> <UL>
+  <li> GIGABYTE SATA2 </li>
+  <li> NEC D720200F1 </li>
+  <li> iTE IT8720 </li>
+</UL>
+</p>
+<p> The GIGABYTE SATA2 Chip implements support for two SATA 3.0 Gb / s ports with support for SATA RAID 0, 1, JBOD and includes an IDE controller with support for two ATA 133/100/66/33 devices. The NEC D720200F1 chip provides support for two USB 3.0 ports, which are brought out to the rear panel and are marked in blue. Finally, the iTE IT8720 chip is responsible for supporting the floppy drive. </p>
+<p style = "clear: both"> <img src = "https://ru.gecid.com/mboard/gigabyte_ga-880ga-ud3h/data/mboard/201009120000-2179/img/09.jpg" /> < / p>
+<p> Expand the functionality of the GIGABYTE GA-880GA-UD3H motherboard with seven expansion slots. They are distributed as follows: 2 x PCI Express x1, 2 x PCI Express x16 and 3 x PCI. Unfortunately, only 4 PCI lanes are allocated for the second PCI Express 2.0 x16 slot. However, this motherboard is configured to support up to two video cards connected by ATI CrossFireX technology. </p>
+<p style = "clear: both"> <img src = "https://ru.gecid.com/mboard/gigabyte_ga-880ga-ud3h/data/mboard/201009120000-2179/img/10.jpg" /> < / p>
+<p> The GIGABYTE GA-880GA-UD3H motherboard comes with four 240-pin DIMM DDR3 DDR3 memory slots, limited to 16GB. </p>
+<p style = "clear: both"> <img src = "https://ru.gecid.com/mboard/gigabyte_ga-880ga-ud3h/data/mboard/201009120000-2179/img/11.jpg" /> < / p>
+<p> The board uses the AMD 880G Northbridge, the key feature of which is the integrated ATI Radeon HD 4250 video core, which is the "younger brother" of the most powerful integrated solution ATI Radeon HD 4290 today. The ATI Radeon HD 4250 video core is in many ways similar to the Radeon HD 4290, has 40 stream processors, supports Microsoft DirectX 10.1, but operates at a reduced frequency of 560 MHz, as opposed to 700 MHz in the more powerful Radeon HD 4290. </p>
+<p style = "clear: both"> <img src = "https://ru.gecid.com/mboard/gigabyte_ga-880ga-ud3h/data/mboard/201009120000-2179/img/12.jpg" /> < / p>
+<p> The GIGABYTE GA-880GA-UD3H motherboard uses not the most powerful at first glance 4 + 1-phase processor voltage regulator, which, however, includes only high-quality components - polymer-type capacitors and ferromagnetic chokes. Additional power to the processor is provided by an 8-pin ATX12V connector. Taken together, such a circuit is enough to power even the powerful six-core Phenom II X6 processors. </p>
+<p style = "clear: both"> <img src = "https://ru.gecid.com/mboard/gigabyte_ga-880ga-ud3h/data/mboard/201009120000-2179/img/13.jpg" /> < / p>
+<p> The motherboard cooling system consists of two aluminum radiators. One, of a very impressive size, is installed on the AMD 880G northbridge chip. The second radiator has a modest size and covers the SB850 southbridge. If you need to change the thermal interface, the cooling system of the motherboard can be dismantled, although the heatsinks are attached to the board using not very convenient plastic clips. In general, we can say that the cooling system of the GIGABYTE GA-880GA-UD3H motherboard adequately copes with its task, since during testing it did not stand out with increased heating - the maximum temperature of the north bridge under load on the integrated video core was 46 ° C, and the south the bridge warmed up to 40.5 ° C. </p>
+<p style = "clear: both"> <img src = "https://ru.gecid.com/mboard/gigabyte_ga-880ga-ud3h/data/mboard/201009120000-2179/img/14.jpg" /> < / p>
+<p> Continuing the topic of cooling, it is worth noting that on the back of the board, as it should be, there is a special support plate that prevents the motherboard from bending when installing CPU coolers. </p>
+<p style="clear: both"><img src="https://ru.gecid.com/mboard/gigabyte_ga-880ga-ud3h/data/mboard/201009120000-2179/img/15.jpg" /></p>
+<p>Звуковая подсистема основана на HDA-кодеке 8-канального звука ALC892R, а для поддержки сетевых соединений служит гигабитный LAN-контроллер Realtek RTL811D.</p>
+<p style="clear: both"><img src="https://ru.gecid.com/mboard/gigabyte_ga-880ga-ud3h/data/mboard/201009120000-2179/img/16.jpg" /></p>
+<p>На заднюю панель GIGABYTE GA-880GA-UD3H выведены следующие интерфейсные порты:</p>
+<p><UL>
+  <li>1 разъем PS/2 для клавиатуры или мыши;</li>
+  <li>1 разъем VGA (D-SUB);</li>
+  <li>1 разъем DVI</li>
+  <li>1 разъем HDMI</li>
+  <li>оптический S/PDIF</li>
+  <li>4 разъемов USB 2.0/1.1;</li>
+  <li>2 разъема USB 3.0/2.0;</li>
+  <li>1 разъем IEEE 1394a</li>
+  <li>разъем RJ45 для сетевых соединений;</li>
+  <li>6 аналоговых разъемов для подключения 8-канального звука.</li>
+</UL>
+</p>
+<p>Приятной особенностью платы является наличие сразу трех различных видеоинтерфейсов на задней панели, что поможет к плате подключить практически любой монитор.</p>
+<p>BIOS материнской платы GIGABYTE GA-880GA-UD3H разработана на коде Award и имеет достаточное количество настроек, с помощью которых можно производить разгон системы.</p>
+

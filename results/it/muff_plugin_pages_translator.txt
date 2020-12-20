@@ -1,0 +1,92 @@
+<h1> Translator for Firefox </h1>
+<p> Every Internet user sooner or later comes across foreign Internet resources. And here the problem of the language barrier arises, for a person who does not have knowledge of a foreign language, or with insufficient knowledge of it, it will be difficult to understand the menu of this or that Internet portal or understand its contents. Accordingly, there is an urgent need to translate text from a foreign resource on the global Internet. </p>
+<p style = "clear: both"> <img src = "https://firefox-downloads.ru/wp-content/uploads/2017/09/perevodchik-for-firefox-2.jpg" /> </ p >
+<h2> How to translate a page in Mozile into Russian </h2>
+<p> Unfortunately, the standard version of the Internet browser Mozilla Firefox does not automatically translate the text portion of the website, but this should not be a reason to change the browser. </p>
+<p> There are a large number of services for online conversion of web pages from one language to another, as well as an equally extensive list of software modules that can "teach" the user's browser to translate text from various foreign sites. </p>
+<p> There are several solutions and methods to translate pages in Firefox. </p>
+<p> Of these, there are two most common types of translation of pages from a foreign language into Russian. The difference between them lies in converting the entire text of the site or of a specific fragment of printed material that interests the user. Of course, no one talks about professional translation, which takes into account all the nuances of a particular field of activity, but in order to understand the general meaning of the text of a web resource, this should be enough (especially since the average user, with a small percentage of exclusion, often does not encounter with difficult to read professional and technical documentation). </p>
+<p style = "clear: both"> <img src = "https://firefox-downloads.ru/wp-content/uploads/2017/09/perevodchik-for-firefox-3.jpg" /> </ p >
+<p> The most popular among visitors to the World Wide Web is the translator plugin for Firefox. There are many different plugins, about six hundred. </p>
+<p> Consider one of the most popular options for such an add-on - S3. Google Translator. </p>
+<p> First, in the Mozilla Firefox browser menu, select the "Add-ons" tab. </p>
+<p style = "clear: both"> <img src = "https://firefox-downloads.ru/wp-content/uploads/2017/09/perevodchik-for-firefox-4.jpg" /> </ p >
+<p> Next, in the search line, type the word "translator". </p>
+<p style = "clear: both"> <img src = "https://firefox-downloads.ru/wp-content/uploads/2017/09/perevodchik-for-firefox-5.jpg" /> </ p >
+<blockquote> <p> Note: It does not matter in which language the word will be entered during the search. </p> </blockquote>
+<p> Then we search, find the online translator you like and click on the "Install" button. </p>
+<p style = "clear: both"> <img src = "https://firefox-downloads.ru/wp-content/uploads/2017/09/perevodchik-for-firefox-6.jpg" /> </ p >
+<p> The final stage for the installed application, activation via reboot of the extension is required. To do this, you need to perform the action "Restart now". </p>
+<p style = "clear: both"> <img src = "https://firefox-downloads.ru/wp-content/uploads/2017/09/perevodchik-for-firefox-7.jpg" /> </ p >
+<p> After all the above steps, for online translation of the content of Internet resources, you will need to click on the translator icon and select the item of interest for converting text from a foreign language into your native language or any other readable one: </p>
+<p style = "clear: both"> <img src = "https://firefox-downloads.ru/wp-content/uploads/2017/09/perevodchik-for-firefox-8.jpg" /> </ p >
+<h3> Translating a piece of text </h3>
+<p> In order to translate a fragment of text, the user needs to select the text of interest, select the action "Translate selected text". At the bottom of the page, a translator window will pop up, where you need to specify the language into which you want to translate the information of interest. Then press the "translate" button. </p>
+<p style = "clear: both"> <img src = "https://firefox-downloads.ru/wp-content/uploads/2017/09/perevodchik-for-firefox-9.jpg" /> </ p >
+<h3> Translation of the entire text from an Internet resource in a foreign language </h3>
+<p> To be able to translate all the text, you need to select the action "translate the page". A translator line will pop up at the top of the page, where you need to specify the language into which you want to translate the page. </p>
+<p style = "clear: both"> <img src = "https://firefox-downloads.ru/wp-content/uploads/2017/09/perevodchik-for-firefox-10.jpg" /> </ p >
+<p> Thanks to the variety of additional permissions, the user can experiment with different applications and choose the most convenient tool from the available offers. Any extension for Mozilla Firefox can be easily added or removed, in case of uselessness. </p>
+
+<h1> Translators for Mozilla Firefox browser </h1>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://lumpics.ru/wp-content/uploads/2016/08/Perevodchiki-dlya-Firefox-6.png" /> <br /> Despite the development of Runet, most of the interesting content is still hosted on foreign resources. Don't know the language? This is not a problem if you install one of the suggested translators for Mozilla Firefox. </p>
+<p> Translators for Mozilla Firefox are special add-ons built into the browser that allow you to translate both individual fragments and entire pages, while completely preserving the previous formatting. </p>
+<h2> S3.Google Translate </h2>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2016/08/Perevodchiki-dlya-Firefox.png" /> </p>
+<p> An excellent translator powered by the popular Google translator. </p>
+<p> Allows you to translate both user-selected fragments and entire pages. Given the number of languages ​​supported, the user will not have problems translating a particular foreign page. </p>
+<h2> Translate This! </h2>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2016/08/Perevodchiki-dlya-Firefox-2.png" /> </p>
+<p> An add-on, which is essentially a link to Google Translate. </p>
+<p> After installing the add-on, you only need to click on the add-on icon after going to a foreign page, after which a new tab will be created in Mozilla Firefox, which will redirect you to the Google service page and display the page translation. </p>
+<h2> Google Translator for Firefox </h2>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2016/08/Perevodchiki-dlya-Firefox-3.png" /> </p>
+<p> A simple and effective page translator for Firefox, using, of course, the Google Translate service. </p>
+<p> This plugin-translator for Firefox allows you to translate both separately selected text fragments and entire web pages. In this case, as in the previous version, the translated page will be displayed in a new tab on the page of the Google Translate service. </p>
+<h2> ImTranslator </h2>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2016/08/Perevodchiki-dlya-Firefox-4.png" /> </p>
+<p> A functional translator for Mazila, which can both translate web pages and display a miniature translator window, in which the user can translate text into one of 90 languages. </p>
+<p> The service is notable for the fact that it has a fairly wide list of settings, which allows you to fine-tune the operation of the service to your own requirements. </p>
+<h2> Online Translator </h2>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2016/08/Perevodchiki-dlya-Firefox-5.png" /> </p>
+<p> This add-on is an excellent choice if you need to consult a translator on an ongoing basis. </p>
+<p> The fact is that Online Translator is a toolbar that is embedded in the browser header. Using this panel, you can instantly translate a single word or phrase, or translate an entire web page with just one click. </p>
+<p> The add-on, like other translator add-ons, uses the Google Translate service to perform translation, which means you can be sure of the quality of the result. </p>
+<p> And a small summary. Translator for Mozilla Firefox is one of the useful add-ons that must be installed in this browser. And even though there is no official solution from Google for this browser, all add-ons implemented by third-party developers successfully use the capabilities of Google Translate. </p>
+<p> Thank the author, share the article on social networks. </p>
+
+<h1> Translator for Firefox </h1>
+<p> Every user of the global network sooner or later comes across a foreign site without a Russian translation of the text on it. Such a language barrier prevents people from freely receiving the information they need, and, as a rule, is the reason for the low popularity of foreign language resources among a huge Russian-speaking audience. Alas, not all browsers initially have such a function. In this case, the <strong> page translator for Firefox is an excellent solution to the language barrier problem. <br /> </strong> </p>
+<h2> Available solutions </h2>
+<p> We will look at the key plugins that offer the desired functionality. In particular, we will talk about two main projects: Google Translate for Firefox and y-Translate-webext. Let's take a look at how to install and use them. </p>
+<h3> Google Translate </h3>
+<p> This is a translator extension for Firefox based on a service from Google. It can be used to translate sites from dozens of languages, select certain parts of the text or entire sites for translation. </p>
+<p style = "clear: both"> <ol>
+  <li> Go to the site with browser add-ons: https://addons.mozilla.org/en/firefox/addon/google-translator-for-firefox/?src=search. </li>
+  <li> Click on the blue button. <strong> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://firefx.ru/wp-content/uploads/2019/05/Ustanovit-Google-Translator-dlya-Firefox.png" /> </strong> </li>
+  <li> Confirming the installation procedure. </li>
+  <li> Restart the browser just in case. </li>
+</ol>
+</p>
+<p> You can use the extension as follows: </p>
+<p style = "clear: both"> <ol>
+  <li> We are going to a foreign Internet resource that we want to translate. </li>
+  <li> Select the required piece of text on the page. </li>
+  <li> Right click on it. </li>
+  <li> Hover over the last item. </li>
+  <li> Select the option you want. <strong> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://firefx.ru/wp-content/uploads/2019/05/Ispolzovat-rasshirenie-Google-Translator-dlya-Firefox.png" /> </strong> </li>
+  <li> A new page with source and processed text will open. </li>
+</ol>
+</p>
+<h3> y-Translate-webext </h3>
+<p> There are also special plugins for translating text in Firefox when hovering over the text of a web page: </p>
+<p style = "clear: both"> <ol>
+  <li> Go to https://addons.mozilla.org/en/firefox/addon/y-translate-webext/. </li>
+  <li> Start the installation procedure. <strong> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://firefx.ru/wp-content/uploads/2019/05/Ustanovit-y-Translate-webext-dlya-Firefox.png" /> </strong> </li>
+  <li> Confirm it and restart the browser. </li>
+</ol>
+</p>
+<p style = "clear: both"> This plugin does not need additional configuration. Just go to the desired web page, hover over the word and see its translation. <strong> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://firefx.ru/wp-content/uploads/2019/05/Ispolzovat-rasshirenie-y-Translate-webext-dlya-Firefox.png" /> </strong> To view the value a single word, but a whole sentence or paragraph, you need to select the text with the right mouse button and move the arrow over the selected text. </p>
+<h2> Conclusion </h2>
+<p> We have offered you two extensions for automatic translation of pages for Mozilla Firefox. But in reality there are many more, just these two are among the most popular. But you can easily find a more suitable add-on yourself if they do not suit you. </p>
+

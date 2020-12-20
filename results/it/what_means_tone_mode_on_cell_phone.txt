@@ -1,0 +1,48 @@
+<h1> Phone tone mode - what is it and how do I switch to it? </h1>
+<p> How to open tonal character set on Andro> </p>
+<p> When we call a mobile operator or an online store, a pre-recorded voice asks to select the desired service. To do this, you must enter a number - from 0 to 9. For example, to get detailed information about a new tariff plan, press 2, to buy a product or use a service, press 4. </p>
+<p> In such cases, carriers often ask to switch the phone to tone mode, also known as Dual-Tone Multi-Frequency, a two-tone analog signal with a large number of frequencies that is used for your phone number. The main advantage of the tone mode is the high speed of dialing. </p>
+<h2> How do I switch my phone to tone mode? </h2>
+<p> Modern smartphones work in tonal mode by default. To start navigation in the interactive voice menu, you must open the menu set of numbers. Most often, this is the "Keys" and "Numbers" button, which is displayed on the display during a telephone conversation. When the section with the keys (on-screen keyboard) opens - click on the number that corresponds to the desired action. </p>
+<p style = "clear: both"> <img src = "https://androidlime.ru/wp-content/uploads/2019/09/phone-tone-mode.jpg" /> </p>
+<p> The same goes for classic push-button telephones - they work in tone mode. There is no need to perform any additional actions: just press the desired number on the keyboard. In this case, you do not need to call the softkeys - they are located on the device itself. </p>
+<p> </p>
+<p> Tone mode can also be activated on landline phones. Most of them work in pulse mode. During a call, when the operator asks to activate the tone mode, press the star and wait a few seconds - 2-3 seconds is enough. Then release the star button. Now you can interact with the interactive menu by pressing the desired numbers on the desk phone keypad. </p>
+
+<h1> How do I put my phone in tone mode (tone mode)? </h1>
+<p style = "clear: both"> <img src = "https://androfon.ru/wp-content/uploads/2019/10/st631_14_07_10_19_0.jpg" /> </p>
+<p> When you call an online store, a mobile operator, a firm or a company, it is often suggested to switch the phone to a tone or tone mode. What this mode is, why and how to transfer the phone, you will learn from this material. </p>
+<h2> What is tone mode </h2>
+<p> There are two types of signals that are transmitted to the PBX when dialing a phone number: tone and pulse. </p>
+<p> When dialing numbers in tone mode, an analog signal is used, which all digital exchanges can receive. This method is the most progressive and is used in all modern telephone devices. </p>
+<p> Pulse mode is a method in which the digits of the dialed number are transmitted through serial closure and pulse generation. Many users could find such phones 10-15 years ago, where dialing was done using a disk. With each transfer of the disc, clicks were heard in the tube. The number of clicks matched the selected digit, and only 0 produced 10 clicks. There were also push-button versions of pulse telephones. </p>
+<p style = "clear: both"> <img src = "https://androfon.ru/wp-content/uploads/2019/10/st631_14_07_10_19_01-30x25.jpg" /> </p>
+<p> Pulse dialing phone. </p>
+<p> It should be noted that pulse dialing is obsolete and almost never used. Devices that support this mode are not available or are only manufactured in combination with the tone method. </p>
+<h2> Where is tone mode used </h2>
+<p> Tone mode is mainly used for communication between telecommunication devices: connection setup, support and termination. And tones are also used when manually entering commands in interactive systems, for example, voice auto answer. Such systems are used by mobile operators and various companies to navigate the voice menu. Thanks to this, the user has access to various information, the ability to order or cancel certain services. </p>
+<h2> How to set the phone to tone mode </h2>
+<p> Most modern telecommunications equipment, including cell phones, smartphones and tablets, initially transmit a signal in tone mode. Therefore, if the automatic system recommends switching the telephone to tone mode when making a call, you do not need to do anything. You must press the button to display the dial or press the keyboard key to go to another menu or select a specific action. </p>
+<p> If the phone supports both modes, to switch to tone mode, press the button with the hash symbol "#". In some models of fixed telephones there is a corresponding button for switching the device to tone mode. Typically, such a button is labeled "Tone", "Tone" or "(T / I)". </p>
+<h2> Output </h2>
+<p> Now you know how to put your phone into tone mode (tone mode). This dialing mode is used in the vast majority of telecommunications equipment. When using a smartphone, it is enough to display the dial and press the corresponding numbers. For legacy or generic models, simply press the hash on your keyboard or press the corresponding button. </p>
+<p> Do you often use tone mode? Leave your comments at the bottom of the article. </p>
+<p> <strong> Was this article helpful? </strong> </p>
+<p> Rate it - support the project! </p>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://androfon.ru/wp-content/plugins/wp-postratings/images/stars_flat(png)/rating_on.png" /> <img style = "float: left; margin: 0 10px 5px 0; " src = "https://androfon.ru/wp-content/plugins/wp-postratings/images/stars_flat(png)/rating_on.png" /> <img style = "float: left; margin: 0 10px 5px 0; " src = "https://androfon.ru/wp-content/plugins/wp-postratings/images/stars_flat(png)/rating_on.png" /> <img style = "float: left; margin: 0 10px 5px 0; " src = "https://androfon.ru/wp-content/plugins/wp-postratings/images/stars_flat(png)/rating_on.png" /> <img style = "float: left; margin: 0 10px 5px 0; " src = "https://androfon.ru/wp-content/plugins/wp-postratings/images/stars_flat(png)/rating_half.png" /> (<strong> 3 </strong> ratings, average: <strong> 4.33 </strong> out of 5) <br /> </p>
+
+<h1> What is phone tone mode? </h1>
+<p style = "clear: both"> <img src = "https://androidnik.ru/wp-content/uploads/2016/11/tonalnyj-rezhim-telefona-chto-eto-150x150.png" /> < / p>
+<p> Imagine this situation: you are calling the customer support service of, say, an Internet provider. To get exactly to the support service, and not the sales service, you need to switch the phone to tone mode and dial a number. It is then that some users fall into a stupor - they say, what else is the tone mode and how to switch the phone to it? </p>
+<p> Tone mode (DTMF, Dual-Tone Multi-Frequency) is a two-tone multi-frequency analog signal that is used for a telephone number. </p>
+<p> There is another type of mode - impulse, it is outdated and used very rarely. The main advantage of the tone mode over the pulse mode is the dialing speed, it is much higher. </p>
+<h2> How do I switch my phone to tone mode? </h2>
+<p> If you are calling from a mobile phone or from a smartphone, then no way. The fact is that mobile devices initially work in tone mode. Accordingly, if the autoinformer asks you to switch the phone to tone mode, you simply ignore this message and press the desired number on your smartphone to connect to the operator. </p>
+<p style = "clear: both"> <img src = "https://androidnik.ru/wp-content/uploads/2016/11/tonalnyj-rezhim-telefona-chto-eto1.jpg" /> </ p >
+<p> If a call comes from a landline phone, most likely, it works in a pulse mode, since most Russian PBXs operate in this mode. Typically, tone mode is activated by pressing the * (asterisk) key. In some cases, the telephone has separate buttons for two modes - P and T, respectively. </p>
+<blockquote> <p> Friends! If our site helped you or you just liked it, you can help us develop and move on. To do this, you can: </blockquote> </p>
+<p> <ul>
+  <li> Leave a comment on this article. </li>
+</ul>
+</p>
+

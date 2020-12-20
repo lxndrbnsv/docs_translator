@@ -1,0 +1,51 @@
+<h1> Online Binary Calculator </h1>
+<p> This calculator can perform the following operations on binary numbers: </p>
+<h2> Binary addition </h2>
+<p> The addition of two binary numbers is performed in a column bitwise. Starting with the least significant digit (right to left), as with column addition of decimal numbers. But since there are only two digits (0 and 1), their addition occurs according to the following rules: </p>
+<h3> Example </h3>
+<p> For example, add 1011 and 101: </p>
+<p> <table> <tr> <td rowspan = "2"> <b> + </b> </td> <td> 1 </td> <td> 0 </td> <td> 1 < / td> <td> 1 </td> </tr> <tr> <td> 1 </td> <td> 0 </td> <td> 1 </td> </tr> <tr> < td> 1 </td> <td> 0 </td> <td> 0 </td> <td> 0 </td> <td> 0 </td> </tr> </table> </ p >
+<h2> Subtract binary numbers </h2>
+<p> Subtraction of binary numbers is performed similarly to addition - column, but according to the following rules: </p>
+<h3> Example </h3>
+<p> For example, subtract 101 from 1011: </p>
+<p> <table> <tr> <td rowspan = "2"> <b> - </b> </td> <td> 1 </td> <td> 0 </td> <td> 1 < / td> <td> 1 </td> </tr> <tr> <td> 1 </td> <td> 0 </td> <td> 1 </td> </tr> <tr> < td> 1 </td> <td> 1 </td> <td> 0 </td> </tr> </table> </p>
+<h2> Binary multiplication </h2>
+<p> Multiplication of binary numbers is performed in a column similar to multiplication in decimal system, but according to the following rules: </p>
+<h3> Example </h3>
+<p> For example, let's multiply numbers 1011 and 101: </p>
+<p> <table> <tr> <td rowspan = "2"> <b> × </b> </td> <td> 1 </td> <td> 0 </td> <td> 1 < / td> <td> 1 </td> </tr> <tr> <td> 1 </td> <td> 0 </td> <td> 1 </td> </tr> <tr> < td rowspan = "3"> <b> + </b> </td> <td> 1 </td> <td> 0 </td> <td> 1 </td> <td> 1 </ td > </tr> <tr> <td> 0 </td> <td> 0 </td> <td> 0 </td> <td> 0 </td> </tr> <tr> <td> 1 </td> <td> 0 </td> <td> 1 </td> <td> 1 </td> </tr> <tr> <tr> <td> 1 </td> <td> 1 </td> <td> 0 </td> <td> 1 </td> <td> 1 </td> <td> 1 </td> </tr> </table> </p>
+<h2> Division of binary numbers </h2>
+<p> Externally, the division of binary numbers is similar to the division of decimal numbers, but there are some nuances: such division is performed by subtracting the divisor with a shift to the right if the remainder is greater than zero. To understand this process, consider an example: </p>
+
+<h1> Online Binary Addition </h1>
+<p> <strong> This online calculator is designed for addition, subtraction, division and multiplication of binary numbers online. </strong> </p>
+<table> <tr> <td> Set LIKE </td>
+</td> <td> and share the link </td> <td>
+<ul>
+  <li> Calculator </li>
+  <li> Instructions </li>
+  <li> Theory </li>
+  <li> History </li>
+  <li> Report a problem </li>
+</ul>
+<br />
+<p> <strong> How to use this calculator: </strong> The calculator has two input fields for entering binary numbers. The first field is for the first number, the second, respectively, for the second. </p>
+<p> Between these two fields, you need to choose what mathematical action you want to perform on them. You can add and subtract, as well as multiply or divide binary fractional numbers. </p>
+<p> You can use a period or comma to enter a binary fractional number. After entering numbers and choosing a mathematical operation on them, click the calculate button. And at the top of the page information will appear with the calculation result. </p>
+
+<h1> Addition of number systems </h1>
+<p> <b> To add two numbers in different or the same number systems, enter natural numbers and fill in the base of the number systems, also choose which number system to display the result in. </b> </p>
+<h2> Other online calculators </h2>
+<h2> Description of the online calculator </h2>
+<p> With this online calculator you can <strong> add </strong> two natural numbers in any <strong> number system </strong> (from 2 to 16) or check the correctness of your solution. </p>
+ 
+<h3> Online calculator description </h3>
+<ul>
+  <li> The maximum size of entered numbers is <b> 16 </b> characters; </li>
+  <li> Only whole and negative numbers can be entered into value entry fields; </li>
+  <li> From 11 to 16 of the number system, the following designations are used when entering: A-10, B-11, C-12, D-13, E-14, F-15; </li>
+  <li> Only positive numbers from 2 to 16 can be entered into the input fields of the base of the counting system. </li>
+</ul>
+<p> You can always ask your questions about the work of this online calculator in the comments. </p>
+

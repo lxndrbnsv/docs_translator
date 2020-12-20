@@ -1,0 +1,56 @@
+<h1> Onion Sites - Top 10 </h1>
+<p style = "clear: both"> <img src = "https://torify.me/blog/assets/img/onion-sites.jpg" /> </p>
+<p> Tor Browser is good in that it is possible, without blocking and all kinds of prohibitions, to visit not only ordinary sites accessible to everyone, but also the so-called "onion", anonymous sites on the Internet. They are located in the onion zone and do not open on the public network, so you can only access onion sites through Tor. The following is a <strong> list of onion sites </strong> that are very popular on the web, and some of them must be visited when you first get to know the web. </p>
+<p> The order of sites in the list is determined by your onion link rankings. After reviewing the list below, be sure to visit the rating and you will find out even more interesting sites in the Tor network. On the rating page you can also check which of the top sites are currently available. </p>
+<p> <ol>
+  <li> Flibusta - The name is known to many - the famous electronic library. This site is her mirror, only in the “onion” version. Language - Russian. </li>
+  <li> CrypTor is a free and anonymous temporary messaging service. </li>
+  <li> not Evil - An analogue of the search from the corporation of good in the tor network. No ads or tracking - just search. </li>
+  <li> TORCH is a handy search resource for the Tor network. Stores more than half a million pages, occasionally freezes and earns on advertising onion sites, the quality of which is often questionable. </li>
+  <li> Anthill - Market on the tor network. Check what's behind the registration form. </li>
+  <li> Runion - Forum a la marketplace. They say that you can even buy answers to the Unified State Exam here. </li>
+  <li> Lookonion - Search engine in Russian TOR </li>
+  <li> Matrix Image Uploader - Anonymous storage of images on the tor network. </li>
+  <li> Tor Wiki - List of Tor links with reliability notes. It is useful to look here before ordering services on a particular site. Resources marked with the [SCAM] tag belong to scammers. </li>
+  <li> Facebook Onion is a well-known social network in the onion space. If someone is planning to create an alter ego for themselves on the Internet, then the best way to do it is here. </li>
+</ol>
+</p>
+<p> Read also an article about 5 interesting web services on the onion network. </p>
+<p> If the list does not contain the link you were looking for, write about it in the comments - we will try to add it. </p>
+
+<h1> List of .onion sites I've used part 2 </h1>
+<p> Hi peekaboo, here's the second part of the onion sites as promised. </p>
+<p> 1) Wailing Wall - Stepla </p>
+<p> Pour out your heart, write about a painful one, or just ask for advice. Seeing that you are not alone. </p>
+<p> This is a hidden mailbox service available only with TOR. All messages are sent and received within the TorBox. </p>
+<p> 3) Library (works since 2008) there are books in fb2 format. In general, the same as liters, only more and free </p>
+<p> 4) Google (no tracking only) </p>
+<p> A social network for building cooking communities. <br /> Nice enough to welcome us on the site, beautiful and pleasant visualization. What can not be said about the content of this site. <br /> There are also interest groups, various blogs and forums, you can buy weapons, drugs, hacking services, etc. tons of useless information in the feed. <br /> (like facebook) </p>
+<p> Do you want to create an independent store anonymously? <br /> Do you want to receive Bitcoins as payment for your goods or services? <br /> TorShops allows you to create a store at an affordable price! </p>
+<p> • Built-in Bitcoin wallet <br /> • Message center for easy communication with customers <br /> • Easy tracking of orders, users have to pay before order gets presented <br /> • Intelligent inventory management <br /> • Multiple support categories <br /> • You can use HTML to make your product descriptions more unique <br /> • Safe and fast server with daily backups <br /> • Your own .onion domain 6 characters at the beginning of which you can choose ( example: 123456xxxxxxxxxx.onion) <br /> • Choose between a number of design templates for free or buy your own custom design template <br /> • Free custom logo for each store <br /> • TorShops sub-forum for user feedback and reviews <br /> • Free posting on TorLinks: torlinkbgs6aabns.onion and other sites </p>
+<p> • Installation fee is currently 100 USD <br /> • Sale fee 6% of your sales (3-5% for large volume sellers, on an individual basis) <br /> I don't use it myself (a friend threw it in) </ p>
+<p> Anonymous upload photo storage </p>
+<p> As a marketplace, Amberoad cannot yet match the top resources. As a forum - great design, user activity and fairly high info-value of the sections make the resource worthy to spend time on it. </p>
+<p> Despite its youth, it is one of the best (along with WayAway) resources of the forum + trading platform in Russian tornet. </p>
+<p> 9) Anonymous chat with a random user </p>
+<p> Site with infamous videos. On it you can find both real and staged rapes, videos with blackmail, and videos from the webcam of young girls and women of age. Quite interesting, and most importantly a free site. There is no video player on it, so you will have to download each file to your computer, which does not guarantee complete security. <br /> I almost forgot to shut down all antiviruses before downloading. Download without viruses but kaspersky squeals like a bitch: D </p>
+<p> The second part of sites with the .onion extension has come to an end, I think you liked it. Write in the comments reviews about sites, mother's hackers: D </p>
+
+<h1> How to create a website on the darknet (onion) </h1>
+<p style = "clear: both"> <img src = "https://roscenzura.com/data/avatars/m/0/1.jpg" /> </p>
+<h4> moder </h4>
+<h5> Administrator </h5>
+<p> To create a site on the darknet, you need to configure a server to work with the Tor network and generate an onion domain (public key). </p>
+<p> <strong> Where can I get hosting for onion sites </strong>? There are no specialized services (and if there are, you can hardly trust them), you will have to take bulletproof vps or vds. </p>
+<p> Install and configure nginx so that it does not collect and display any information. <br /> </p>
+<p> <b> Install Tor and generate an onion address </b> </p>
+<p> When you restart Tor, a private key will be created in the <b> / var / lib / tor / site1 </b> folder (file <b> private_key </b>). An onion-domain is generated based on the private key (file <b> hostname </b>). It is important for you to save the key, and the <b> hostname </b> file does not affect the operation of the site - it's just the domain name. </p>
+<p> Accordingly, if someone gets your key, they can interfere with the operation of your site. This is especially critical for darknet stores. Therefore, it is dangerous to involve third parties in the work on the site or use the services of onion hosts. </p>
+<p> The generated domain will represent a random set of 16 characters like p3igfi4pfjz63s5y.onion. <b> creating a beautiful onion domain </b> will take time and special software. </p>
+<p> <b> Programs for generating a readable onion domain. </b> </p>
+<p> Scallion is more convenient, in my opinion, because it can be run on your home Windows machine. If your server is more powerful than your home computer, run it on the server. </p>
+<p> Download and run the file <b> scallion.exe </b> from the command line, write the phrase of interest through a space. </p>
+<p> The longer the phrase, the longer it will take to generate. </p>
+<p> There are special shops selling onion domains like <b> udoheels4great5d.onion </b>. But the seller knows your key and can interfere with the site. </p>
+<p> <br /> <b> Configuring the server to work with the Tor network </b> </p>
+

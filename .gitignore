@@ -1,6 +1,6 @@
 venv/
 __pycache_/
-results/
+data/
 .idea/
 *~
 *.zip

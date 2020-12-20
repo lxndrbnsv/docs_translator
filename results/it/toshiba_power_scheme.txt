@@ -1,0 +1,60 @@
+<h1> REPAIR LAPTOP POWER SUPPLY </h1>
+<p> When buying a laptop or netbook, or rather calculating the budget for this purchase, we do not take into account further related expenses. The laptop itself costs, say, $ 500, but another $ 20 bag, $ 10 mouse. The battery when replaced (and its warranty life is only a couple of years) will cost $ 100, and the same will be the cost of the power supply if it burns out. </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110002.jpg" /> </p>
+<p> It is about him that the conversation will go here. One not very wealthy friend recently stopped working the power supply for an acer laptop. You will have to pay almost a hundred dollars for a new one, so it would be quite logical to try to fix it yourself. The PSU itself is a traditional black plastic box with an electronic pulse converter inside, providing a voltage of 19V at a current of 3A. This is the standard for most laptops and the only difference between them is the power plug :). Here are some power supply diagrams right away - click to enlarge. </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2018/01/s07534061.jpg" /> </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2018/01/s48240187.jpg" /> </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2018/01/s22647719.jpg" /> </p>
+<p> When the power supply is turned on, nothing happens - the LED does not light up and the voltmeter shows zero at the output. Checking the power cord with an ohmmeter gave nothing. We disassemble the case. Although it's easier said than done: screws or screws are not provided here, so we will break! To do this, you will need to put a knife on the connecting seam and hit it lightly with a hammer. Don't overdo it, or cut the board! </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110003.jpg" /> </p>
+<p> After the case is slightly parted, insert a flat-head screwdriver into the resulting gap and forcefully draw along the contour of the connection of the halves of the case, gently breaking it along the seam. </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110005.jpg" /> </p>
+<p> Having disassembled the case, we check the board and parts for anything black and charred. </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110006.jpg" /> </p>
+<p> The dialing of the input circuits of the 220V mains voltage revealed a malfunction - this is a self-healing fuse, which for some reason did not want to recover when overloaded :) </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110008.jpg" /> </p>
+<p> We replace it with a similar one, or with a simple fusible one with a current of 3 amperes and check the operation of the PSU. The green LED lit up, indicating the presence of 19V, but there is still nothing on the connector. More precisely, sometimes something slips, as if the wire is bent. </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110007.jpg" /> </p>
+<p> We'll have to repair the power supply cord to the laptop. Most often, a break occurs at the point where it is inserted into the case or at the power connector. </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110010.jpg" /> </p>
+<p> Cutting off first at the body - no luck. Now near the plug that is inserted into the laptop - again there is no contact! </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110011.jpg" /> </p>
+<p> A hard case - a cliff somewhere in the middle. The easiest option is to cut the cord in half and leave the working half, and discard the non-working half. So he did. </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110012.jpg" /> </p>
+<p> Solder back the connectors and test. Everything worked - the repair is over. </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2120014.jpg" /> </p>
+<p> It remains only to glue the halves of the case with "moment" glue and give the power supply to the customer. The entire PSU repair took less than an hour. </p>
+
+<h1> REPAIR LAPTOP POWER SUPPLY </h1>
+<p> When buying a laptop or netbook, or rather calculating the budget for this purchase, we do not take into account further related expenses. The laptop itself costs, say, $ 500, but another $ 20 bag, $ 10 mouse. The battery when replaced (and its warranty life is only a couple of years) will cost $ 100, and the same will cost the power supply if it burns out. </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110002.jpg" /> </p>
+<p> It is about him that the conversation will go here. One not very wealthy friend recently stopped working the power supply for an acer laptop. You will have to pay almost a hundred dollars for a new one, so it would be quite logical to try to fix it yourself. The PSU itself is a traditional black plastic box with an electronic pulse converter inside, providing a voltage of 19V at a current of 3A. This is the standard for most laptops and the only difference between them is the power plug :). Here are some power supply diagrams right away - click to enlarge. </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2018/01/s07534061.jpg" /> </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2018/01/s48240187.jpg" /> </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2018/01/s22647719.jpg" /> </p>
+<p> When the power supply is turned on, nothing happens - the LED does not light up and the voltmeter shows zero at the output. Checking the power cord with an ohmmeter gave nothing. We disassemble the case. Although it's easier said than done: there are no screws or screws here, so we'll break it! To do this, you will need to put a knife on the connecting seam and hit it lightly with a hammer. Don't overdo it, or cut the board! </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110003.jpg" /> </p>
+<p> After the case is slightly parted, insert a flat-head screwdriver into the resulting gap and forcefully draw along the contour of the connection of the halves of the case, gently breaking it along the seam. </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110005.jpg" /> </p>
+<p> Having disassembled the case, we check the board and parts for anything black and charred. </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110006.jpg" /> </p>
+<p> The dialing of the input circuits of the 220V mains voltage revealed a malfunction - this is a self-healing fuse, which for some reason did not want to recover when overloaded :) </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110008.jpg" /> </p>
+<p> We replace it with a similar one, or with a simple fusible one with a current of 3 amperes and check the operation of the PSU. The green LED lit up, indicating the presence of 19V, but there is still nothing on the connector. More precisely, sometimes something slips, as if the wire is bent. </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110007.jpg" /> </p>
+<p> We'll have to repair the power supply cord to the laptop. Most often, a break occurs at the point where it is inserted into the case or at the power connector. </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110010.jpg" /> </p>
+<p> Cutting off first at the body - no luck. Now near the plug that is inserted into the laptop - again there is no contact! </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110011.jpg" /> </p>
+<p> A hard case - a cliff somewhere in the middle. The easiest option is to cut the cord in half and leave the working half, and discard the non-working half. So he did. </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2110012.jpg" /> </p>
+<p> Solder back the connectors and test. Everything worked - the repair is over. </p>
+<p style = "clear: both"> <img src = "https://el-shema.ru/wp-content/uploads/2019/03/P2120014.jpg" /> </p>
+<p> It remains only to glue the halves of the case with "moment" glue and give the power supply to the customer. The entire PSU repair took less than an hour. </p>
+
+<h1> toshiba laptop power supply diagram </h1>
+<p style = "clear: both"> <img src = "https://zremcom.ru/images/stories/Stat/instructions/toshiba.png" /> </p>
+<p> Here is a selection of schematics for TOSHIBA notebooks. All diagrams are presented in English. To find a model, enter its number in the main search. </p>
+<p> This material is intended exclusively for specialists in the repair of computers and laptops in order to be used in conjunction with special equipment at the stands, the use of this material at home is highly undesirable. </p>
+<p> Do not forget that incompetent intervention in a malfunctioning computer or laptop can have a much detrimental effect than the malfunction itself. </p>
+

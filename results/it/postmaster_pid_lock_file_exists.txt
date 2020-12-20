@@ -1,0 +1,59 @@
+<h1> FATAL ERROR lock file "postmaster.pid" already exists </h1>
+<p> I recently installed PostGIS on my Mac (El Capitan 10.11.4, Postgres is version 9.5.1) using Homebrew and I am following these instructions - http://morphocode.com/how-to-install-postgis- on-mac-os-x / </p>
+<p> When I try to start Postgres using </p>
+<p> I am getting the following error: </p>
+<p> So, I've spent a few hours learning how to handle this, to no avail. </p>
+<p> Notably, I tried to kill the PID as recommended in Superuser's answer - https://superuser.com/questions/553045/fatal-lock-file-postmaster-pid-already-exists- (in the above example I ran kill 208), but as soon as I tried to start Postgres again </p>
+<p> I got the same error, albeit with a different PID number. I saw some people recommend deleting the postmaster.pid file, but it seems to me that maybe I should keep this as a last resort. </p>
+<p> Admittedly I'm not sure how to fix this, as it is that I don't quite understand what a postmaster is - I am just starting to learn about all of this. </p>
+<p> Moving to Postgres database using psql db_name command works fine, for what it's worth. </p>
+
+<h1> "FATAL: lock file â postmaster.p> </h1>
+<p> I just reinstalled postgres via brew install postgres </p>
+<p> I ran initdb / usr / local / var / postgres -E utf8, but I got this: </p>
+<p> So I rm -rf the postgres folder and run it again: </p>
+<p> he said everything was fine: </p>
+<p> So, I ran this command and got: </p>
+<p> Now when I look at my activity monitor, I see 6 postgress instances. </p>
+<p> How do I fix this? </p>
+<h2> 7 replies </h2>
+<p> <strong> Public service announcement: never remove ---- +: = 0 =: + ----. Indeed. A great way to get data corruption. </p>
+<p> You already have PostgreSQL installed and deleted the data directory without stopping the running server. So you now have some PostgreSQL server child processes that manage the data files that were deleted, so they are no longer available on the file system and will be completely deleted when you close the last open file descriptor. You cannot use ---- +: = 1 =: + ---- to shut down the server as usual, because you have deleted the datadir of the cluster, so you should just kill the processes, Kill the postmaster (do not use --- - +: = 2 =: + ----, just a normal kill will do) and the rest will be closed too. </p>
+<p> You can then start a new server in datadir for fresh ---- +: = 3 =: + ---- 'd data. </p>
+<p> It is very likely that you will run into track conflicts unless you uninstall another old version of PostgreSQL. </p>
+<p> <strong> In a nutshell: </strong> </p>
+<p> Write down the number on the first line, which is the <strong> pid </strong> of the postmaster. </p>
+<p> Confirm with ---- +: = 5 =: + ---- that the pid is a postmres postmaster. </p>
+<p> Kill the postmaster process with the following command, replacing "PID" with the number you marked. Again, don't use ---- +: = 6 =: + ---- or ---- +: = 7 =: + ----, just use simple ---- +: = 8 =: + ----, that is, ---- +: = 9 =: + --- - </p>
+<p> If the pid is not postmaster postmaster, manually ---- +: = 11 =: + ---- any ---- +: = 12 =: + ---- which may still work, check that they no longer work, and only then delete ---- +: = 13 = + ----. (You should also make sure that ---- +: = 14 =: + ---- is not on shared storage where the server might be running on some other VM / host.) </p>
+<p> Another possibility is that you had a hard shutdown and the postgres process died without clearing the pid file. This happens to me when my laptop battery dies. </p>
+<p> This is a <strong> not </strong> solution for a production system and you should really make sure the postgres daemon is not working, but I am using my laptop for coding and I am not worrying about having to update my databases. </ p>
+<p> So, if there is another process running on that port - or nothing at all - just delete the pid file e.g. </p>
+<p> and postgres will start working fine soon. </p>
+<p> To see if another process is running on that port, you can do </p>
+<p> to make sure it worked. You should see </p>
+<p> (or at least this is what I just saw after doing the following :-)) </p>
+<p> (And really, shouldn't Postgres be smart enough to figure out there is no process with PID 933 and delete the dummy pid file on its own?) </p>
+<p> I tried it all to no avail after upgrading to Yosemite broke my postgres (installed via homebrew). </p>
+<p> I first had to create the missing directories, which were apparently destroyed during the upgrade (thanks Apple!). </p>
+<p> Then just start postgres again using your normal homebrew startup sequence: </p>
+<p> Thanks to Ruckus Notes for helping me solve my problem. Hope this helps you. </p>
+<h1> HARDWARE INSTRUCTIONS </h1>
+<p> I had the same problem after a hard reboot. After checking the pid of the file ---- +: = 0 =: + ----, I noticed that I didn't have any process. I didn't want to delete the .pid file, I used the alias ---- +: = 1 =: + ---- instead, which I created in my - - +: = 2 =: + ----. this alias is just started </p>
+<h3> For reference </h3>
+<h3> log output after ---- +: = 5 =: + ---- </H3> </h3>
+<H1> brew </h1> </H1>
+<p> I thought I should also mention here that if you installed postgres with homebrew, you should give an idea ---- +: = 7 =: + ----. This is how I prefer to start / stop my databases. </p>
+<p> I got this error after I think my computer crashed. PostgreSQL couldn't even start due to this error, so killing the process was not a solution. I just did a backup and then deleted the file ---- +: = 0 =: + ---- and then the error stopped and the PG was able to start over. </p>
+<p> Sometimes humble ---- +: = 0 =: + ---- can do the trick: -) </p>
+
+<h1> FATAL ERROR lock file “postmaster.p> Ask Question </h1>
+<p> I have recently installed PostGIS on my Mac (El Capitan 10.11.4, Postgres is version 9.5.1) using Homebrew, and I am following these instructions - http://morphocode.com/how-to-install-postgis -on-mac-os-x / </p>
+<p> When I try to start Postgres using </p>
+<p> I get the following error: </p>
+<p> So I spent a few hours researching how to address this, but to no avail. </p>
+<p> Notably, I tried to kill the PID as recommended in an answer on Superuser - https://superuser.com/questions/553045/fatal-lock-file-postmaster-pid-already-exists- (in the case above , I ran kill 208), but as soon as I tried to start Postgres again, </p>
+<p> I got the same error, albeit with a different PID number. I saw a few people recommended deleting the postmaster.pid file, but I feel like maybe I should save that as a last resort. </p>
+<p> Admittedly part of the reason I'm not sure how to fix this is that I'm not really clear on what the postmaster even is - I'm just starting to learn about all of this. </p>
+<p> Hopping into a Postgres database via the psql db_name command works just fine, for what it's worth. </p>
+

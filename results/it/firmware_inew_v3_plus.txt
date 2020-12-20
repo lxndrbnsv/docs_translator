@@ -1,0 +1,149 @@
+<h1> iNew V3 Plus </h1>
+<p> <strong> iNew V3 Plus </strong> runs on <em> Android 4.4 </em> operating system. Its performance is rated 3 out of 5 (in its segment). This smartphone is quite productive. Here you can find the characteristics of the device, instructions on how to reset the settings, flash the device and, of course, how to get root-rights to your Hew </p>
+<h2> Root on iNew V3 Plus </h2>
+<p> How to get <strong> root for iNew V3 Plus </strong> see instructions below. </p>
+<p> First try generic MTK root utilities for V3 Plus model <ul>
+  <li> Kingo Android Root </li>
+  <li> Baidu Super Root (one click root) </li>
+  <li> Framaroot </li>
+  <li> Root Dashi (collection of root utilities in one) </li>
+</ul>
+</p>
+<p> If it did not work and SuperUser did not appear, then ask for help in a special root theme on android </p>
+<h2> Features </h2>
+<ol>
+  <li> Standard: GSM 900/1800/1900, 3G </li>
+  <li> Type: Smartphone </li>
+  <li> Operating system: Andro> </li>
+  <li> Dimensions (WxHxT): 70.8x142.5x6.5 mm </li>
+  <li> Screen type: color IPS, touch </li>
+  <li> Touchscreen type: multi-touch, capacitive </li>
+  <li> Diagonal: 5 in. </li>
+  <li> Image size: 720x1280 </li>
+  <li> Pixels Per Inch (PPI): 294 </li>
+  <li> Automatic screen rotation: yes </li>
+  <li> Scratch resistant glass: yes </li>
+  <li> Type of melodies: polyphonic, MP3 melodies </li>
+  <li> Vibration alert: yes </li>
+  <li> Camera: 13 million pixels, LED flash </li>
+  <li> Video recording: yes </li>
+  <li> Max. video resolution: 1920x1080 </li>
+  <li> Front camera: yes, 5 million pixels. </li>
+  <li> Video playback: MP4, 3GP, 3G2, RM, RMVB, ASF, FLAC, APE, MOV </li>
+  <li> Audio: MP3, AAC, WAV, WMA </li>
+  <li> Voice recorder: yes </li>
+  <li> Headphone jack: 3.5mm </li>
+  <li> Interfaces: Wi-Fi 802.11n, Bluetooth 4.0, USB, NFC </li>
+  <li> USB-host: yes </li>
+  <li> Satellite navigation: GPS </li>
+  <li> A-GPS system: yes </li>
+  <li> Internet access: WAP, GPRS, EDGE, HSDPA, HSUPA, HSPA + </li>
+  <li> Protocol support: POP / SMTP, IMAP4, HTML </li>
+  <li> Processor: MediaTek MT6592, 1400 MHz </li>
+  <li> Number of processor cores: 8 </li>
+  <li> Video processor: Mali-450 MP4 </li>
+  <li> Internal memory: 16 GB </li>
+  <li> The amount of RAM: 2 GB </li>
+  <li> Support for memory cards: microSD (TransFlash), up to 32 GB </li>
+  <li> Additional SMS functions: text input with dictionary </li>
+  <li> MMS: yes </li>
+  <li> Battery type: Li-Ion </li>
+  <li> Battery capacity: 1830mAh </li>
+  <li> Battery: removable </li>
+  <li> Sensors: illumination, proximity, gyroscope, compass </li>
+  <li> Book search: yes </li>
+  <li> Exchange between SIM-card and internal memory: yes </li>
+  <li> Organizer: alarm clock, calculator, task planner </li>
+  <li> Package contents: smartphone, USB cable, battery, charger </li>
+</ol>
+<h2> Firmware for iNew V3 Plus </h2>
+<p style = "clear: both"> Official firmware Android 4.4 [stock ROM] - Download <br /> [Recovery] Custom firmware iNew - Download <br /> <img style = "float: left; margin: 0 10px 5px 0; " src = "http://rulsmart.com/templates/default/images/lookat.jpg" /> </p>
+<p> Firmwares for iNew V3 Plus you can find in the thread flashing Chinese smartphones In addition, download the necessary software for flashing beforehand </p>
+<ol>
+  <li> FlashTool </li>
+  <li> ADB drivers (in the FlashTool theme) </li>
+</ol>
+<ol>
+  <li> Make / Model [desirable] - iNew / V3 Plus </li>
+  <li> Processor - MediaTek MT6592, 1400 MHz </li>
+  <li> LCD Driver (version) </li>
+  <li> Kernel (version) [desirable] </li>
+</ol>
+<p> Before flashing and in the process of selecting the firmware, check the basic TX (technical characteristics) through the MTKDroidTools program </p>
+<p> What custom firmware are there? </p>
+<p> <ol>
+  <li> MIUI </li>
+  <li> CM - CyanogenMod </li>
+  <li> LineageOS </li>
+  <li> Parano> <ol>
+  <li> AICP (Android Ice Cold Project) </li>
+  <li> RR (Resurrection Remix) </li>
+  <li> MK (MoKee) </li>
+  <li> FlymeOS </li>
+  <li> Bliss </li>
+  <li> crDroid </li>
+  <li> Illusion ROMS </li>
+  <li> Pacman ROM </li>
+  <li> AOKP </li>
+</ol>
+</p>
+<p> Problems and disadvantages of iNew smartphone and how to fix them? </p>
+<p> <ul>
+  <li> If the V3 Plus does not turn on, for example, you see a white screen, hangs on the splash screen, or the notification indicator only blinks (possibly after charging). </li>
+  <li> If it freezes when updating / freezes when it is turned on (flashing needed, 100%) </li>
+  <li> Not charging (usually hardware problems) </li>
+  <li> Can't see my SIM card </li>
+  <li> The camera does not work (mostly hardware problems) </li>
+  <li> Sensor does not work (depending on the situation) </li>
+</ul>
+ For all these problems, contact the forum (you just need to create a topic), specialists will help for free. </p>
+<h2> Hard Reset for iNew V3 Plus </h2>
+<p style = "clear: both"> Instructions on how to Hard Reset on iNew V3 Plus (reset settings). We recommend that you read a visual guide called factory reset on Android. [Hard Reset]. <br /> <img style = "float: left; margin: 0 10px 5px 0;" src = "http://rulsmart.com/uploads/devices/hardreset/hotwtohardresetby_rulsmart.com_mini.jpg" /> </p>
+<p> Reset codes (open the dialer and enter them). </p>
+<h3> Hard Reset via Recovery </h3>
+<ol>
+  <li> Turn off the device-> go to Recovery </li>
+  <li> "wipe data / factory reset" </li>
+  <li> "yes - delete all user data" -> "Reboot System" </li>
+</ol>
+<h3> How to enter Recovery? </h3>
+<ol>
+  <li> hold down Vol (-) [volume down], or Vol (+) [volume up] and the Power button </li>
+  <li> a menu with the Android logo will appear. Everything, you are in Recovery! </li>
+</ol>
+<p> <strong> Resetting the settings on iNew V3 Plus </strong> can be done in a very simple way: </p>
+<p> <ol>
+  <li> Settings-> Recovery and reset </li>
+  <li> Reset settings (at the very bottom) </li>
+</ol>
+</p>
+<h3> How to reset your pattern </h3>
+<p> How to reset the pattern if you forgot it and now you cannot unlock your iNew smartphone. On the V3 Plus, the key or PIN can be removed in several ways. You can also remove the lock through a factory reset, the lock code will be deleted and disabled. <ol>
+  <li> Reset graph. blocking instructions </li>
+  <li> Reset Password - Instructions </li>
+</ol>
+</p>
+<p> The V3 Plus scored 26827 points in the AnTuTu test, which is enough even for some heavy games. It seems he can do more. </p>
+
+<h1> iNew V3 Plus </h1>
+<p> On this page, you will find the direct link to get the <strong> iNew V3 Plus </strong> Stock ROM (original firmware) on your Computer. The Stock ROM comes in a compressed zip package and contains the Flash File, Flash Tool, USB Driver, and How-to Flash Manual. </p>
+<h2> iNew V3 Plus Stock Firmware File (flash file) </h2>
+<p> The stock firmware shared on naijarom.com helps you to re-install the Mobile Operating System on your Mobile Device. It also helps you to fix your Mobile device, if it is having any software error issue, IMEI error issue, boot loop issue, a dead issue. </p>
+<p> <strong> File Name </strong>: iNew_V3_Plus_MT6592_4.4.2.zip <br /> <strong> File Size </strong>: 467 MB <br /> <strong> Flash Tool </strong>: SP Flash Tool for Windows | SP Flash Tool for Linux <br /> <strong> How to Flash </strong>: Follow Tutorial </p>
+<h2> How to Flash </h2>
+<p> <strong> Step 1 </strong>: Download and extract iNew V3 Plus Stock ROM on your computer. </p>
+<p> <strong> Step 2 </strong>: Once you have successfully extracted the Stock ROM on your computer, you will be able to get the Flash File, Flash Tool, USB Driver, How-to Flash Manual. </ p >
+<p> <strong> Step 3 </strong>: Install the provided USB Driver on your computer. If in case you have already installed the respective USB Driver on your computer, then SKIP this step. </p>
+<p> <strong> Step 4 </strong>: Follow the How-to Flash Manual to flash the Stock ROM on your iNew V3 Plus Device. </p>
+<p> <strong> [*] Flash Tool </strong>: If you want to download the latest version of SP Flash Tool, then check out SP Flash Tool for Windows or SP Flash Tool for Linux page. </p>
+<p> <strong> [*] Caution </strong>: If in case you are going to flash the above firmware, then you should know that flashing the stock firmware will permanently delete the personal data from the device. Therefore, we recommend you to take a backup of your data before flashing the above stock ROM on your device. </p>
+
+<h1> China Gadgets Reviews </h1>
+<h2> May 7, 2015 </h2>
+<h3> Download Andro> </h3>
+<p style = "clear: both"> <img src = "// assets.pinterest.com/images/p> </p>
+<p style = "clear: both"> <img src = "http://2.bp.blogspot.com/-52iJjUr8LQQ/VFYuPRfzW3I/AAAAAAACeJs/t-HfSizVWOE/s1600/1.jpg" /> </p>
+<p> Project: eastaeon92_wet_kk <br /> Platform: MT6592 <br /> Config_version: V1.1.2 </p>
+<p> <i> <b> Upgrading notes </b> (see this video tutorial) </i> <br /> 1 - Download &amp; unpack FlashTools. Run Flash_tool.exe <br /> 2 - Unpack Rom in folder <br /> 3 - Select MT6592_Android_scatter.txt in folder on rom. And wait. <br /> 4 - Check Option-> USB Model, click USB Model <br /> Choose Option-> DA DownLoad All-> Speed-> High Speed, click High Speed ​​<br /> 5 - Turn off your phone, remove the battery. <br /> 6 - "Press F9 (or hit Download button)" <br /> 7 - Connect your phone into the computer with USB data cable. <br /> 8 - The process will start and a red progress bar will appear after color purple, yellow. <br /> 9 - And green circles display. <br /> 10 - Boot your phone <br /> 11 - Restart <br /> 12 - Enjoy </p>
+<p> <br /> <i> <b> Caution: </b> </i> <i> <b> Please do not update firmware unless you know what you are doing, you really want it or it is absolutely necessary. Firmware updates may occasionally have bad results, like bricking your device, temporarily or permanently. The firmware update process is done entirely at your own risk. Before attempting to update the firmware, back up your data. </b> </i> <br /> <br /> <br /> <i> Don't miss any of our future video tutorials, follow us on Youtube ... Like us on Facebook. Add us in your circles on Google+. Watch our photo albums on Flickr. Subscribe now to our newsletter. </i> </p>
+

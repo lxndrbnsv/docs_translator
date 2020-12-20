@@ -1,0 +1,146 @@
+<h1> Acer monitor won't turn on - what should I do? </h1>
+<p> Problems with displaying images are not always with the computer. Monitor problems are immediately apparent and need to be resolved quickly. This technique often has a status indicator light that can be used to determine which mode the device is in. Although Acer monitors are highly reliable, they are not immune to breakdowns. To start repairs, you need to identify the nature of the problem, which will help you understand what actions need to be taken in the future. </p>
+<h2> Major causes of Acer monitor breakdowns </h2>
+<p> The absence of an image on the screen can be caused by various reasons. First, let's decide which breakdowns you can handle yourself. The most common Acer monitor won't turn on for the following reasons: </p>
+<p> <ul>
+  <li> Lack of power - connection to the mains is mandatory for such an electrical appliance. It is important to check that the cable is securely connected to both the outlet and the power connector. The power supply will be indicated by the color indication of the power button. </li>
+  <li> Incorrect video cable connection - a special cable connected to the computer is used to transfer the image. You should check the connection connector, the tightness and integrity of the cable itself. </li>
+  <li> PC setup - you can install discrete video cards and connect multiple monitors to your computer. In this case, you need to check that the image output is enabled on the Acer. </li>
+  <li> Physical failure - there are many failures that will require disassembly of the device. Problems can arise with both the matrix and the hardware. Diagnostics will help to identify the cause of the problem. </li>
+</ul>
+</p>
+<p style = "clear: both"> <img src = "https://en.nodevice.com/content/upload/articles-images/broken-acer-monitor.jpg" /> </p>
+<h2> Troubleshooting your Acer monitor </h2>
+<p> You need to make sure of the origin of the malfunctions and exclude the possibility of damage to the monitor. Often the computer itself or another connected device can cause such errors. All monitors have a power button that signals the status of the equipment. The light indication depends on the specific monitor model - the blue or green power indicators usually correspond to the standby mode of the device. </p>
+<p> The monitor does not have to be turned off after shutdown. In the absence of a signal, such a device automatically goes into standby mode. In this case, the yellow indicator turns on and flashes to indicate that it is ready to work. </p>
+<p> For simple diagnostics, you can disconnect the video cable and leave only the power supply. When enabled in this mode, the Acer monitor will display a diagnostic message indicating no signal. If this does not happen, and the yellow indicator flashes regardless of pressing the power button, a professional repair will be required. </p>
+<p style = "clear: both"> <img src = "https://en.nodevice.com/content/upload/articles-images/no-signal-monitor.jpg" /> </p>
+<h2> Acer Monitor DIY Repair </h2>
+<p> Quite often, the problem is the inability to turn on the monitor when the standby indication is working. A steady blinking amber LED and no image output usually indicates a problem with the power supply. In Acer monitors, the problem may be with defective capacitors that need to be replaced. To carry out the repair, you must perform the following actions: </p>
+<p> <ul>
+  <li> Pull out the plugs located near the monitor mount. </li>
+  <li> Unscrew the fixing screws and remove the stand. </li>
+  <li> Remove the monitor cover by unhooking the mounts. </li>
+  <li> Disassemble the power supply case and take out the board. </li>
+  <li> Inspect and replace damaged capacitors. </li>
+</ul>
+</p>
+<p style = "clear: both"> <img src = "https://en.nodevice.com/content/upload/articles-images/acer-monitor-repair.jpg" /> </p>
+<p> There are also more complex breakdowns that require careful diagnosis. When examining the monitor board, you should pay attention to the presence of burnout or other defects. In any case, if you suspect a serious breakdown, it would be better to seek professional help. </p>
+
+<h1> Top 10 Common LCD Monitor Problems </h1>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://masterpaiki.ru/wp-content/uploads/2012/10/0-kak-payat-i-zarabatyivat-250x167.jpg" /> Here are the TOP 10 most frequent LCD monitor malfunctions that I experienced on my skin. The fault rating was compiled according to the author's personal opinion, based on the experience of working in the service center. You can take this as a universal repair manual for almost any LCD monitor from Samsung, LG, BENQ, HP, Acer and others. Well, let's go. </p>
+<p> I divided the malfunctions of LCD monitors into 10 points, but this does not mean that there are only 10 of them - there are many more, including combined and floating ones. Many LCD monitor breakdowns can be repaired by hand or at home. </p>
+<h2> 1st place - the monitor does not turn on </h2>
+<p> generally, although the power light may be blinking. In this case, the monitor lights up for a second and goes out, turns on and immediately turns off. At the same time, twitching the cable, dancing with a tambourine and other pranks do not help. Tapping the monitor with a nervous hand usually doesn't work either, so don't even try. The reason for such a malfunction of LCD monitors is most often the failure of the power supply board, if it is built into the monitor. </p>
+<p> Recently, monitors with an external power source have become fashionable. This is good because the user can simply change the power supply in the event of a breakdown. If there is no external power source, then you will have to disassemble the monitor and look for a malfunction on the board. Disassembling an LCD monitor in most cases is not difficult, but you need to remember about safety. </p>
+<p> Before repairing the poor fellow, let him stand for 10 minutes, disconnected from the network. During this time, the high-voltage capacitor will have time to discharge. ATTENTION! DANGEROUS TO LIFE if the diode bridge and the PWM transistor burn out! In this case, the high-voltage capacitor will not discharge in an acceptable time. </p>
+<p> Therefore, EVERYONE before repairing to check the voltage on it! If a dangerous voltage remains, then the capacitor must be manually discharged through an insulated resistor of about 10 kΩ for 10 seconds. If you suddenly decide to close the terminals with a screwdriver, then keep your eyes away from sparks! </p>
+<p style = "clear: both"> <img src = "https://masterpaiki.ru/wp-content/uploads/2013/11/5-blok-pitaniya-monitora-Samsung-SyncMaster-940N-1024x928.jpg "/> </p>
+<p> Next, we proceed to inspect the monitor's power supply board and change all burned-out parts - these are usually swollen capacitors, blown fuses, transistors and other elements. You also MUST solder the board or at least examine the soldering under a microscope for microcracks. </p>
+<p> From my own experience, I will say - if the monitor is more than 2 years old - then 90% that there will be microcracks in the soldering, especially for LG, BenQ, Acer and Samsung monitors. The cheaper the monitor, the worse it is made at the factory. Up to the point that the active flux is not washed out - which leads to the failure of the monitor after a year or two. Yes, just when the warranty ends. </p>
+<h2> 2nd place - the image blinks or goes out </h2>
+<p> when the monitor is turned on. This miracle directly indicates to us a malfunction of the power supply. </p>
+<p> Of course, the first step is to check the power and signal cables - they must be securely fastened in the connectors. A blinking image on the monitor tells us that the voltage source of the monitor backlight is constantly jumping off the operating mode. </p>
+<p> The most common reason for this is swollen electrolytic capacitors, microcracks in the soldering and a faulty TL431 microcircuit. Swollen capacitors most often cost 820 uF 16 V, they can be replaced with a larger capacity and higher voltage, for example, the cheapest and most reliable ones are Rubycon 1000 uF 25 V capacitors and Nippon 1500 uF 16 V capacitors. There is a cheaper Nichicon 1000 uF 25 V (but certainly 105 degrees). Anything else from China won't last long. </p>
+<p style = "clear: both"> <img src = "https://masterpaiki.ru/wp-content/uploads/2012/07/20-podozrevaemyie-radioe%60lementyi-monitora-LG-L1530S.jpg" / > </p>
+<h2> 3rd place - switches off spontaneously </h2>
+<p> after the time has elapsed or does not turn on immediately. In this case, again, three frequent LCD monitors malfunctions in order of frequency of occurrence - swollen electrolytes, microcracks in the board, faulty TL431 microcircuit. </p>
+<p> With this fault, a high-frequency squeak of the backlight transformer can also be heard. It usually operates at frequencies between 30 and 150 kHz. If the mode of its operation is disrupted, oscillations can occur in the audible frequency range. </p>
+<p style = "clear: both"> <img src = "https://masterpaiki.ru/wp-content/uploads/2012/07/18-vzdulis-kondensatoryi-monitora-LG-L1530S.jpg" /> < / p>
+<h2> 4th place - no highlight, </h2>
+<p> but the image is viewed under bright light. This immediately tells us about the malfunction of LCD monitors in terms of the backlight. In terms of the frequency of appearance, it could be put in third place, but it is already taken there. </p>
+<p> Option two - either the power supply and inverter board burned out, or the backlight lamps are faulty. The latter reason is not common in modern monitors with LED backlighting. If the LEDs are backlit and fail, then only in groups. </p>
+<p> In this case, there may be a darkening of the image in places at the edges of the monitor. It is better to start repairs with diagnostics of the power supply and inverter. An inverter is the part of the board that is responsible for generating a high-voltage voltage of about 1000 volts to power the lamps, so in no case should you try to repair the monitor under voltage. You can read about repairing the Samsung monitor power supply on my blog. </p>
+<p> Most monitors are similar in design, so there shouldn't be any problems. At one time, monitors simply rained down with a breakdown in contact near the tip of the backlight. This is cured by the most careful disassembly of the die to get to the end of the lamp and solder the high voltage wires. </p>
+<p> If the backlight itself burns out, I would suggest replacing it with an LED backlight bar that usually comes with your inverter. If you still have questions, write to me by mail or in the comments. </p>
+<h2> <img src = "https://masterpaiki.ru/wp-content/uploads/2012/07/6-zashhelki-monitora-LG-L1530S.jpg" /> </h2>
+<h2> 5th place - vertical stripes on the image </h2>
+<p> These are the nastiest LCD monitor malfunctions in the life of any computer technician and user, because they tell us that it's time to buy a new LCD monitor. </p>
+<p> Why buy new? Because the matrix of your pet is 90% worthless. Vertical stripes appear when the contact of the signal loop with the contacts of the matrix electrodes is broken. </p>
+<p> This can only be cured by careful application of anisotropic adhesive tape. Without this anisotropic glue, I had a bad experience repairing a Samsung LCD TV with vertical stripes. You can also read how the Chinese repair such strips on their machines. </p>
+<p> An easier way out of this unpleasant situation can be found if your brother-in-law friend has the same monitor lying around, but with faulty electronics. It will not be difficult to blind from two monitors of similar series and the same diagonal. </p>
+<p> Sometimes even a power supply unit from a monitor with a larger diagonal can be adapted for a monitor with a smaller diagonal, but such experiments are risky and I do not recommend starting a fire at home. Here in someone else's villa - that's another matter ... </p>
+<p style = "clear: both"> <img src = "https://masterpaiki.ru/wp-content/uploads/2012/07/1a-polosyi-na-izobrazhenii-ZHK-televizora-Samsung-LE40A454C1-500x237 .jpg "/> </p>
+<h2> 6th place - spots or horizontal stripes </h2>
+<p> Their presence means that you or your relatives had a fight with the monitor the day before because of something outrageous. </p>
+<p> Unfortunately, household LCD monitors do not provide shockproof coatings and anyone can offend the weak. Yes, any decent poke with a sharp or blunt object into the LCD monitor matrix will make you regret it. </p>
+<p> Even if there is a small trace or even one broken pixel, over time, the spot will begin to grow under the influence of temperature and voltage applied to the liquid crystals. Unfortunately, it will not work to recover the dead pixels of the monitor. </p>
+<p style = "clear: both"> <img src = "https://masterpaiki.ru/wp-content/uploads/2012/08/2-razbita-matritsa-noutbuka-Asus-X51R-1024x685.jpg" / > </p>
+<h2> 7th place - no image, but highlighting </h2>
+<p> That is, there is a white or gray screen on the face. First, you should check the cables and try to connect the monitor to a different video source. Also check if the monitor menu appears on the screen. </p>
+<p> If everything remains the same, we look closely at the power supply board. In the power supply of the LCD monitor, voltages of 24, 12, 5, 3.3 and 2.5 volts are usually formed. You need to check with a voltmeter if everything is in order. </p>
+<p> If everything is in order, then take a close look at the video signal processing board - it is usually smaller than the power supply board. It has a microcontroller and auxiliary elements. It is necessary to check whether food comes to them. With one probe, touch the contact of the common wire (usually along the outline of the board), and with the other, go over the terminals of the microcircuits. Usually food is somewhere in the corner. </p>
+<p> If everything is in order in terms of power supply, but there is no oscilloscope, then we check all monitor loops. There should be no carbon deposits or darkening on their contacts. If you find something, clean it with isopropyl alcohol. In extreme cases, you can clean it with a needle or scalpel. Also check the ribbon cable and the board with the monitor control buttons. </p>
+<p> If all else fails, then perhaps you are faced with a case of a failed firmware or a failure of the microcontroller. This usually happens from surges in the 220 V network or simply from aging of elements. Usually, in such cases, you have to study special forums, but it's easier to start up for spare parts, especially if you have a familiar karate fighter fighting against unwanted LCD monitors. </p>
+<h2> <img src = "https://masterpaiki.ru/wp-content/uploads/2012/07/16-e%60lektronnyie-platyi-monitora-LG-L1530S.jpg" /> </h2>
+<h2> 8th place - does not respond to control buttons </h2>
+<p> This case is easily treated - you need to remove the frame or the back cover of the monitor and pull out the board with buttons. Most often, you will see a crack in the board or in the solder. </p>
+<p> Sometimes there are faulty buttons or a loop. A crack in the board violates the integrity of the conductors, so they need to be cleaned and soldered, and the board must be glued to strengthen the structure. </p>
+<h2> <img src = "https://masterpaiki.ru/wp-content/uploads/2012/12/4-zashhelki-monitora-Acer-AL2017.jpg" /> </h2>
+<h2> 9th place - reduced monitor brightness </h2>
+<p> This is due to aging of the backlight lamps. According to my data, LED backlighting does not suffer from this. Deterioration of the parameters of the inverter is also possible due to aging of the components. </p>
+<h2> <img src = "https://masterpaiki.ru/wp-content/uploads/2012/12/10-e%60lektronnyie-platyi-monitora-Acer-AL2017.jpg" /> </h2>
+<h2> 10th place - noise, moire and image jitter </h2>
+<p> This often happens due to a bad VGA cable without an EMI suppressor - a ferrite ring. If replacing the cable does not help, then power supply interference may have entered the imaging circuits. </p>
+<p> Usually they get rid of them schematically using filtering capacities for power supply on the signal board. Try replacing them and write to me about the result. </p>
+<p style = "clear: both"> <img src = "https://masterpaiki.ru/wp-content/uploads/2012/12/7-otsoedinit-shleyfyi-monitora-Acer-AL2017-500x239.jpg" / > </p>
+<p> This concludes my wonderful TOP 10 most common LCD monitor malfunctions. Most of the breakdown data is collected from repairs of popular monitors such as Samsung, LG, BENQ, Acer, ViewSonic and Hewlett-Packard. </p>
+<p> This rating, it seems to me, is also true for LCD TVs and laptops. What is your situation on the LCD monitor repair front? Write on the forum and in the comments. </p>
+<p> Regards, Solder Master. </p>
+<h2> P.S .: How to disassemble the monitor and TV (how to snap off the frame) </h2>
+<p> The most common questions when disassembling LCD monitors and TVs - how to remove the frame? How do I release the latches? How to remove the plastic from the case? etc. </p>
+<p> One of the wizards made a nice animation explaining how to disengage the latches from the chassis, so I'll leave it here - it will come in handy. </p>
+<p style = "clear: both"> To <strong> preview the animation </strong> - click on the image. <img style = "float: left; margin: 0 10px 5px 0;" src = "https://masterpaiki.ru/wp-content/uploads/2013/12/Kak-otvesti-zashhelki-monitora-500x363.gif" /> </p>
+<h2> P.P.S .: Power supplies and common LCD malfunctions </h2>
+<p> Recently, monitor manufacturers are increasingly equipping new monitors with external <strong> power supplies in a plastic case </strong>. I must say that this makes it easier to troubleshoot LCD monitors by replacing the power supply. But it complicates the operation and repair of the power supply itself - they often overheat. </p>
+<p> I showed how to disassemble such a corpus in the video below. The method is not the best, but it is quick and can be done with improvised means. </p>
+<h2> DIY LCD Monitor Repair </h2>
+<p> A common malfunction is a situation when the LCD monitor lights up for a second and goes out. What to do in this case and how to use this TOP of faults. </p>
+<p> It's simple. To repair your LCD monitor, follow these steps: </p>
+<p> <ul>
+  <li> Step 1. Disconnect the monitor from the 220 V network and from the computer and decide - we will repair it ourselves or take it to the service for diagnostics at a low cost. </li>
+  <li> Step 2. If you decide to disassemble yourself, then take the tools: screwdrivers, a knife or scalpel and a soft base to lay the monitor down with the matrix. </li>
+  <li> Step 3. Disassemble the LCD display, observing safety precautions and remembering the latches. How they open is shown in the animation above. </li>
+  <li> Step 4. <strong> Discharge the high voltage capacitor. </strong> This is a must! Especially if you want to reach a positive result of the repair. </li>
+  <li>Шаг 5. Осмотреть плату на предмет вздутых конденсаторов, сгоревших транзисторов и микротрещин.</li>
+  <li>Шаг 6. При каких-то находках на Шаге 5 — заменить сгоревшее, пропаять треснувшее.</li>
+  <li>Шаг 7. Проверить работоспособность монитора, <strong>соблюдая технику безопасности.</strong> Если все в порядке, то перейти к Шагу 10.</li>
+  <li>Шаг 8. Взять мультиметр и прозвонить предохранители, диодный мост, трансформаторы и транзисторы. Заменить сгоревшие радиоэлементы.</li>
+  <li>Шаг 9. Проверить работу ЖК монитора. Если монитор продолжает мигать, то проверить напряжения в контрольных точках на плате. Для этого нужны знания схемотехники, а также сервисный мануал со схемой в идеале. Дальнейшие действия сложно описать общими формулировками. Тут начинается творческий процесс Мастера по ремонту. Для обсуждения пишите в комментариях или обращайтесь на наш форум .</li>
+  <li>Шаг 10. В случае успешного ремонта мигающего ЖК монитора своими руками, сделайте тестовый прогон в течение 2-3 часов в разобранном состоянии. После этого монитор можно собирать и эксплуатировать.</li>
+</ul>
+</p>
+
+<h1>Решение проблемы: если не включается монитор при запуске компьютера</h1>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src="https://img.ocompah.ru/wp-content/uploads/2012/11/monitor1.jpg" />В этой статье описаны подробные решения, когда не включается монитор при запуске компьютера, а также даны практичексие советы по устранению данной проблемы. <br />( Кстати, если у вас при включении не только монитор черный и один писк сигнала БИОС, а издает многочисленное количество (от 2-х и более) писков, то посмотрите значение вашего кода ошибки - звуки Биос, ведь может быть дело совсем в другом. )</p>
+<p>Ну, а для тех у кого нет причин смотреть коды ошибок БИОС, а монитор все не включается, есть решения несколько иные.</p>
+<p><strong>!</strong> В первую очередь проверьте работоспособность самого монитора, прежде чем выполнить действия чуть ниже. Проверить его можно очень просто, спасибо за это дополнение автору "Kub", а то я не подумал об элементарной вещи, что не каждый знает и умеет проверить работоспособность монитора, в общем вот его комментарий:</p>
+<blockquote><p>"Современный монитор проверяется элементарно — отключаются кабеля от системника, включается в сеть питание и нажимаем любимую кнопку помер (POWER) лампочка питания горит не мигая а на экране появится надпись — нет соединения или проверьте кабель и т.д… если нет пробуем нажать кнопку меню. если тишина и черный монитор то 95% монитор умер" <br />Ну а далее, соответственно, если монитор не умер совсем, то уже выполняйте следующие рекомендации, <em><strong>когда не включается монитор</strong></em> компьютера.</p></blockquote>
+<h3> 1. Сбросить настройки BIOS.</h3>
+<p>Способ достаточно легкий и часто помогает решить эту проблему. Совсем недавно у одной моей знакомой была как раз таки эта ситуация с моноблоком ACER, лампочка монитора при включении мигала, а сам экран черный и дальше не хотел включаться, хотя и кулеры шумели и дисковод работал, в общем я сбросил настройки БИОС и это помогло.</p>
+<p>Однажды я уже писал решение такой проблемы, когда сбивается время, она как раз связана с батарейкой БИОСа, но сейчас немного о другом, нам нужно сбросить настройки БИОС, что сделать достаточно просто, нужно для начала выключить компьютер, совсем выключить из сети даже, потом открыть крышку системного блока и внутри, на материнской плате найдете батарейку, которую нужно вытащить минут на пять-десять.</p>
+<p>После этой процедуры обратно вставляете на место батарейку и уже включаете компьютер.</p>
+<p>Вот так выглядит батарея БИОСа:</p>
+<p style="clear: both"><img src="https://img.ocompah.ru/wp-content/uploads/2012/11/battery_bios2-300x209.jpg" /></p>
+<p>А вот как она выглядит на материнской плате:</p>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src="https://img.ocompah.ru/wp-content/uploads/2012/11/10-gigabyte-ga-ep43-ds3l1.jpg" /> <br /><img style="float: left; margin: 0 10px 5px 0;" src="https://img.ocompah.ru/wp-content/uploads/2012/11/microshema-bios-ryadom-s-batareikoi1-300x225.jpg" /> <br />На компьютерах, в отличие от ноутбуков, она часто вставлена вертикально к материнской плате, что порой затрудняет найти ее, поэтому ищите внимательно. <br />В компьютерах, кстати, используется в основном всего два вида батареек:</p>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src="https://img.ocompah.ru/wp-content/uploads/2012/11/battery_bios3-300x183.jpg" /> <br />Не помогло это решение? Идем к другому.</p>
+<h3> 2. Проверить контакты.</h3>
+<p>Иногда, просто бывает, что не до конца вставляют модули оперативной памяти в слоты или даже вовсе забывают вставить кабель видеокарты к материнской плате после каких-либо процедур с железом внутри самого ПК, обычно это происходит после очистки компьютера от пыли. Конечно, если неисправна или не включена видеокарта, то должно быть об этом упомянуто на самом мониторе. Но иногда и этого может не быть.</p>
+<p>Так же, "оперативка" должна войти плотно и немного щелкнуть, не надо бить ее молотком или еще чем нибудь, она спокойно входит в слот, просто надо вставить ровно и защелки должны закрыться. Не забудьте проверить и внешние контакты монитора с системным блоком, кабель может отошел, также гнездо могло повредиться или просто запылиться.</p>
+<h3> 3. Почистить от пыли.</h3>
+<p>Если же сброс настроек биос и правильное соединение железа не помогли решить проблему, когда <em><strong>не включается монитор</strong></em>, то посмотрите внимательно может ваш компьютер просто забился пылью, попробуйте снять модули оперативной памяти и почистить как модули, так и слоты для ОЗУ ( оперативное запоминающее устройство ).</p>
+<p>Вот так выглядят модули оперативной памяти:</p>
+<p style="clear: both"><img src="https://img.ocompah.ru/wp-content/uploads/2012/11/Samsung-copy-300x237.jpg" /></p>
+<p>Вот как выглядят слоты, когда уже сняты оперативки:</p>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src="https://img.ocompah.ru/wp-content/uploads/2012/11/05_big-300x187.jpg" /> <br />Слоты можно почистить аккуратненько кисточкой, чтобы попасть во внутрь или просто продуть от туда пыль, а контакты модулей оперативки просто протереть ластиком. После этой процедуры "оперативки" вставляем обратно на место, так же как они и стояли.</p>
+<p>Необходимо почистить и систему охлаждения от пыли, особенно в ноутбуках кулер сильно забивается пылью.</p>
+<p>Дальше посмотрите на видеокарту, а вернее в слот на материнской плате, куда вставляется кабель видеокарты, таким же образом, как и с оперативкой, чистим контакты кабеля видеоадаптера и гнезда на материнской плате.</p>
+<h3>4. Проверить блок питания.</h3>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src="https://img.ocompah.ru/wp-content/uploads/2012/11/ATX350-PNR-300x263.jpg" /> <br />Действительно, неработоспособность блока питания может быть причиной того, что не включается компьютер или правильней сказать он включается, но возможно ему не хватает мощности и за счет этого только <em>мигают лампочки, а монитор не включается</em>. Поэтому нужно обязательно проверить блок питания на работоспособность, к счастью, вашему, очень полезный пост написал Дмитрий Шемякин на своем IT-блоге, который вам поможет проверить блок питания.</p>
+<h3>5. Если совсем ничего не помогает.</h3>
+<p>Обидно, конечно, но такая ситуация случается довольно часто, вроде и контакты проверил и от пыли почистил и БИОС сбросил, а ничего не пашет. Дело в том, что может быть вышла из строя сама материнская плата или видеокарта. Тут еще до поломки надо было проводить диагностику видеокарты на исправность, когда она только давала намеки на поломку.</p>
+<p>Как я уже говорил выше, не все компьютеры умеют предупреждать о неисправности видеокарты и тут надо принимать меры, для начала проверить на другом компьютере свою видеокарту, либо к вам ставить другую и проверить включиться ли монитор. И если дело не в видеоадаптере, то не остается ничего, кроме как поменять материнскую плату.</p>
+<p>Вот на сегодня и все, я вам рассказал о том как решить вопрос, если монитор не включается при запуске компьютера, обязательно подпишитесь на обновления блога, чтобы не упустить следующих материалов.</p>
+

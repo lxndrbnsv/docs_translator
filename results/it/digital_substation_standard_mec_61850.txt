@@ -1,0 +1,40 @@
+<h1> “Digital substation. IEC 61850 ": materials </h1>
+<h3> First day </h3>
+<p> The grand opening began with a welcoming speech by Igor Kosolapov, General Director of the STC FGC UES. </p>
+<p style = "clear: both"> <img src = "http://digitalsubstation.com/wp-content/uploads/2017/10/Igor-Kosolapov-e1507285805915.jpg" /> </p>
+<p> First day reports: </p>
+<p> The first day of the conference ended with a round table. The discussion moderator Sergey Popov (Head of the Digital Substation technology development department of the FGC UES Scientific and Technical Center) raised a key question addressed to manufacturers and designers of technologies based on the IEC 61850 standard: “What is holding back the advancement of the Digital Substation technology, and what stimulates this promotion?”. An active discussion ensued, various reasons were named, someone even said: "Why do we need all these DSPs at all!" We have collected the voiced answers and made a small survey on this topic, it will take less than a minute to complete. </p>
+<h3> Second day </h3>
+<p> The second day of the conference was devoted to practical solutions for the implementation of the Digital Substation technology. </p>
+<p> Reports of the second day: </p>
+<p> <strong> Third day </strong> </p>
+<p> Part of the reports of the third day: </p>
+<p> If any presentation caused you questions, ask them in the comments to the material on the website or in social networks under the corresponding post, and we will contact the right speaker. </p>
+
+<h1> “Digital substation. IEC 61850 ": materials </h1>
+<h3> First day </h3>
+<p> The grand opening began with a welcoming speech by Igor Kosolapov, General Director of the STC FGC UES. </p>
+<p style = "clear: both"> <img src = "http://digitalsubstation.com/wp-content/uploads/2017/10/Igor-Kosolapov-e1507285805915.jpg" /> </p>
+<p> First day reports: </p>
+<p> The first day of the conference ended with a round table. The discussion moderator Sergei Popov (Head of the Digital Substation technology development department at the FGC UES Scientific and Technical Center) posed a key question addressed to manufacturers and designers of technologies based on the IEC 61850 standard: “What is holding back the advancement of the Digital Substation technology, and what stimulates this promotion?”. An active discussion ensued, various reasons were named, someone even said: "Why do we need all these DSPs at all!" We have collected the voiced answers and made a small survey on this topic, it will take less than a minute to complete. </p>
+<h3> Second day </h3>
+<p> The second day of the conference was devoted to practical solutions for the implementation of the Digital Substation technology. </p>
+<p> Reports of the second day: </p>
+<p> <strong> Third day </strong> </p>
+<p> Part of the reports of the third day: </p>
+<p> If any presentation caused you questions, ask them in the comments to the material on the website or in social networks under the corresponding post, and we will contact the right speaker. </p>
+
+<h1> Conference “Digital substation. IEC 61850 standard. Digitalization of electrical networks ": reports </h1>
+<p> The main topic of the conference was the digitalization of electrical networks while ensuring the compatibility of equipment and technological systems (protection, automation, measurement and control) of various manufacturers, developed in accordance with digital substation technology based on the IEC 61850 standard. </p>
+<p> The participants discussed the results of the implementation of digital technologies and equipment (first of all, supporting the IEC 61850 standard), exchanged best practices and tried to determine the prospects for the development of this technological direction. </p>
+<h3> First day </h3>
+<p> On the first day of the conference, 12 reports were made on the use of the IEC 61850 standard: </p>
+<p> At the end of the first working day of the conference, a round table was held, at which a discussion was launched on the materials of the reports. Summing up the results of the first day, the participants noted the large amount of work carried out by FGC to create an electronic catalog of standard solutions for DSPs, since the creation of standard solutions for various types of architectures for building information LAN networks and standard cabinets will significantly speed up the implementation of DSP technology at UNEG facilities. It was also noted that a portal for access to electronic catalogs was created at STC FGC, to which more than 70 organizations (about 1,000 users) were connected. The participants approved the direction of the typification work carried out by FGC. Foreign participants noted that in Russia a lot of attention is paid to the creation of a digital substation based on the IEC 61850 standard, and the problems are considered in many ways (design, commissioning, operation, training). Foreign experts also stressed that the most interesting is the direction of the typification of decisions, in which Russia is in the forefront. </p>
+<h3> Second day </h3>
+<p> The reports of this day were devoted to practical issues of implementation and the experience of introducing DSP technology at power facilities: </p>
+<p> After the end of the second day of the conference, the participants visited the experimental testing ground "Digital Substation" of the STC FGC. </p>
+<h3> Third day </h3>
+<p> The reports of the third day were devoted to various issues of the implementation of the standard and digitalization of electrical networks: </p>
+<p> The conference was organized by STC FGC and DNV GL (Netherlands), the general partner of the event was FGC. [iec61850ru.ru] </p>
+<p> At the time of publication, EnergopromAvtomatization and Elektronmash did not respond to our request to share presentations from the event. </p>
+

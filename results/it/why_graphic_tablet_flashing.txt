@@ -1,0 +1,70 @@
+<h1> Your graphics tablet is blinking and not working </h1>
+<h3> Recent Questions </h3>
+ 
+ 
+ 
+ 
+ 
+ 
+<p> My Wacom One Small pen tablet (CTL-472) is blinking and not working or even visible on my computer, what should I do? </p>
+    
+<p> A short circuit occurs in the board, but there may be a lot of reasons, contact the specialists. </p>
+    
+<p> there may be a problem with the connector, watch out </p>
+    
+<p> The battery, processor, power circuits, firmware failure may be faulty. Need diagnostics at the service center. </p>
+    
+<p> Either connector, wire, or connector controller, start testing with the simplest, wire and connector. </p>
+    
+<p> Hello! <br /> Have you tried rebooting your device? Reset? Unsubscribe if it helped. </p>
+<h3> Related Questions </h3>
+ 
+<p> Wacom Intous Pro L tablets </p>
+<p> Good afternoon! A few days after the purchase, all the side buttons stopped working, although at the beginning they worked fine. V. </p>
+ 
+<p> Wacom Bamboo Pen &amp; Touch Tablets </p>
+<p> I got an error - no supported Bamboo tablets found, what should I do? </p>
+ 
+<p> Wacom Bamboo Pen &amp; Touch Tablets </p>
+<p> My Wacom Bamboo Pen &amp; Touch does not connect to my computer via USB, what is the reason? </p>
+
+<h1> Wacom Tablet, Driver Not Responding or Not Working, Troubleshooting </h1>
+<p> I recently bought a tablet <b> One by Wacom (CTL-671) </b>, installed the driver from the disk, did everything according to the instructions and nothing starts. </p>
+<p> Writes the following: "Tablet driver not responding". </p>
+<p style = "clear: both"> <br /> <img src = "https://habrastorage.org/webt/ul/nz/bc/ulnzbc5ehv7dr4clitk2e6iz8-g.jpeg" /> <br /> </ p >
+<p> Opening the control center, but the tablet is not listed. </p>
+<p style = "clear: both"> <br /> <img src = "https://habrastorage.org/webt/px/gd/qq/pxgdqqu6kolxfusjuuzuj7arty4.jpeg" /> <br /> </p>
+<p> Let's look at how the tablet is recognized by the computer and see that the Wacom Tablet is recognized normally. </p>
+<p style = "clear: both"> <br /> <img src = "https://habrastorage.org/webt/ia/x1/xp/iax1xpsliidtmfvclsowkmw0swm.jpeg" /> <br /> </p>
+<p> After spending 18 hours in torture trying to start the driver, I heard a rumor that it should be installed in the default directory. For me, it was changed through the registry to drive D so that the system partition does not get clogged. </p>
+<p> But even after installing in the "Program Files (x86)" directory, it would not start. And then I turned to the Microsoft program "Process Monitor" and began to monitor the driver's behavior and then a very curious thing turned out ... (besides the fact that there are a lot of non-existent files and errors associated with this in the installation logs) </p>
+<p style = "clear: both"> <img src = "https://habrastorage.org/webt/tu/rm/gt/turmgtaxi6fqjuyu8rnotxd0eqs.jpeg" /> </p>
+<p> The driver suddenly tried to find two files. One does not exist, and the other is located in a completely different "Program Files" directory, from which I conclude that the developers of this driver directly indicated where to access the driver, but did not affect the installation process itself. As a confirmation, I later noticed access to another file in the same way along the strictly specified path. </p>
+<p style = "clear: both"> <img src = "https://habrastorage.org/webt/ru/ha/1r/ruha1rck5tdqp-ewnjdl_xxplks.jpeg" /> </p>
+<p> This means that the <strong> Wacom driver must be located strictly at: C: \ Program Files \ Tablet </strong> and nowhere else. </p>
+<h3> What to do? </h3>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://habrastorage.org/webt/qm/xb/c4/qmxbc4ozeczohdt1-apzqc6jehk.jpeg" /> <br /> Only such processes as in the screenshot should remain in the system after reinstalling the driver (relevant for version 6.3. 31). </p>
+<p style = "clear: both"> <img src = "https://habrastorage.org/webt/eu/xy/c7/euxyc72fcs1jygclcctf2tknroo.jpeg" /> </p>
+<p style = "clear: both"> I also advise you to open the "Wacom Tablet File Utility" and delete the settings for all users. <br /> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://habrastorage.org/webt/pl/_b/m_/pl_bm_47dhxrytt4hn4_v4003-w.jpeg" /> </p>
+<p> The tablet can now be connected, it will install and the Wacom welcome screen will open! </p>
+<p> One way or another, the driver continues to access the file "<strong> Tablet \ Wacom \ WTabletServicePro.ilk </strong>", which does not exist and what role it plays, I do not understand, if anyone has this file, let me know. </p>
+<p> <strong> Additional problems: </strong> <br /> The tablet may stop working - the driver is closed again. It must be restarted without turning off the tablet. </p>
+<p> On the Internet it is proposed to create a file "<em> any name </em> .cmd" </p>
+<p> And write in it: </p>
+<p> (For Bamboo Series) </p>
+<p> This is such a quick way to restart the driver. The tablet will be recognized again and the control window will open. But I think it is necessary for the service to create a start / restart event when the tablet is connected to the computer. </p>
+<p> This article is not subject to comment, since its author is not yet a full member of the community. You will be able to contact the author only after he receives an invitation from someone from the community. Until then, its username will be hidden by an alias. </p>
+<ul>
+  <li> June 30, 2019 at 11:05 pm Configuring Windows 10 Server Manager to manage non-native domain servers </li>
+  <li> August 3, 2019 at 19:08 Installing the USB WiFi adapter driver in Linux (for example DEXP WFA-601) </li>
+  <li> August 29, 2019 at 11:18 pm Installing Windows after Ubuntu 18.04 </li>
+  <li> December 6, 2019 at 11:52 am Setting up the Yii2 Framework working environment using the Docker Toolbox on Windows </li>
+  <li> December 19, 2019 at 11:37 pm Using Windows Server without Explorer from the point of view of a normal Windows user </li>
+</ul>
+<p> This is the "Sandbox" - a section that contains debut posts by users who want to become full members of the community. </p>
+<p> If you have an invitation, send it to the author of the publication you like - then all other Habr users can read and discuss it. </p>
+<p> To eliminate bias in the assessment, all publications are anonymous, aliases are shown randomly. </p>
+
+<h1> Why is my graphics tablet blinking </h1>
+<p> I connect the tablet to the computer, the light comes on, but when I start moving the stylus, the cursor on the monitor does not move. When I press the tablet surface with the stylus, the light blinks, as in normal work. I wore it to fix it, but when I connected it to another computer, everything worked fine. I already changed the tips. <br /> I have already reinstalled the driver. <br /> Is there a problem in the pen or in the computer itself? 8 years </p>
+

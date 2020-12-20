@@ -1,0 +1,33 @@
+<h1> Internet for the office </h1>
+<p style = "clear: both"> <img src = "https://it-yota.ru/internet-dlya-ofisa.jpg" /> </p>
+<p> Today, the activities of any company, regardless of its size and focus, is simply impossible without the Internet. However, it is extremely difficult to choose a worthy provider: poor connection quality, overpriced tariffs, tight limits, the inability to connect outside Moscow - many companies have repeatedly encountered such a service. </p>
+<p> A pleasant exception in the market of Internet providers is Yota, which provides high-speed unlimited wireless Internet with a reliable signal far beyond the metropolis. </p>
+<h2> Office Internet from it-YOTA is the optimal solution for business </h2>
+<p> it-YOTA company is engaged in Internet connection for organizations in Moscow and the Moscow region. We adhere to a policy of the same tariffs for businesses and individuals, making good internet affordable. With us you will be able to cut your expenses for access to the global network by 3-4 times. At the same time, organizations receive priority in traffic distribution as a pleasant bonus. </p>
+<p> In addition, by ordering services from it-YOTA, you will receive: </p>
+<p> <ul>
+  <li> quick installation of a new high-speed unlimited Internet in the office - equipment installation is carried out within one day; </li>
+  <li> combining all the company's equipment into a single network with a data transfer rate of up to 1 Gb / s. </li>
+  <li> the ability to instantly connect without additional settings when moving an office - the mobility of Yota equipment will allow you to regularly change the location of your business; </li>
+  <li> guaranteed quality service and an individual approach to each, even the most difficult situation - highly qualified specialists will allow you to find a non-standard solution for any organization. </li>
+</ul>
+</p>
+<p> Internet Yota for office will be the most optimal solution for your business. </p>
+
+<h1> Yota <br /> for business </h1>
+<h2> Online communication management </h2>
+<h2> Roaming <br /> and calls abroad </h2>
+<h2> Yota Devices </h2>
+<h2> Financial <br /> Documents </h2>
+<p> The ordered documents will be sent to the email address specified in the contract within <br /> a working day. </p>
+<p> If you need to receive closing documents to <br /> another email address, please send <br /> a completed and certified application to the email address <br /> b2b@yota.ru. </p>
+<p> Temporarily ordering documents is not available - we have technical work. Sorry! While you can write to us in the support chat <br /> or on VKontakte. </p>
+
+<h1> Equipment for connecting the office to the LTE network. </h1>
+<p> Many companies are faced with the problem of organizing Internet access in the office. The most common problem is the inflated prices of monopoly providers serving business centers. LTE network is an excellent solution that allows you to provide your office with Internet access for little money - from 450 rubles per month (the cost depends on the speed and provider). </p>
+<h2> Small office (3-5 people) </h2>
+<p> Companies that consume a small amount of traffic (10-20 GB per month) can safely use a set of equipment for MegaFon 4G. The provider uses the same base stations as Yota, but has traffic restrictions, compensated for by the high quality of communication. <br /> Yota equipment kits are ideal for those who need completely unlimited Internet. </p>
+<p> To connect a small office to 4G Internet, it is enough to purchase a simple kit consisting of an LTE modem and a Router. It will allow you to distribute the Internet to several computers. But before buying, it should be borne in mind that not everywhere there is a sufficient signal level to ensure a high-speed and stable connection. <br /> The following typical problems and solutions can be distinguished: </p>
+<p> <b> 1. High or medium signal strength. </b> </p>
+<p> With a good signal level, it is enough to use an LTE modem in conjunction with a router. </p>
+

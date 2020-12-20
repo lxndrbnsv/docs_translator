@@ -1,0 +1,53 @@
+<h1> How to charge a Li-ion 18650 battery? The subtleties of proper charging. </h1>
+<p><strong> 10/18/2018</strong> </p>
+<p style = "clear: both"> <img src = "https://virtustec.ru/image/cache/data/12.10.18.13-370x220.jpg" /> </p>
+<p> Lithium-ion 18650 batteries are widely used as power supplies for a variety of household and electronic appliances. In the form of independent power supplies and as part of rechargeable batteries, they are successfully used in laptops, screwdrivers, radios, flashlights, electronic cigarettes and many other devices. The important advantages of lithium power supplies are significant capacity, low self-discharge, safety of use and no need for maintenance. </p>
+<p> Li-ion batteries have a long service life. But factors such as deep discharge, overcharging, use at low temperatures and non-compliance with the charging rules lead to accelerated wear and tear of the batteries and their premature failure. Therefore, it is important to know what current to charge a Li-ion 18650 battery, use a charger that is suitable for all parameters and follow all the rules for recharging in order to avoid overheating and rapid loss of properties. </p>
+<h2> How to charge high current 18650 batteries </h2>
+<p> For correct charging of Li-ion 18650 batteries it is important: </p>
+<p style = "clear: both"> <ol>
+  <li> Use the chargers intended for this purpose. They automatically start charging at 0.05V and end at 4.2V. This is the maximum safe value for lithium-ion batteries. As for the question of what voltage to quickly charge a Li-ion 18650 battery, all chargers for such batteries are sources of constant voltage of 5 V. They give a charging current, <img style = "float: left; margin: 0 10px 5px 0;" src = "https://virtustec.ru/image/data/12.10.18.14.jpg" /> which is about 0.5-1 battery capacity. </li>
+  <li> Do not exceed the charging time. On average, the charge recovery process takes 3 hours. With a longer charge, the chemical structure of the energy storage device is damaged and it overheats. Smart chargers have an automatic control system and determine the required battery recharging time by themselves. </li>
+  <li> Observe polarity - always connect plus to plus and minus to minus. Not all chargers are able to recognize the correct connection of the battery. If the charging process goes on when the battery is incorrectly connected, it will inevitably fail. </li>
+  <li> Avoid deep discharge of the battery and charging it to its maximum value. It is advisable not to go beyond the charge range of 25 to 90%. This will help prolong the battery life. The popular "pumping" in the form of full charge-discharge cycles is unnecessary and even harmful in this case. Modern Li-ion batteries are usually protected against overheating and overcharging, but are not protected against loss of charge when using devices at low temperatures. It is recommended to store lithium-ion batteries in a moderately charged state at temperatures between + 10 ° C and + 25 ° C. </li>
+</ol>
+</p>
+<p> 18650 battery chargers come in a variety of configurations. For example, there are models with a charging current of 1 A, containing 1 battery, and versions with several "sockets", a charge level indicator, a security system and a maximum voltage of 4.2 V. </p>
+<h2> Choosing the optimal charge current </h2>
+<p> Now let's discuss what current is better to charge 18650 batteries. Possible options are 0.5 A and 1 A. With a charging current of 1 A, the recharging process takes place faster than at 0.5 A, but to preserve the service life of the batteries more a smooth charge is preferred. Therefore, the optimal charge current is 0.5 A. If you need to speed up the recharging process, you can increase the charging current to 1 A, but you should not do this without special need. </p>
+<p> To recharge lithium batteries, it is advisable to use original chargers designed for use with a specific battery model. They clearly understand how much power is needed for a particular battery and stop the charging process in a timely manner. As for the current strength, the original chargers first recharge with a strong current, and close to the end of the recharging process they reduce it. This algorithm helps to avoid overheating of the batteries and extend their life. </p>
+<p> We suggest you familiarize yourself with another informative material - on how to properly charge lithium iron phosphate batteries. </p>
+<p> <iframe src = "https://www.youtube.com/embed/aM17fUwc4nI"> </iframe> </p>
+
+<h1> How to charge a Li-Ion battery? </h1>
+<p> The recommended charging current of a lithium-ion battery directly depends on its capacity and model features. It is not recommended to exceed the recommended charging currents in order not to shorten the battery life. The value of the discharge current (parameter C) approximately corresponds to the value of the capacity of the battery or accumulator assembly. </p>
+<p> The charging process takes place in 2 stages: </p>
+<p> <ol>
+  <li> At constant current (its value is selected from the range 0.2C – 1C, taking into account the recommendations of the battery manufacturer) up to a voltage value of 4.1–4.2 V. </li>
+  <li> At constant voltage until the voltage reaches the cut-off voltage level and the charge current drops to 3% of the original value. </li>
+</ol>
+</p>
+<p> The lithium-ion battery charger is a 5V constant voltage source. It must be sized to deliver approximately 0.5-1 battery capacity. </p>
+<p style = "clear: both"> <img src = "https://www.voltbikes.ru/upload/voltbikes/files/12.jpg" /> </p>
+<h2> What current should be used to charge lithium batteries? </h2>
+<p> As an example, let's determine what current can be used to charge a 48 V, 10 A * h Li-Ion battery, if, according to the manufacturer's requirements, the charge current should be 0.5C, and the discharge current should be 3C. Starting from a capacity of 10 A * h, we select a charger of no more than 5 A (continuous charge current). When choosing a controller (consumer), we also take into account the capacity value and find out that the discharge current should be no more than 30 A (continuous discharge current). </p>
+<p> Similarly, we will calculate with what current to charge 48 V, 20 A * h lithium-ion batteries. Since C≈20, we select a controller (consumer) of no more than 60 A (3C) of continuous discharge current and a charger of no more than 10 A (0.5C) of continuous charge current. Those. we are always guided by the value of the capacity and the manufacturer's recommendations for choosing the value of the charge current (from the range 0.2C – 1C). </p>
+<p> Read about how to properly charge a Li-Ion battery for the first time in this article. </p>
+<p> <iframe src = "https://www.youtube.com/embed/C6obrLeFuns"> </iframe> </p>
+
+<h1> How to charge a Li-Ion battery? </h1>
+<p> The recommended charging current of a lithium-ion battery directly depends on its capacity and model features. It is not recommended to exceed the recommended charging currents in order not to shorten the battery life. The value of the discharge current (parameter C) approximately corresponds to the value of the capacity of the battery or accumulator assembly. </p>
+<p> The charging process takes place in 2 stages: </p>
+<p> <ol>
+  <li> At constant current (its value is selected from the range 0.2C – 1C, taking into account the recommendations of the battery manufacturer) up to a voltage value of 4.1–4.2 V. </li>
+  <li> At constant voltage until the voltage reaches the cut-off voltage level and the charge current drops to 3% of the original value. </li>
+</ol>
+</p>
+<p> The lithium-ion battery charger is a 5V constant voltage source. It must be sized to deliver approximately 0.5-1 battery capacity. </p>
+<p style = "clear: both"> <img src = "https://www.voltbikes.ru/upload/voltbikes/files/12.jpg" /> </p>
+<h2> What current should be used to charge lithium batteries? </h2>
+<p> As an example, let us determine what current can be used to charge a 48 V, 10 A * h Li-Ion battery, if, according to the manufacturer's requirements, the charge current should be 0.5C, and the discharge current should be 3C. Starting from a capacity of 10 A * h, we select a charger of no more than 5 A (continuous charge current). When choosing a controller (consumer), we also take into account the capacity value and find out that the discharge current should be no more than 30 A (continuous discharge current). </p>
+<p> Similarly, we will calculate with what current to charge 48 V, 20 A * h lithium-ion batteries. Since C≈20, we select a controller (consumer) of no more than 60 A (3C) of continuous discharge current and a charger of no more than 10 A (0.5C) of continuous charge current. Those. we are always guided by the value of the capacity and the manufacturer's recommendations for choosing the value of the charge current (from the range 0.2C – 1C). </p>
+<p> Read about how to properly charge a Li-Ion battery for the first time in this article. </p>
+<p> <iframe src = "https://www.youtube.com/embed/C6obrLeFuns"> </iframe> </p>
+

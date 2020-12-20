@@ -1,0 +1,111 @@
+<h1> The mouse is not moving properly or is not stable </h1>
+<p style = "clear: both"> <img src = "https://linchakin.com/files/2012/08/04/mouse.png" /> </p>
+<h3> Problem: </h3>
+<p> The computer mouse is not stable, the cursor is not moving correctly. </p>
+<h3> Could be caused by: </h3>
+<p> This issue can be caused by one of the following reasons. They may vary depending on the mouse connected to the computer. </p>
+<p> <ol>
+  <li> The computer mouse is dirty. </li>
+  <li> Bad surface. </li>
+  <li> Humidity and other external interference on fingers (for Touchpad). </li>
+  <li> Other input devices interfere with normal operation. </li>
+  <li> Problems with the drivers. </li>
+  <li> Optical part is blocked. </li>
+  <li> The mouse is defective. </li>
+</ol>
+</p>
+<h3> Solution: </h3>
+<h3> Computer mouse dirty </h3>
+<p> Check that the mouse and the surface on which it is operated are clean, dust and other materials can interfere with the operation of the LED (laser) in the optical mouse and the ball in the optical-mechanical. </p>
+<h3> Bad surface </h3>
+<p> While most computer mice will work on any surface, if you are suspicious, we suggest trying various other surfaces — mouse pad, book, paper, or whatever — to make sure it’s not the surface causing the problem. </p>
+<h3> Humidity and other external noise on fingers </h3>
+<p> Users who use the touch pad may experience strange mouse cursor behavior due to moisture or other materials on their finger. For example, hand cream. </p>
+<p> And for the reliability of the entire device, a case for a tablet samsung 9.7, or another model, which will protect it from mechanical damage, will not interfere. </p>
+<h3> Disable other external input devices </h3>
+<p> If you have other input devices such as another external mouse, graphics tablet, keyboards, etc. Try disabling these devices to make sure they aren't causing your problem. </p>
+<h3> Update drivers and remove old ones </h3>
+<p> Since drivers control how the mouse interacts with the operating system, if there are problems with the drivers, then there may be problems with the movement of the mouse cursor. Make sure you have the latest drivers from your manufacturers. </p>
+<p> If you have changed your old mouse to a different manufacturer, we strongly recommend that you uninstall the old drivers. </p>
+<h3> Optical part is blocked </h3>
+<p> Users who use an optical mouse are likely to experience strange mouse cursor behavior because part of the optical eye is blocked. This is most often associated with hair. </p>
+<h3> Computer mouse defective </h3>
+<p> If you have done all the above steps to remove mouse malfunctions, and nothing helped, then most likely it is broken. Another test we propose to do to determine if the problem is with the mouse or not, is to connect it to another computer. Otherwise, you may need to replace the mouse. </p>
+
+<h1> The mouse does not react well to movement on the table </h1>
+<p> Computer equipment, like other equipment, requires a responsible approach. Proper maintenance of equipment not only improves the comfort of work, but also significantly increases the service life of products, and protects them from various breakdowns: both technical and mechanical. It would seem that even one of the simplest computer elements - a mouse, requires special attention from the user. It depends on its owner, to a large extent, how efficiently it will work. </p>
+<h2> If the mouse responds poorly to movement on the table </h2>
+<p> Despite the technical complexity of computer components, it is the mouse that most often fails first. This happens due to banal wear, that is, when the user does not change it for a long time, or simply does not follow it well. This is the main reason why the mouse slows down on a computer or laptop. </p>
+<p style = "clear: both"> <img src = "https://setafi.com/wp-content/uploads/2019/02/1_525506578d4f3525506578d53a-1024x683.jpg" /> </p>
+<p> The most common symptom of a malfunctioning mouse is poor laser response to the surface. This can be due to both a poor surface and a malfunction of the laser itself. Therefore, if the work with the mouse has become noticeably worse, it reacts poorly, or you have to move it several times more to get the desired result - in this case, first of all, you need to test its work on another surface. </p>
+<p> It often happens that people do not clean their computer desk from dust, or even eat behind it, which is why more dirt accumulates in the workplace. It is because of her that the work of a computer mouse can be severely disrupted. Even one small hair is enough for the sensor to respond poorly and react incorrectly to the surface. </p>
+<p> In addition, many inexperienced users do not know that there is also an optical mouse sensitivity setting. So, for example, professional cybersportsmen set their minimum sensitivity, which is why they have to perform quick and short movements with their hand several times. For people who pay more attention to working at a computer, this is not necessary, they will need to set the average speed, or slightly higher. </p>
+<p> To change it, you need to go to the "Mouse" tab in the control panel on your computer, then select "Pointer Options" and set the appropriate speed value. Additionally, for more precise mouse control, you can set the "Increased pointer precision" option. By setting this value, mouse movements will be smoother and more precise. </p>
+<p style = "clear: both"> <img src = "https://setafi.com/wp-content/uploads/2019/02/1511896783_vtorostepennye-otlichitelnye-cherty-mezhdu-opticheskimi-i-lazernymi-myshkami.jpg "/> </p>
+<blockquote><p> <strong> Important: <em> More advanced and more expensive mouse models have the ability to adjust the speed with just the touch of a finger. On the surface of the device there is a special button, when pressed, the speed of movement of the cursor also changes. As a rule, this button is backlit, the color of which changes depending on the selected speed mode. This value is called </em> <em>DPI</em> <em>. Professional esports players pay special attention to it, as it plays an important role in accurate and fast control. </em> </strong></p> </blockquote>
+<h2> Most common reasons </h2>
+<p> It is almost impossible to fully describe all the existing reasons for poor performance. This can be due to both mechanical and technical damage to the mouse, and due to problems with the computer itself. However, it is worth highlighting the most common problems encountered by users. Typically, this is: </p>
+<p> <ol>
+  <li> <strong> Too rough surface </strong> - Mouse pads are one of the important factors for comfortable work. It often happens that the devices do not completely match each other, which makes it almost impossible to use a computer. In addition, many people use the device on any surface - a table, book, stand, etc. With this method of operation, the device will not last long and will require replacement. </li>
+  <li> <strong> The presence of dirt </strong> - as mentioned earlier, the cleanliness of the house will also have to be monitored. Otherwise, computer control will be incorrect. </li>
+  <li> <strong> High humidity </strong> is already a more serious problem. In this case, control will not only be impossible, but there is also a high risk of complete loss of the device. Therefore, work must be carried out strictly on a dry surface. </li>
+  <li> <strong> Missing drivers </strong> - the problem often occurs when replacing a device or when updating the operating system. When connecting a new device, you need to install special drivers that come with the product on the installation disk. If it is not available, you must install them manually by downloading them on the Internet. </li>
+  <li><strong> Damage</strong><strong>USB</strong> <strong> Login </strong> is perhaps the most serious and difficult problem. Repairing a connector is usually quite difficult, and at times almost impossible. Complicating the work is the fact that the connector is part of the motherboard, which is the main element of the computer. Therefore, doing such a repair is very difficult and rather dangerous. However, in such cases, only the fact that there are several such USB inputs on the motherboard saves, so work can be safely continued if they are not occupied by other devices. </li>
+  <li> <strong> Mechanical damage </strong> - broken wire, malfunction of the sensor, breakage of individual parts of the product. Most often, in such cases, it will be more rational to simply replace the mouse. </li>
+</ol>
+</p>
+<p style = "clear: both"> <img src = "https://setafi.com/wp-content/uploads/2019/02/1-3.png" /> </p>
+<h2> What to do if the mouse moves poorly </h2>
+<p> Initially, it is worth checking the general condition of the mouse, inspecting it for damage and defects. If visually everything is in order with her, you need to follow several steps: </p>
+<p> <ol>
+  <li> Test it on a different surface, try replacing the rug. </li>
+  <li> Clean the surface of the mat, and also check the mouse sensor for possible debris, carefully dispose of it. </li>
+  <li> View information about installed drivers, if necessary, update them. </li>
+  <li> Try connecting the mouse to a different USB port. </li>
+  <li> Use the standard diagnostic system installed in the operating system. It is located in the "Control Panel" section, in the "Troubleshooting" tab. </li>
+  <li> Scan your computer for viruses with an antivirus program. </li>
+</ol>
+</p>
+<p> Few people know, but malicious viruses also negatively affect the performance of the mouse. Therefore, in case of problems with control devices, an additional check with an antivirus program will be a necessary and useful solution. </p>
+
+<h1> Freezes, twitches, slows down, the mouse cursor works intermittently - why and what to do? </h1>
+<p> Hello! </p>
+<p> At one point, the mouse cursor may start to show instability in its work: freeze, intermittently move, freeze or slow down. In this article, we will consider the possible reasons for such an unpleasant behavior of the mouse pointer. </p>
+<p> There may be several reasons, and we will try to understand what is wrong with it due to the accompanying "symptoms" that may also be observed. </p>
+<p style = "clear: both"> <img src = "https://it-actual.ru/media/Fix-problems-computer-mouse-1.png" /> </p>
+<h2> 1 reason for poor performance of the mouse cursor </h2>
+<p> Your computer is so busy that the system cannot allocate enough resources to keep your mouse cursor running smoothly. </p>
+<p> In this situation, as a rule, it slows down not only the mouse cursor, but also the interface of the operating system itself and the programs launched in it. </p>
+<p> Solution: you need to restart your computer. This is usually enough to restore normal mouse cursor operation. If this does not help and the former performance of the computer is not restored, then you should use the tool to roll back the operating system to a state when everything worked without brakes. </p>
+<h2> 2 reason for the "glitches" of the mouse cursor </h2>
+<p> All modern mice have an optical sensor, which determines the movement of the cursor by the user. However, not every surface is suitable for such mice. On some surfaces, the optical system that is used in the mouse is not always able to correctly detect the movement of the cursor properly. Hence, there are problems with lagging, freezes, etc. </p>
+ 
+<p> Solution: Try using the mouse on a different surface. If the problem is solved, then you should use it on this particular surface or purchase a mouse pad, on which any optical mouse is almost guaranteed to work correctly. </p>
+<h2> 3 reasons why the mouse cursor can slow down and glitch </h2>
+<p style = "clear: both"> <img src = "https://it-actual.ru/media/Fix-problems-computer-mouse-2.png" /> </p>
+<p> Malfunction of the mouse itself. The fact is that over time, the cable that connects the mouse to the computer wears out. It disrupts normal electrical contact, which leads to malfunctions and even the disappearance of the mouse cursor from the system. </p>
+<p> Solution: check this mouse by connecting it to another computer. If it shows instability in work there, then this will confirm the existing fear of its breakdown. In this situation, it will need to be repaired or replaced with a new one. </p>
+<h2> 4 reason the mouse is not working properly </h2>
+<p> If the mouse is wireless (radio or Bluetooth), then from time to time the cursor may jerk. This is due to the fact that the radio signal is less reliable than a wired connection. Especially cheap wireless mice or those that come with the keyboard are often "buggy". </p>
+<p> Solution: in this situation, we can recommend placing the USB receiver as close as possible to the wireless mouse, this should improve its stability. If you plugged the receiver into the USB port on the back of your computer, switch it to the front panel. </p>
+<p> In turn, you too can <strong> help us a lot </strong>. </p>
+<p> Just share the article on social networks with your friends. </p>
+<p> By sharing the results of the author's work, you will provide invaluable assistance to both himself and the site as a whole. Thank you! </p>
+<ul>
+  <li> Did you / did you like the article? Share it on social networks! </li>
+  <li> Thank you! </li>
+</ul>
+<br />
+<p> Hello. <br /> It is no secret that the economy is not doing well now, prices are rising and incomes are falling. And this site is also going through difficult times :-( <br /> If you have the opportunity and desire to help the development of the resource, then you can transfer any amount (even the smallest) through the donation form, or to the following details: </p>
+<p> Bank card number: <em> 5331 5721 0220 5546 </em> <br /> Yandex Money wallet: <em> 410015361853797 </em> <br /> WebMoney wallet: <em> P865066858877 </em> < br /> PayPal: <em> paypal@it-actual.ru </em> <br /> QIWI wallet: <em> +79687316794 </em> <br /> BitCoin: <em> 1DZUZnSdcN6F4YKhf4BcArfQK8vQaRiA93 </em> < / p>
+<p> <strong> Those who provided assistance: </strong> <br /> Sergey I. - 500 rubles <br /> - 468 rubles <br /> - 294 rubles <br /> Maria M. - 300 rubles <br /> Valery S. - 420 rubles <br /> - 600 rubles <br /> Polina V. - 240 rubles </p>
+<p> The money will be used to pay for hosting, domain renewal, administration and development of the resource. Thanks. <br /> Best regards, the creator of the site IT-Actual.ru </p>
+<h4> Read also: </h4>
+<h2> Comments (6): </h2>
+<p> Cordless mice tend to show symptoms: <br /> 1. spontaneous movement of the cursor on the screen <br /> 2. the left mouse button does not work <br /> the most common reason: <br /> 1. most often, a malfunction in the button responsible for DPI resolution (you can try to click N-the number of times or replace the button) due to this malfunction, the left mouse button may not work (sometimes it is true that the micrik is faulty, it is treated by replacement). <br /> This is from personal experience, I mainly use wireless mice on my computer, for repair I use wired PS / 2, USB. </p>
+<p> From personal experience, I can also advise: if the wires are intact or the battery is new, but the cursor is stationary or jerky, then try to disassemble the mouse and wipe the lenses and LED, it may help. Over time, dust gets on them and the mouse starts to work incorrectly. </p>
+<p> Radio mice and others work fine on my computer. But, I bought the cheapest optical mice for 39 UAH. and they all worked terribly. The cursor on the screen often floats in any direction at random until you move the mouse, or jumps to the limits of the screen. <br /> Is it possible to solder some capacitor in the electrical circuit of the mouse, or solder something. Or it's easier to buy an expensive mouse when I'm a pensioner and I can't always afford such pleasure. </p>
+<p> Greetings, Alexander! <br /> The cheapest mice use low quality materials and components. You can hardly improve their performance with any modifications. </p>
+<p> I have a new mouse, I bought it just a month ago, for several days the mouse started to lag a lot, I don't use a rug. For a second - two, the connection with the mouse is completely lost and the computer emits a characteristic signal when you connect something to the computer. Well, it's like I'm just pulling the plug out of the socket and putting it back in. What could be the reason? </p>
+<p> Greetings, Michael! <br /> The matter is in the cable, this reason is described in the material. Since the mouse is new, you can return it under warranty. </p>
+

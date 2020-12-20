@@ -1,0 +1,28 @@
+<h1> Why does the computer get an electric shock. Explanation for dummies. </h1>
+<p> My student read an article that a person was electrocuted from a usb connector in a computer. </p>
+<p> And they began to put forward options: </p>
+<p> 1. Bad power supply. </p>
+<p> 2. Insulation breakdown. </p>
+<p> They were very surprised when they learned that not only a computer can kill, but also a microwave oven, a TV set, and a bunch of electrical appliances. However, they are absolutely serviceable. </p>
+<p> If the power supply unit of the device is PULSE - and such is the case in all computers, televisions, etc., because a massive transformer is not needed - then it is designed to work with grounding. Those plugs initially have 3 wires. </p>
+<p> If the computer is connected to a network without grounding, then on its case there are 110-127 volts, with the maximum current that the network can give out, which is quite enough to kill. </p>
+<p> Don't believe me? Take a voltmeter and measure the voltage between the computer / TV case and the battery. (If your socket is not grounded) </p>
+<p> Do not install your computer near a battery, or piping or other natural earth ground. The child can grab the body and hit him. </p>
+<p> It is clear that this is trivial - but maybe someone will correct the brain, and make life safer. </p>
+
+<h1> Why does the computer get an electric shock. Explanation for dummies. </h1>
+<p> A student of mine read an article that a person was electrocuted from a usb connector in a computer. </p>
+<p> And they began to put forward options: </p>
+<p> 1. Bad power supply. </p>
+<p> 2. Insulation breakdown. </p>
+<p> They were very surprised when they learned that not only a computer can kill, but also a microwave oven, a TV set, and a bunch of electrical appliances. However, they are absolutely serviceable. </p>
+<p> If the power supply unit of the device is PULSE - and such is the case in all computers, televisions, etc., because a massive transformer is not needed - then it is designed to work with grounding. Those plugs initially have 3 wires. </p>
+<p> If the computer is connected to a network without grounding, then on its case there are 110-127 volts, with the maximum current that the network can give out, which is quite enough to kill. </p>
+<p> Don't believe me? Take a voltmeter and measure the voltage between the computer / TV case and the battery. (If your socket is not grounded) </p>
+<p> Do not install your computer near a battery, or piping or other natural earth ground. The child can grab the body and hit him. </p>
+<p> It is clear that this is trivial - but maybe someone will correct the brain, and make life safer. </p>
+
+<h1> The system unit is constantly "beating with current" </h1>
+<p><strong> <em> The system unit is constantly "shocked". It is easy to understand that the problem is in the absence of grounding. In the vastness of the Network, everyone writes that in no case should grounding be done through a heating battery, because this can lead to very disastrous consequences. But then how can you do it? My house is of Soviet construction, panel. All sockets are "phase" + "zero". </em> </strong> </p>
+<p> All but not all. You almost certainly have a three-pin electrical outlet in your home. If at the same time you are using a gas stove, then the outlet is obviously simply idle for nothing. But it has a very good grounding channel just in one of the contacts. It is best to invite a "Zhesovsky" electrician and he, for a very modest amount, will help you to make a tap from the grounding of the above-mentioned outlet. It will also come in handy if you decide to connect a washing machine. If there is no such outlet, or you are using an electric stove and do not want to disassemble the outlet, then you can make a tap from the grounding located in the switchboard on your staircase. It will cost more, if only because of the length of the cable that will have to be led from the shield, but it is still worth it. </p>
+

@@ -1,0 +1,92 @@
+<h1> Why did desktop icons get big </h1>
+<p> Despite the fact that the Windows operating system is relatively (for example, when compared with the capabilities of GNU / Linux) scarce possibilities for customizing the graphical interface, some of its elements can still be changed. In particular, it is possible to change the size of the icons on the desktop. But some PC users who do not know about the existence of the corresponding function may be perplexed when the icons on the screen have become huge. In this regard, they open a search engine or go to a forum and ask why the icons on the desktop have become large. </p>
+<h2> Reasons why desktop icons have resized </h2>
+ 
+<p> Large icons in Windows 7 </p>
+<p> Some of those who have encountered the phenomenon when the icons on the desktop have grown immediately assume that some kind of malicious program has crept into their computer. However, of course this is not the case. Why would a "virus" do such things? The goal of malware now is either to steal personal data or to introduce intrusive ads. </p>
+<p> In fact, the reason why the icons have become larger or, on the contrary - smaller, most often lies in the fact that the user himself accidentally changed them. This could happen, for example, when the desktop area was active, and the user, while holding down the CTRL key, scrolled the mouse wheel up or down. </p>
+<h2> How to return desktop icons to their normal size </h2>
+ 
+<p> Resize icons in Windows 7 </p>
+<p> Why did the desktop icons get big? As we found out, the reason for this phenomenon is rather trivial. Actually, therefore, it is very easy to fix the "problem". </p>
+<p> <strong> The first option </strong>, how to return icons on the desktop to their normal appearance (size), suggests: </p>
+<ol>
+  <li> Activate the desktop area (minimize / close all windows and click on any empty space on the desktop); </li>
+  <li> CTRL key hold; </li>
+  <li> Scroll the mouse wheel down (to decrease the size of icons) and up (to increase them). </li>
+</ol>
+<p> <strong> Another option </strong>, resizing icons on the Windows desktop involves the following actions: </p>
+<p> <ol>
+  <li> Click the right mouse button (left for lefties) on any empty (not on the icon) area of ​​the desktop; </li>
+  <li> Selecting the "View" item in the context menu; </li>
+  <li> Select from the Normal Icons pop-up submenu (standard size). </li>
+</ol>
+</p>
+<p> After that, the desktop icons are guaranteed to change their large size to the one specified by the user. The steps described in both instructions lead to the desired result in all modern versions of Windows (10, 8, 7 and even Vista). </p>
+<p> Be aware that after resizing the icons, they may change their location slightly. For example, if the trash can icon was in the lower right corner, right next to the taskbar, it may slide slightly to the left and up. This applies to all icons. To return them to their original place, you just need to drag the icons to the areas where they were previously. </p>
+<p style = "clear: both"> <img src = "https://lifehacki.ru/wp-content/uploads/2016/11/Ressolition-screen.jpg" /> </p>
+<p> Change the screen resolution in Windows 7 </p>
+<p> There is another case where desktop icons have gotten large - low screen resolutions. However, here the user complains not only about the enlarged icons, but also about the cumbersomeness of the entire interface. If this is the case in your case, then: </p>
+<p> <ol>
+  <li> Click on the desktop; </li>
+  <li> Select Screen Resolution; </li>
+  <li> In the window that appears, find the "Resolution" item and drag the slider there to the maximum value. </li>
+</ol>
+</p>
+
+<h1> How to make desktop icons smaller (or larger) </h1>
+<p> Usually, the question of how to make desktop icons smaller is asked by users who have suddenly enlarged themselves for no reason at all. Although, there are other options - in this manual I tried to take into account all possible ones. </p>
+<p> All methods, except for the last one, are the same for Windows 8 (8.1) and Windows 7. If suddenly none of the following does not apply to your situation, please tell in the comments what exactly you have with the icons, and I will try to help. See also: How to enlarge and shrink icons on the desktop, in File Explorer, and on the Windows 10 taskbar. </p>
+<h2> Shrinking icons after their size spontaneously increased (or vice versa) </h2>
+<p> Windows 7, 8 and Windows 8.1 have a combination that allows you to arbitrarily resize your desktop shortcuts. The peculiarity of this combination is that you can "accidentally press it" and not even understand what exactly happened and why the icons suddenly became large or small. </p>
+<p> This combination is to hold down the Ctrl key and roll the mouse wheel up to zoom in or down to zoom out. Try it (during the action, the desktop must be active, click on an empty space on it with the left mouse button) - most often, this is the problem. </p>
+<p> </p>
+<h2> Setting the correct screen resolution. </h2>
+<p> The second possible option when you may not be satisfied with the size of the icons is the incorrectly set monitor screen resolution. In this case, not only icons, but all other Windows elements usually look awkward. </p>
+<p> The fix is ​​simple: </p>
+<p> <ol>
+  <li> Right-click on an empty spot on the desktop and select Screen Resolution. </li>
+  <li> Set the correct resolution (usually, it says “Recommended” next to it - it is best to set it, because it matches the physical resolution of your monitor). </li>
+</ol>
+ </p>
+<p> Note: if you have only a limited set of resolutions to choose from and all are small (not corresponding to the characteristics of the monitor), then most likely you need to install the video card drivers. </p>
+<p> At the same time, it may turn out that after setting the correct resolution everything has become too small (for example, if you have a small-sized screen with a high resolution). To solve this problem, you can use the item "Resize text and other elements" in the same dialog box where you changed the resolution (In Windows 8.1 and 8). In Windows 7, this item is called "Make text and other elements larger or smaller." And to increase the size of the icons on the screen, use the already mentioned Ctrl + Mouse Wheel. </p>
+<h2> Another way to enlarge and shrink icons </h2>
+<p> If you are using Windows 7 and you have the classic theme installed (by the way, this helps to speed up a very weak computer), then you can separately set the size of almost any element, including icons on the desktop. </p>
+<p> To do this, use the following sequence of actions: </p>
+<p> <ol>
+  <li> Right-click on a blank area of ​​the screen and click Screen Resolution. </li>
+  <li> In the window that opens, select "Make text and other elements larger or smaller. </li>
+  <li> Select Change Color Scheme from the menu on the left. </li>
+  <li> In the window that appears, click the "Other" button </li>
+  <li> Adjust the dimensions for the desired elements. For example, select Icon and set its size in pixels. </li>
+</ol>
+</p>
+<p> After applying the changes made, you will get what you configured. Although, I think, in modern versions of Windows OS, the latter method is not useful to anyone. </p>
+
+<h1> Desktop icons have increased what to do </h1>
+<p> The screens of monitors are getting larger, the resolution of the screens is also growing, and therefore the icons on the desktop are getting smaller. Small labels are extremely inconvenient because they are more difficult to hit, especially for people with low vision. In this regard, many have a question - <strong> How to increase (decrease) desktop icons on Windows XP, Windows 7, Windows 8 </strong>. In this article, I'll walk you through how to do it step by step. </p>
+<h3> <strong> How to enlarge (shrink) desktop icons in Windows XP. </strong> </h3>
+<p> There are two ways to enlarge or reduce desktop icons in Windows XP: </p>
+<p> <strong> Method 1 </strong>. Right-click on an empty area of ​​the desktop and select Properties from the context menu. <strong> <br /> </strong> </p>
+<p> </p>
+<p> Select the "Appearance" tab and click the "Effects" button. In the window that opens, check the box next to "Apply large icons" (to reduce the icons, respectively, uncheck this item). Then click "OK" in both windows. </p>
+<p> </p>
+<p> <strong> Method 2 </strong> Right-click on the desktop and select Properties. </p>
+<p> </p>
+<p> Go to the Appearance tab and click the Advanced button. </p>
+<p> </p>
+<p> Then, in the Element field, select "Icon" and in the Size field specify the desired size (the default is 32). </p>
+<p> </p>
+<p> As you can see, the second method will allow you to adjust the size of the icons more precisely. </p>
+<h3> <strong> How to enlarge (reduce) desktop icons in Windows 7. </strong> </h3>
+<p> There are two ways to enlarge (reduce) icons in Windows 7: <strong> <br /> </strong> </p>
+<p> <strong> 1 Method. <br /> </strong> </p>
+<p> Click on an empty space on the desktop (or on a shortcut on the desktop), press and hold the "Ctrl" key and use the mouse wheel to adjust the size of the icons to your liking. <strong> <br /> </strong> </p>
+<p> <strong> Method 2 </strong> </p>
+<p> Right-click on the desktop, select View and size the icons you want. </p>
+<p> </p>
+<p> As you can see, the first method is more convenient and allows you to choose exactly the size of the icons that you need. </p>
+<h3> <strong> How to enlarge (reduce) icons on the desktop in Windows 8 / 8.1. </strong> </h3>
+<p> Increasing or decreasing icons in Windows 8 / 8.1 is the same as in Windows 7. Therefore, see <strong> how to do this in Windows7 </strong>. </p>
+

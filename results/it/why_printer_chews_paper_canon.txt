@@ -1,0 +1,121 @@
+<h1> Why does the printer jam the paper and won't print </h1>
+<p> Often, office equipment users are faced with the problem of unstable operation of the printer or MFP, which manifests itself in the fact that paper jams periodically in the device. All this complicates the printing process and brings a lot of inconvenience. How to deal with this problem? And, most importantly, what are the reasons for the printer chewing on the paper? </p>
+<p style = "clear: both"> <img src = "https://www.orgtech.info/wp-content/uploads/2017/07/printer_zazhevyvaet_bumagu_1.jpg" /> </p>
+<h2> Paper problems </h2>
+<p> Remember that the reason why the printer chews on paper can be quite simple. For example, the use of low-quality consumables. We are talking about cheap paper from unknown manufacturers. Of course, your printer will print on it for a while, and then start chewing on the sheets. The fact is that the cellulose particles gradually peeled off and adhered to the rollers and other important mechanisms of the printing device. </p>
+<p> The use of paper that is too thick and too thick can also lead to unpleasant consequences. Often after that, the device crumples the sheets. Or does not print at all, but only writes about some kind of error. <em> The easiest way to diagnose is that the paper class is not suitable for printers </em> <em> canon </em> <em> and hp - in this case they chew paper on one side. </em> </ p >
+<p> A paper jam can also be explained by the fact that: </p>
+<p> <ul>
+  <li> The corner of the sheet was folded; </li>
+  <li> One of the sheets was dented, damaged or torn; </li>
+  <li> Some sheets sent to the paper tray were stapled or stapled together; </li>
+  <li> The paper stack is too large in the tray, causing the printing unit to pick up multiple sheets at once. </li>
+</ul>
+</p>
+<p style = "clear: both"> <img src = "https://www.orgtech.info/wp-content/uploads/2017/07/printer_zazhevyval_bumagu_1-e1500362554990.jpg" /> </p>
+<p> Don't worry. Paper problems are quickly and easily resolved. In the worst case, chewing occurs somewhere in the middle of the leaf. You can pull it out both through the back panel and through the tray, where already printed sheets fall. In turn, in order to avoid subsequent jamming of the paper, it is enough to make sure that it is correctly inserted into the printer, its quality and parameters correspond to all necessary, there are no uneven or wrinkled sheets. </p>
+<p> Unpleasant consequences can be only in those cases if the paper is jammed due to the ingress of foreign objects - paper clips, stickers, staples, and other stationery. This can easily damage the feed sensors or drum unit. The prices for such components are quite high. And you can't do without the help of specialists. </p>
+<h2> Printing device problems </h2>
+<p> If the printer jams or chews the paper, then problems in the device itself may be the cause. These include malfunctions of some parts, internal malfunctions, contamination or overheating of mechanisms, and many others. etc. Let's consider the most common problems that lead to jamming of sheets in the printer when printing: </p>
+<p> <ul>
+  <li> <em> Overheating of the mechanical parts of the printer </em>. It often happens when printing large and voluminous texts that take about fifty pages or more. Stop the printing device and allow time for all parts to cool down. In the future, you only need to print in small batches. </li>
+  <li> <em> Brake pad wear </em>. This problem is especially common with Samsung printers. The fact is that a special rubber layer wears out at the brake pad. As a result, it ceases to properly hold the paper, skipping several sheets at once. Because of this, chewing occurs. You need to contact the service center or replace this part yourself. </li>
+  <li> <em> Dirty or worn paper pick rollers. </em> Try cleaning the rollers with cotton swabs or a lint-free cloth first. If this does not help, then the reason may be excessive wear of these parts. As a rule, the rubber coating on the working surface "suffers" in the first place. It is best to install new videos. <em> By the way, if the rollers fail, the paper often chews at the exit. It is worth keeping this in mind in order to quickly determine the cause of the printer instability. </em> </li>
+</ul>
+</p>
+<p> Naturally, these are not all problems associated with the technical part of the printer, which can lead to paper jams. In fact, there are many more of them. At the same time, a significant part of such malfunctions can be diagnosed and corrected only in a specialized service center. </p>
+<p style = "clear: both"> <img src = "https://www.orgtech.info/wp-content/uploads/2017/07/printer_popala_skrepka_1.jpg" /> </p>
+<p> staple hit the printer </p>
+<h2> What to do if the printer has jammed the paper? </h2>
+<p> Not only does the user need to try to determine the cause of the paper chewing, it also needs to remove the jammed sheet. The best way to do it is as follows: </p>
+<ol>
+  <li> Unplug the printing device. </li>
+  <li> Delete all print jobs. </li>
+  <li> Open the cover on the printer or MFP itself. It can be at the back, side or top. It all depends on the model. </li>
+  <li> Now remove the jammed paper. The first step is to remove the cartridge. At the same time, inspect it and adjacent surfaces for foreign objects. </li>
+  <li> Next, you need to get the chewed leaf. Remember that if it is stuck at the beginning or in the middle, then pull it towards the opposite side of the seal. If it is jammed at the exit, that is, at the end, then pull in the direction of printing. </li>
+  <li> It is necessary to pull the sheet carefully, evenly distributing all efforts. </li>
+  <li> Is the paper torn? There is nothing critical about this. Use regular tweezers to remove leftovers and small pieces. </li>
+  <li> After all the procedures, we return the cartridge to its place. Don't forget to close the printer cover. </li>
+  <li> All that remains is to turn on the device and check its functionality. </li>
+</ol>
+<p> <iframe src = "https://www.youtube.com/embed/sEHbkGf2eSU?feature=oembed"> </iframe> </p>
+
+<h1> The printer chews on paper: reasons in and out </h1>
+<p style = "clear: both"> The printer can wrinkle, wrinkle and chew paper for various reasons, but they can all be divided into two large groups: reasons for paper chewing at the entrance to the printer, and those, but already at the exit him. <br /> <br /> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://remprint.spb.ru/wp-content/uploads/2018/04/zamyatie-300x197.jpg" /> Let's talk about specific reasons and how to fix them, because in most cases you can solve the problem yourself, if you calm down, figure it out and do everything as it should. At the same time, it should be understood that under certain conditions only specialists will be able to solve the problem, so you should initially assess the situation adequately, so as not to start repairing what cannot be repaired and not to aggravate the situation. </p>
+<h2> Chewing paper at the entrance - what are the reasons? </h2>
+<p> The printer can chew the paper at the entrance, and often this is due to the paper itself. The reasons may be: </p>
+<p> <ul>
+  <li> poor quality of the paper itself. The sheet is too thin, and therefore may jam at the entrance; </li>
+  <li> the stack of paper is too thick, because of which the printer picks up several sheets at once or picks up one sheet and catches the second partly, which causes a paper jam; </li>
+  <li> there are foreign objects on the paper, such as paper clips, staples, or something else. You should inspect the paper and remove any foreign objects; </li>
+  <li> individual sheets in the stack are initially bent or damaged in some way, such sheets should be removed from the stack. </li>
+</ul>
+</p>
+<p> If the printer chews paper at the entrance, then, as you understand, fixing the problem is not so difficult, and as a rule, there is no need for specialized help. </p>
+<h2> Printer chews paper exit </h2>
+<p> If the paper is jammed and chewed at the exit, then more serious problems arise. But a number of them can also be solved independently: </p>
+<p> <ul>
+  <li> you should check the paper size that is set on the printer and in the computer, as well as whether the parameters match the actual size. If the format is different, or different values ​​are set on the printer and the computer, then you need to correct the error; </li>
+  <li> stop the printer and allow it to rest if it has been running for too long or is hot. Overheating can cause the printer to chew on paper. </li>
+  <li> foreign objects in the paper feed mechanism. Any object falling into it can stop the operation of the printer or lead to paper jams. Check the feeder if you encounter this issue. </li>
+</ul>
+</p>
+<h2> When to contact a specialist? </h2>
+<p> There are a number of reasons why the printer chews on paper, it is difficult or impossible to eliminate yourself. Therefore, you should contact the service center or private specialists if all the activities described above did not bring results. </p>
+<p> Among the reasons that can lead to paper jams in the printer, and which are difficult to eliminate on your own, are: </p>
+<p> <ul>
+  <li> the paper feed rollers are dirty. Of course, you can clean the videos yourself, but you can do it with insufficient quality. Plus, using the wrong cloth to wipe the rollers can make the problem worse; </li>
+  <li> the worn out rollers require their replacement, and it is also not worth doing such a replacement yourself. It is much easier and even cheaper to entrust it to specialists; </li>
+  <li> improperly assembled cartridges can deform individual components and cause paper wrinkles. If you installed the cartridges yourself and did it wrong, then do not try to fix everything, it is better to contact the professionals. </li>
+</ul>
+</p>
+<h2> Video on what to do when the printer chews on paper </h2>
+<p> <iframe src = "https://www.youtube.com/embed/HMsj8aP51OU?rel=0"> </iframe> </p>
+
+<h1> What to do if the printer chews on paper </h1>
+<p> Modern office equipment, laser and inkjet printers, are subject to frequent breakdowns. Many of them are simple but unpleasant. For example, the machine wrinkles the paper. </p>
+<p> What will be discussed: </p>
+<h2> Reasons for chewing </h2>
+<p> <strong> When diagnosing a problem, the first step is to identify where the paper is wrinkling: </strong> </p>
+<p> <strong> Entrance chewing can have several causes, all of which are paper-related: </strong> </p>
+<ul>
+  <li> a very thick stack is installed in the bin - the gripper does not feed the sheet evenly and it wrinkles; </li>
+  <li> the corner of the sheet is bent, which changes its path of movement, and it wrinkles or gets stuck inside; </li>
+  <li> foreign objects accidentally remain on the sheets. These can be staples or staples. The situation that has arisen, the most unpleasant one - the printer may be damaged, which will result in significant amounts during its repair in specialized workshops. </li>
+</ul>
+<p> Elimination of the reasons, in this case, is available to any user. The jammed sheet must be pulled out carefully, without jerks, without using objects that can damage the thermal film and photoconductor (needle, knives, scissors). Look through the stack of paper and find defective and damaged sheets, remove them. </p>
+<p style = "clear: both"> <img src = "http://printergid.ru/wp-content/uploads/2018/01/printer-zhuet-bumagu-6.jpg" /> </p>
+<p> More complex tasks will have to be solved if a jam occurs at the exit, since the fault can be not only in the paper, but also in the printer itself. There could be many reasons for this. Basic: </p>
+<p> <ul>
+  <li> poor quality paper; </li>
+  <li> dirty videos; </li>
+  <li> wear of parts of the feeder; </li>
+  <li> configuration errors; </li>
+  <li> overheating; </li>
+  <li> foreign objects hit the feeder; </li>
+  <li> cartridge installed incorrectly after replacement. </li>
+</ul>
+</p>
+<h3> Paper </h3>
+<p> Paper is the most common cause of paper jams. There can be a simple mistake in installing the guide rails, or using the wrong type of paper. It differs in density and moisture. Both parameters, if they do not meet the criteria laid down in the printer being used, tend to jam and wrinkle in the transport mechanism. </p>
+<p> The problem is being solved by refusing to use cheap, thin paper. It should not be less than the recommended one, but not more than 90 g / sq.m. Thicker paper is also not suitable for the application. It is either not captured by the rollers, or creates a heavy load on the pulling mechanism and breaks it over time. Optimum density - 80 g / m2. </p>
+<h3> Dirty rollers </h3>
+<p> The feed and exit rollers are small plastic cylinders. For better adhesion to the sheets, they are covered with rubber with a rough surface. Dirt on them can leave both dirty streaks on printed documents and unevenly stretching the paper, which often leads to paper jams. </p>
+<p> In this case, you can wipe the rollers yourself with a damp, lint-free cloth (during the cleaning process, the fibers can stick to the rubber surface and aggravate the problem). If cleaning fails at home, it is best to contact a service center or replace the broaching mechanism. </p>
+<p> Attention: clips are designed for a certain number of copies. When their number is reached, they must be replaced, since they can grab several sheets, chew paper, leave marks on the printed text. </p>
+<h3> Worn feed parts </h3>
+<p> At least nine parts of the printer are involved in the process of feeding a sheet of paper. With intensive use of the device, each of them can fail. For example, a squeak or rustle noise when a paper is jammed indicates a failure of the fusing unit. It needs to be replaced. </p>
+<blockquote> <p> Home repair of the feeder is not recommended. The work must be done by specialists. </p> </blockquote>
+<h3> Errors in configuration </h3>
+<p> Incorrect printer settings will also cause it to chew paper. This happens when there are conflicting format selection settings in the computer and the printer. Remember that priority should always be given to the printing device. Therefore, you should stop printing and change the format settings on your computer to match the settings on your printer. </p>
+<h3> Overheating </h3>
+<p> Continuous operation for a long time will cause the printer to overheat, which will also lead to paper jams. In such cases, work is stopped and the apparatus is allowed to cool down. The further printing process must be carried out in small portions of documents to avoid reheating. </p>
+<h3> Foreign objects hit the feeder </h3>
+<p> The most unexpected objects can get into the printer's feeder, from paper clips to screws. To find and remove them, you need to open the cover that covers the cartridges and explore the inside of the printer with a flashlight. All unnecessary is, as a rule, in the corners - the carriage with its movement drives foreign objects exactly there. If it's clear, look behind the carriage. An extra item may be there. Carefully and delicately remove the find, close the lid. </p>
+<h3> Incorrect cartridge assembly </h3>
+<p> Deformation of the components and parts of the printer, due to the inept installation of the cartridge, is also the reason for chewing paper sheets - meeting an unplanned obstacle on their way, they change their trajectory and wrinkle. </p>
+<blockquote> <p> Install the cartridge according to the instructions and very carefully. </p> </blockquote>
+<p style = "clear: both"> <img src = "http://printergid.ru/wp-content/uploads/2018/01/printer-zhuet-bumagu-4.jpg" /> </p>
+<p> The described malfunctions occur mainly due to the fault of the people using the printer. Inappropriate or inattentive work can lead not only to the problem of chewing the printed sheets, but also to serious breakdowns requiring expensive repairs. </p>
+

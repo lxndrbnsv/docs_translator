@@ -1,0 +1,81 @@
+<h1> How to transfer files via usb from Android to PC </h1>
+<p style = "clear: both"> <img src = "https://upgrade-android.ru/images/Stati9/1USB/USB0.jpg" /> </p>
+<p> How to transfer files via usb from Android to PC. We have previously published an article on the topic How to transfer files over Wi-Fi from Android to a computer. Now let's look at an easier way - how to transfer files from Android to computer via USB. Nowadays, everyone is trying to abandon wires as much as possible in favor of wireless technologies, but sometimes you simply cannot do without good old wire. </p>
+<h3> How to transfer files from Android to computer via USB </h3>
+<p> The USB cable today comes with all Android devices, most often it is part of the charger. If you need to upload files to Android from your computer or vice versa, do the following: </p>
+<p> <ol>
+  <li> Connect your smartphone to PC via USB cable </li>
+  <li> Select Smartphone Connection Mode </li>
+  <li> On your PC, go to My Computer and select the device that appears </li>
+</ol>
+</p>
+<p> There are several available modes for connecting a smartphone to a PC. This can be a removable disk, media device (MTP), or camera (PTP). The camera allows you to use the built-in smartphone camera to capture photos or videos, while other options give access to all open folders. </p>
+<p style = "clear: both"> <img src = "https://upgrade-android.ru/images/Stati9/1USB/USB1.png" /> </p>
+<p> Different smartphones and tablets on Android, when connected via a cable, are displayed on the computer in different ways, most often - as a media device or a removable disk. If two removable drives are displayed, these are the internal memory of the Android device and an external memory card. </p>
+<p style = "clear: both"> <img src = "https://upgrade-android.ru/images/Stati9/1USB/USB2.png" /> </p>
+<p> Now you can transfer files from Android or to it as to a regular USB flash drive. If the Android device is locked with a password, pattern or fingerprint scanner, unlock it, after which the folders from the smartphone will become available on the computer. </p>
+<h3> Program for connecting Android to a computer </h3>
+<p> There are programs to expand the possibilities when connecting Android to a PC. Some of them are designed specifically for certain device models, and there are universal programs from third-party developers. For example, Mobile Go. </p>
+<p> With Mobile Go, you can do more than just connect your smartphone to your computer to transfer files. The program allows you to fully control the device from a PC. You can display an image on your computer screen, manage installed applications, contacts and other data, view photos and videos, save and restore device backups, receive and send messages, and much more. </p>
+<p style = "clear: both"> <img src = "https://upgrade-android.ru/images/Stati9/1USB/USB3.jpg" /> </p>
+<p> How to transfer files from Android to computer via USB Android and vice versa via Mobile Go: </p>
+<p> <ol>
+  <li> Download the Mobile Go utility on the program website and install </li>
+  <li> Enable USB debugging on Android in the developer menu (see our article on how to enable the Developer menu) </li>
+  <li> Connect smartphone to computer via USB cable </li>
+  <li> Select Files section in Mobile Go </li>
+</ol>
+</p>
+<p> <em> The program will independently detect your device and install drivers to work with your device. Also with Mobile Go you can connect to your PC via Wi-Fi </em>. </p>
+<h3> The phone does not connect via USB to the computer, but only charges. What to do? </h3>
+<p> If your Android does not connect via USB, but only charges, then you can try the following: </p>
+<p> <ul>
+  <li> Connect the cable to a different USB port (preferably version 2.0 and higher) on your computer </li>
+  <li> Try to transfer files via USB to your smartphone using another cable, some cables are only for charging, including defective ones </li>
+  <li> Check if you have any mechanical damage in the socket on your smartphone </li>
+</ul>
+</p>
+<p> If your smartphone connects to other computers but yours does not, run a troubleshooter on your PC to automatically fix the problem. To do this, go to Control Panel and select Troubleshoot. </p>
+<h3> Windows XP cannot see Android </h3>
+<p> This is a fairly common problem for this version of Windows as it is deprecated. You need to either update Windows to the latest version, or install the MTP protocol from the Windows developers site. </p>
+
+<h1> Best Android to PC File Transfer Apps | TOP-5 </h1>
+<p> One of the most common tasks for users is to transfer files from their mobile phone or tablet to their work PC. Sometimes it’s a photograph, other times it’s a song, and in many other cases it’s a document, presentation or other file that needs to be transferred. There are actually quite a few ways to transfer files from Android to PC (and vice versa), we'll cover them here. </p>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "http://www.androidtop.org/uploads/posts/2017-09/thumbs/1504663675_airdroid.png" /> <b> AirDroid </b> <br /> AirDroid-Remote-access-File_v4.1.4 .1.apk [24.57 Mb] (Downloads: 3748) <br /> AirDroid is one of the most popular applications for transferring files from Android devices to PC. The app can do other things as well. Features include sending and receiving SMS / MMS using a PC, viewing notifications from your device, and more. It can even find a lost phone, control a camera, and use apps. You can also transfer files to your computer from your phone. You get all the basic features for free. You will need to subscribe to additional services to get everything. This is not ideal, but works well. </p>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "http://www.androidtop.org/uploads/posts/2017-09/thumbs/1504663582_cloud-storage.png" /> <b> Cloud Storage </b> <br /> Google-Drive_v2.7.292. 06.35.apk [20.74 Mb] (Downloads: 1052) <br /> Cloud Storage is a great way to transfer files from Android to PC and vice versa. You can choose from a variety of services including Dropbox, Google Disk, OneDrive, Box.com and more. File transfer is easy enough. You upload a file to cloud storage from one device. Then you download the file from cloud storage to another device. Most cloud storage apps have their own dedicated apps. This will make the process easier. But in this ranking we have collected the best data transfer applications. </p>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "http://www.androidtop.org/uploads/posts/2017-09/thumbs/1504663620_pushbullet.png" /> <b> Pushbullet </b> <br /> Pushbullet-SMS-on-PC_v17.7.13 .apk [4.5 Mb] (Downloads: 640) <br /> Pushbullet is also one of the best applications for transferring files from PC to Android and vice versa. An app can do a bunch of other things. Features include sending and receiving SMS / MMS messages, clipboard sharing between devices, checking notifications, and of course file transfer. The application is not as complex as other services. However, it works. The free version offers enough for sending random text or transferring small files. The PRO version supports all functions. It will cost you $ 4.99 per month. </p>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "http://www.androidtop.org/uploads/posts/2017-09/thumbs/1504663603_resilio-synk.png" /> <b> Resilio Sync </b> <br /> Resilio-Sync_v2.5.8. apk [18.64 Mb] (Downloads: 606) <br /> Resilio Sync (formerly BitTorrent Sync) is a kind of wildcard solution. The app is very similar to cloud storage. However, a cloud storage server is your own desktop or laptop. You can sync as much data as you like, transfer files back and forth at will, and more. The app also promises support for Mac, Linux and Windows. This is definitely one of the safest options. Your files are never on the cloud server. It's just that your phone and your computer are talking to each other. The app is completely ad-free and no in-app purchases. This is the app we recommend you try first. However, it doesn't take much to customize. </p>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "http://www.androidtop.org/uploads/posts/2017-09/thumbs/1504663584_solid-explorer.png" /> <b> Solid Explorer </b> <br /> Solid-Explorer-File- Manager_v2.2.8.apk [9.98 Mb] (Downloads: 602) <br /> Solid Explorer is one of the best file manager-based applications for mobile devices. It can also transfer files from your Android device to your computer. The app can connect to FTP, SFTP, WebDav, SMB / CIFS and other clients. You can also connect to various cloud accounts to transfer files. You will need to create one of these for this to work. However, Solid Explorer does a great job of managing everything once you set it up. The app has a free trial. You must pay $ 1.99 for the full, unlimited version. </p>
+<p> <b> Ways to transfer files other than apps </b> <br /> If an app isn't your option, there are other ways to transfer files to your Android PC and vice versa. </p>
+<p> <b> Use Bluetooth </b>. If your laptop has a Bluetooth module or you have a Bluetooth dongle for a PC or laptop, you can pair your device with a computer via Bluetooth and transfer files that way. The transmission speed is very slow. You probably don't want to use this method for transferring videos or a lot of files. </p>
+<p> <b> USB On-The-Go - USB OTG Cables </b> allow you to connect USB devices to your Android device, be it a mouse, keyboard or external hard drive. The list also includes flash drives. You can use the cable to transfer documents to a USB stick or external hard drive by connecting them directly to your Android device. They're also relatively cheap on sites like Amazon. </p>
+<p> <b> Email Transfer </b> - This solution only works with small files like photos or documents. But you can send most types of files by email. Most emails have a limit of about 25 MB for attachments. This is enough to transfer random photos. </p>
+<p> <b> Use a data / charging cable. </b> This is a pretty obvious solution. Just connect your phone to your computer using the USB cable that comes with the charger. It should be sufficient for most tasks. </p>
+
+<h1> Android to Computer File Transfer Program </h1>
+<p> Quite often we need to transfer files from our mobile devices to our computer and vice versa. Under different circumstances, we use different methods for this, and to be honest, there is no universal one. In this article, we will consider several options to drop files of different sizes and formats from Andro> </p>
+<p style = "clear: both"> <img src = "https://s.androidinsider.ru/2019/08/5-best-Android-apps-to-transfer-files-from-Android-to-PC -750x377.png "/> </p>
+<h2> AirDroid </h2>
+<p> AirDroid is one of the most popular Android to PC file transfer apps. In addition to its main purpose, AirDroid allows you to do other things: send and receive SMS / MMS messages directly on your computer, view notifications from your mobile device on your computer, and much more. AirDroid can even locate a lost phone, control its camera, and use Android apps on a PC. The basic features in AirDroid are free, but additional features range from $ 1.99 / month to $ 19.99 / year. </p>
+<p style = "clear: both"> <img src = "https://s.androidinsider.ru/2019/08/AirDroid-750x422.jpeg" /> </p>
+<h2> Cloud Storage </h2>
+<p> Cloud Storage is another great way to transfer files from Android to PC and vice versa. This app offers you a variety of cloud storage options for sharing files between devices, including Dropbox, Google Drive, OneDrive, and more. Transferring files to Cloud Storage is very easy. You upload a file to cloud storage on one device and then download it to another device. Most cloud storage has its own dedicated applications, but the advantage of Cloud Storage is that it supports many of them and allows one place to interact with them, thus simplifying the process. </p>
+<p style = "clear: both"> <img src = "https://s.androidinsider.ru/2019/08/Cloud-Storage-750x422.jpeg" /> </p>
+<p> Feem has a slightly different way of sharing files between devices. The application allows you to transfer different files from device to device if they are connected to the same Wi-Fi network. You can transfer files from smartphones, tablets, computers and laptops (and to them too). You need to run Feem on any two of these devices, the devices will detect each other, and then you can start transferring files. That being said, Wi-Fi doesn't even have to be connected to the actual internet. A local area network is all you need. Feem is very simple, free, and has a Material Design interface. </p>
+<p style = "clear: both"> <img src = "https://i.ytimg.com/vi/xUv3qwBmPJ0/maxresdefault.jpg" /> </p>
+<h2> Pushbullet </h2>
+<p> Pushbullet functionality is very similar to that of AirDroid. Pushbullet also allows you to send and receive SMS / MMS messages from your computer, use a shared clipboard between devices, receive notifications on your PC from your smartphone and, of course, transfer files. This may sound complicated, but the application is actually very simple. The free version of Pushbullet only allows you to transfer small files. The Pro version opens up all the possibilities, but you have to pay $ 4.99 per month for it. </p>
+<p style = "clear: both"> <img src = "https://i.ytimg.com/vi/4SdAzP-5sUw/maxresdefault.jpg" /> </p>
+<h2> Resilio Sync </h2>
+<p> Resilio Sync works like a torrent. The application creates something like a cloud storage, but only your own computer or laptop acts as a server. Through Resilio Sync, you can sync as much data as you like, transfer files back and forth, and more. The app supports all popular desktop platforms (Mac, Linux and Windows) and is definitely one of the most secure options. Your data is not located on some cloud server, but is stored on your personal device, from which it is also transferred to your other devices. The app is completely free, contains no ads or in-app purchases. </p>
+<p style = "clear: both"> <img src = "https://s.androidinsider.ru/2019/08/Resilio-Sync-750x421.jpeg" /> </p>
+<h2> How to transfer files from computer to Android smartphone (and vice versa) without special applications </h2>
+<p> If you don’t want to use any applications to transfer files, there are several more ways for which applications are not needed. </p>
+<p> <strong> Use Bluetooth. </strong> If your laptop has a Bluetooth module or you have a Bluetooth desktop adapter, you can connect your mobile device to your computer via Bluetooth and send files that way. The transfer speed is very slow, so this solution is better for small files. </p>
+<p style = "clear: both"> <img src = "https://s.androidinsider.ru/2019/08/USB-OTG.jpeg" /> </p>
+<p> <strong> USB cable. </strong> The most commonplace and old-fashioned way to transfer files from PC to Android smartphone and vice versa is to use a USB cable. The transmission speed over the cable is quite fast and usually no additional software is required for this kind of transmission. </p>
+<p> <strong> Use email. </strong> In this case, there is a hard limit on the size of the file sent. The weight of the document should not exceed 25 MB, so in this way you will only be able to send only a document, an image or a couple of songs. </p>
+<p> <strong> Use chat. </strong> There are a lot of choices here. With a document in VK, WhatsApp Telegram or Viber, you can send almost anything. Just send the file to yourself in the chat on one device, and save it from the chat on the other. Large files cannot be transferred this way, since some instant messengers have file size limits and files are downloaded very slowly. </p>
+<p> <strong> We use a microSD card. </strong> If you have a card reader, you can use a memory card from your smartphone as a flash drive. Throw on it whatever you want to transfer to your computer, remove the card from your phone and connect it to the computer via a card reader. </p>
+<p> Share your opinion in the comments under this material and in our Telegram chat. </p>
+

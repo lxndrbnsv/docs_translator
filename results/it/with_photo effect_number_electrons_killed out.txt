@@ -1,0 +1,30 @@
+<h1> The number of electrons knocked out during the photoelectric effect </h1>
+<p> Please select the correct statement (s). </p>
+<p> The kinetic energy of electrons knocked out of the metal during the photoelectric effect does not depend on </p>
+<p> A. the frequency of the incident light. </p>
+<p> B. the number of photons incident on the photocathode. </p>
+<p> V. the area of ​​the illuminated surface. </p>
+<p> According to the second law of the photoelectric effect, the maximum kinetic energy of electrons ejected by light increases linearly with the frequency of light and does not depend on its intensity. </p>
+<p style = "clear: both"> Formula for the photo effect: <img style = "float: left; margin: 0 10px 5px 0;" src = "https://ege.sdamgia.ru/formula/svg/1f/1f3176f003c39611823ea0dceea425da.svg" /> → <img style = "float: left; margin: 0 10px 5px 0;" src = "https://ege.sdamgia.ru/formula/svg/1d/1d7f9e4c9677e5ad20abe69ad8a316db.svg" /> </p>
+<p> We find that the kinetic energy of knocked out electrons depends on the frequency of the incident light and the work function of electrons from the metal and does not depend on the number of incident photons and the area of ​​the illuminated surface. </p>
+
+<p> <h1> A10. In the case of the photoelectric effect, the number of electrons knocked out of the metal by monochromatic light per unit time does not depend on </p> </h1>
+<p> A) the frequency of the incident light; <br /> B) the intensity of the incident light; <br /> C) the work function of electrons from the metal. </p>
+<p> Which statements are correct? </p>
+<p> A and B; 2. B and C; 3. A.B, C; 4. A and B. </p>
+<p> A11. Choose the correct statement. </p>
+<p> A) Laser radiation is spontaneous; <br /> B) The laser radiation is induced. </p>
+<p> 1. Only A; 2. Only B; 3. Both A and B; 4. Neither A nor B. </h1> </p>
+
+<h1> The number of electrons knocked out during the photoelectric effect </h1>
+<p> <b> A1. </b> With the photoelectric effect, the number of electrons knocked out of the metal per unit time does not depend on: A) the frequency of the incident light, B) the intensity of the incident light, C) the work function of electrons from the metal. Which statements are correct? </p>
+<p> <b> A2. </b> What is the energy of a photon absorbed during the transition of an atom from the ground state with energy E <sub> o </sub> to an excited one with energy E <sub> 1 </sub>? p>
+<p style = "clear: both"> <b> A3. </b> Thorium <sub> <img style = "float: left; margin: 0 10px 5px 0;" src = "http://physics.kgsu.ru/ege/praktikum-A/atom/image010.gif" /> </sub> turns into radium <sub> <img style = "float: left; margin: 0 10px 5px 0; " src = "http://physics.kgsu.ru/ege/praktikum-A/atom/image012.gif" /> </sub> as a result </p>
+<p> <b> A4. </b> How does the total energy of a system consisting of two deuterium nuclei change when they are combined into a helium nucleus? </p>
+<p> <b> A5. </b> When studying the photoelectric effect, A.G. Stoletov found out that </p>
+<p> <b> A6. </b> A. Rutherford's model of the atom describes the atom as </p>
+<p> <b> A7. </b> The half-life of radon is 3.8 days. After what time will the mass of radon decrease 64 times? </p>
+<p> <b> A8. </b> In the reaction of spontaneous fission of an atomic nucleus </p>
+<p> <b> A9. </b> Wave properties </p>
+<p> <b> A10. </b> When a thermal neutron enters the uranium nucleus, nuclear fission occurs. What forces disperse the fragments of the nucleus? </p>
+

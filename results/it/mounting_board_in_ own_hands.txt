@@ -1,0 +1,93 @@
+<h1> 13beast ›Blog› We make printed circuit boards ourselves. LUT technology. </h1>
+<p style = "clear: both"> <img src = "https://a.d-cd.net/e382bas-100.jpg" /> </p>
+<p> Hello dear blog readers. Now the weather outside is wonderful, and I am in a great mood. Today I want to tell you how you can make quality PCBs at home. </p>
+<p style = "clear: both"> <img src = "https://a.d-cd.net/813ga4s-960.jpg" /> </p>
+<p> I do not argue that there is a lot of information on this topic in the network and, probably, on every radio amateur site there is a description of the LUT technology. But of all these options, I chose one that allows me to make really high quality PCBs that are not inferior to the factory ones. In this option, there are no subtleties that can affect the result. This is the method I want to share with you. </p>
+<p> In general, the method of manufacturing printed circuit boards using a laser iron is not complicated. Its essence lies in the method of applying a protective pattern to foil textolite. </p>
+<p> In our case, we first use a printer to print the protective pattern onto photo paper, its glossy side. Then, as a result of heating with an iron, the softened toner is fried to the surface of the PCB. Read more about this action ... </p>
+<p> To make a board using LUT technology, we need: <br /> foil-coated textolite (one- or two-sided) <br /> laser printer <br /> iron <br /> metal scissors <br /> glossy photo paper (Lomond ) <br /> thinner (acetone, alcohol, gasoline, etc.) <br /> sandpaper (with fine abrasives, no paper is fine) <br /> drill (usually a motor with a collet chuck) <br /> dental brush (a very useful thing, not only for dental health) <br /> ferric chloride <br /> the actual drawing of the board drawn in Sprint-Layout </p>
+<p> We pick up scissors for metal and cut out a piece of PCB to the size of our future printed circuit board. I used to cut textolite with a hacksaw for metal, but it turned out to be not so convenient compared to scissors, and the textolite dust was very annoying. </p>
+<p> The resulting blank of the printed circuit board is thoroughly sanded with sandpaper - zeroing until a uniform mirror shine appears. Then we moisten a piece of cloth with acetone, alcohol or some other solvent, thoroughly wipe and degrease our board. </p>
+<p> Our task is to clear our board from oxides and "sweaty hands". Of course, after that we try not to touch our board with our hands. </p>
+<p> Preparation of a printed circuit board drawing and transfer to textolite. </p>
+<p> A pre-drawn drawing of a printed circuit board, we print on photo paper. Moreover, we turn off the toner saving mode in the printer, and the drawing is displayed on the glossy side of photo paper. </p>
+<p style = "clear: both"> <img src = "https://a.d-cd.net/13ga4s-960.jpg" /> </p>
+<p> Now we take out the iron from under the table and plug it in, let it heat up. We lay the freshly printed sheet of paper on the textolite with the pattern down and begin to iron it with an iron. With photo paper, unlike tracing paper, there is no need to stand on ceremony with self-adhesive backing, “crawl” with an iron until the paper begins to yellow. </p>
+<p> Here you can not be afraid to overexpose the board, or overdo it with pressure. After we take this sandwich with fried paper and carry it to the bathroom. We begin to roll the paper under a stream of warm water with our fingertips. Next, we take the prepared toothbrush in our hands and thoroughly pass it over the surface of the board. Our task is to peel off the white chalk layer from the surface of the drawing. </p>
+<p style = "clear: both"> <img src = "https://a.d-cd.net/413ga4s-960.jpg" /> </p>
+<p> We dry the board and check it thoroughly under a bright lamp. </p>
+<p> Often the chalk layer is peeled off the first time with a toothbrush, but it happens that this is not enough. In this case, you can use electrical tape. Whitish fibers stick to the electrical tape leaving our scarf clean. </p>
+<p> To prepare the etching solution, we need ferric chloride FeCL3. </p>
+
+<h1> 13beast ›Blog› We make printed circuit boards ourselves. LUT technology. </h1>
+<p style = "clear: both"> <img src = "https://a.d-cd.net/e382bas-100.jpg" /> </p>
+<p> Hello dear blog readers. Now the weather outside is wonderful, and I am in a great mood. Today I want to tell you how you can make quality PCBs at home. </p>
+<p style = "clear: both"> <img src = "https://a.d-cd.net/813ga4s-960.jpg" /> </p>
+<p> I do not argue that there is a lot of information on this topic in the network and, probably, on every radio amateur site there is a description of the LUT technology. But of all these options, I chose one that allows me to make really high-quality PCBs that are not inferior to the factory ones. In this option, there are no subtleties that can affect the result. This is the method I want to share with you. </p>
+<p> In general, the method of manufacturing printed circuit boards using a laser iron is not complicated. Its essence lies in the method of applying a protective pattern on foil textolite. </p>
+<p> In our case, we first use a printer to print the protective pattern onto photo paper, its glossy side. Then, as a result of heating with an iron, the softened toner is fried to the surface of the PCB. Read more about this action ... </p>
+<p> To make a board using LUT technology, we need: <br /> foil-coated textolite (one- or two-sided) <br /> laser printer <br /> iron <br /> metal scissors <br /> glossy photo paper (Lomond ) <br /> thinner (acetone, alcohol, gasoline, etc.) <br /> sandpaper (with fine abrasives, no paper is fine) <br /> drill (usually a motor with a collet chuck) <br /> dental brush (a very useful thing, not only for the health of teeth) <br /> ferric chloride <br /> the actual drawing of the board drawn in Sprint-Layout </p>
+<p> We pick up scissors for metal and cut out a piece of PCB to the size of our future printed circuit board. I used to cut textolite with a hacksaw for metal, but it turned out to be not so convenient compared to scissors, and the textolite dust was very annoying. </p>
+<p> The resulting blank of the printed circuit board is thoroughly sanded with sandpaper - zeroing until a uniform mirror shine appears. Then we moisten a piece of cloth with acetone, alcohol or some other solvent, thoroughly wipe and degrease our board. </p>
+<p> Our task is to clear our board from oxides and "sweaty hands". Of course, after that we try not to touch our board with our hands. </p>
+<p> Preparation of a printed circuit board drawing and transfer to textolite. </p>
+<p> A pre-drawn drawing of a printed circuit board, we print on photo paper. Moreover, we turn off the toner saving mode in the printer, and the drawing is displayed on the glossy side of photo paper. </p>
+<p style = "clear: both"> <img src = "https://a.d-cd.net/13ga4s-960.jpg" /> </p>
+<p> Now we take out the iron from under the table and plug it in, let it heat up. We lay the freshly printed sheet of paper on the textolite with the pattern down and begin to iron it with an iron. With photo paper, unlike tracing paper, there is no need to stand on ceremony with self-adhesive backing, “crawl” with an iron until the paper begins to turn yellow. </p>
+<p> Here you can not be afraid to overexpose the board, or overdo it with pressure. After we take this sandwich with fried paper and carry it to the bathroom. We begin to roll the paper under a stream of warm water with our fingertips. Next, we take the prepared toothbrush in our hands and thoroughly pass it over the surface of the board. Our task is to peel off the white chalk layer from the surface of the drawing. </p>
+<p style = "clear: both"> <img src = "https://a.d-cd.net/413ga4s-960.jpg" /> </p>
+<p> We dry the board and check it thoroughly under a bright lamp. </p>
+<p> Often the chalk layer is peeled off the first time with a toothbrush, but it happens that this is not enough. In this case, you can use electrical tape. Whitish fibers stick to the electrical tape leaving our scarf clean. </p>
+<p> To prepare the etching solution, we need ferric chloride FeCL3. </p>
+
+<h1> DIY breadboard </h1>
+<p> You have a factory breadboard like this: </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/maketnaya-plata-001-800x600.jpg" /> </p>
+<p> <strong> I don't like her for two reasons: </strong> </p>
+<p> 1) When installing parts, you have to constantly twirl back and forth in order to first put the radio part, and then solder the conductor. Behaves unstable on the table. </p>
+<p> 2) After dismantling, the holes remain filled with solder, before the next use of the board they have to be cleaned. </p>
+<p> After searching the Internet for various types of breadboards that you can make with your own hands and from available materials, I came across several interesting options, one of which I decided to repeat. </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/maketnaya-plata-na-osnove-mednyih-shtyirkov.png" /> < / p>
+<p> <strong> Quote from the forum: </strong> <em> “I, for example, have been using homemade breadboards like this for many years. They are assembled from a piece of fiberglass, into which copper pins are riveted. Such pins can either be bought on the radio market, or made by yourself from copper wire with a diameter of 1.2-1.3 mm. Thinner pins bend too much, and thicker pins take too much heat when soldering. This "layout" allows you to reuse the most shabby radioelements. It is better to make connections with a wire in fluoroplastic insulation MGTF. Then, once made, the ends are enough for a lifetime. ”</em> </p>
+<p> I think this option suits me the most. But fiberglass and ready-made copper pins are not available, so I'll do it a little differently. </p>
+<p> I got a copper wire from a wire: </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/maketnaya-plata-006-800x600.jpg" /> </p>
+<p> I stripped the insulation and made the pins of the same length with the help of a simple limiter: </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/maketnaya-plata-007-800x600.jpg" /> </p>
+<p> Diameter of pins - <strong> 1 mm </strong>. </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/maketnaya-plata-008-800x600.jpg" /> </p>
+<p> I took plywood <strong> 4 mm </strong> thick as the basis of the board (the thicker, the tighter the pins will hold): </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/maketnaya-plata-002-800x600.jpg" /> </p>
+<p> In order not to suffer with the markings, I glued lined paper onto the plywood with tape: </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/maketnaya-plata-003-800x600.jpg" /> </p>
+<p> And drilled holes with a pitch of <strong> 10 mm </strong> with a drill with a diameter of <strong> 0.9 mm </strong>: </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/maketnaya-plata-004-800x600.jpg" /> </p>
+<p> We get even rows of holes: </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/maketnaya-plata-005-800x600.jpg" /> </p>
+<p> Now we need to drive the pins into the holes. Since the hole diameter is less than the pin diameter, the connection will be pulled-in and the pin will be firmly fixed in the plywood. </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/maketnaya-plata-011-800x600.jpg" /> </p>
+<p> When driving the pins under the bottom of the plywood, place a metal sheet. The pins are clogged with light movements, and when the sound changes, the pin has reached the sheet. </p>
+<p> To keep the board from fidgeting, we make legs: </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/maketnaya-plata-009-800x600.jpg" /> </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/maketnaya-plata-010-800x600.jpg" /> </p>
+<p> The breadboard is ready! </p>
+<p> The same method can be used to make a board for surface mounting (photo from the Internet, radio): </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/9vfE9NpfFnM.jpg" /> </p>
+<p> <strong> Below, for the sake of completeness, I will cite a few useful designs found on the Internet. </strong> </p>
+<p> Push pins with a metal head are hammered into a piece of board: </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/131.png" /> </p>
+<p style = "clear: both"> The only thing left to do is to download them. Copper-plated buttons can be tinkered without problems, but steel ones will have to tinker with. <Img style = "float: left; margin: 0 10px 5px 0;" src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/02042011292.jpg" /> </p>
+<p> It is very quick and easy to make such a board. </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/02042011288.jpg" /> </p>
+<p style = "clear: both"> A number of holes are drilled in non-foiled glass fiber laminate, through which the strips of tin are threaded. <img style = "float: left; margin: 0 10px 5px 0;" src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/maketnaya_plata_3.gif" /> </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/maketnaya_plata.jpg" /> </p>
+<p> For such a board, you will need foil-clad fiberglass and such a scraper made from a cloth from a hacksaw for metal: </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/raznoe-001-800x600.jpg" /> </p>
+<p> In the PCB, you need to cut the foil into squares with a cutter, and the board is ready: </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/IMG_0453-800x600.jpg" /> </p>
+<p> The same method can be used for slicing tracks on boards. </p>
+<p> I accidentally saw the idea of ​​how you can make a solderless breadboard out of computer cable connectors: </p>
+<p style = "clear: both"> <img src = "http://mozgochiny.ru/wp-content/uploads98983jkhdkjf9873/2014/06/102998_0.1321135389.jpg" /> </p>
+<p> Gluing such connectors allows you to get a board of any size. </p>
+<p> <iframe src = "https://www.youtube.com/embed/KvGdGEj2Wgg?feature=oembed"> </iframe> </p>
+

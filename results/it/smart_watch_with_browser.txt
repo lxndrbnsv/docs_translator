@@ -1,0 +1,47 @@
+<h1> The most useful and interesting apps for smart watches on Andro> </h1>
+<p style = "clear: both"> <img src = "https://smart-planets.ru/wp-content/uploads/2018/03/prilozheniya-dlya-smart-chasov.jpg" /> </ p >
+<p> Many 2017-2018 smartwatches run on the Android Wear platform. The functionality of such devices can be expanded by installing additional applications. Let's consider the most necessary and interesting ones. </p>
+<h2> The installation process itself </h2>
+<p> Let's consider how to install the application on a smart watch. The fact is that there is no store specifically for such gadgets, and not all are suitable from the play market - Android Wear is still not a full-fledged android. So there are a few nuances. </p>
+<p> So, there are 3 ways to install the program. </p>
+<p> <ol>
+  <li> 1 method is the simplest. Connect the watch to the computer via a USB cable, open a browser on the PC, go to the Play market and download the application. Complete the installation. If it didn't work, then the program is not supported by the gadget platform. </li>
+  <li> Method 2: connect the smart watch to the computer via a USB cable and copy the APK file from it. Then start it from your smartwatch. There are also nuances here: not all gadgets will open a similar format: somewhere it is not supported, somewhere there is a blocking of downloading applications from unknown sources. But this method is safe. </li>
+  <li> Method 3 - install the program via a smartphone. To do this, you must first download Wear Apps for Andro> </ol> </p>
+<p style = "clear: both"> <img src = "https://smart-planets.ru/wp-content/uploads/2018/03/prilozheniya-dlya-smart-chasov-1.jpg" /> < / p>
+<p> Now let's move on to examining the programs themselves. </p>
+<h2> Wear Camera Remote: Dedicated to Selfie Lovers </h2>
+<p> Wear camera remote will be a real boon for those who like to take pictures. The application allows you to control the phone camera from the smart watch. Moreover, the program works with both the main and the front module. It will come in handy if a large company has gathered, and no one has a selfie stick. But you want a general photo. The Wear camera remote will come to the rescue, just fix the phone, move away so that everyone fits in the photo and press the button from the watch. </p>
+<p> Also on the gadget there will be a "live broadcast" of what the lens is aimed at. Very convenient. </p>
+<p style = "clear: both"> <img src = "https://smart-planets.ru/wp-content/uploads/2018/03/Wear-Camera-Remote.jpg" /> </p>
+<h2> Multi-calculator: convenient calculations </h2>
+<p> Another useful smartwatch app is a multi-calculator. If previously such a computer was installed only on a smartphone, now it can be used with a smart watch. For example, a person makes purchases in a store, and he needs to count the amount for which he collected goods. It is offered to count from smart watches. This calculator is one of the most user-friendly thanks to its large numbers and useful functions. </p>
+<h2> Wear Internet Browser: a browser adapted for the watch </h2>
+<p> Sometimes you need to urgently look at information on the Internet. If the watch works as an autonomous device, but the phone is left at home, then you can find the necessary data from the gadget. </p>
+<p> The developers have made a special browser that is adapted for a small screen, it is called the Wear Internet Browser. Difficulties still arise in working with him, because it is rather difficult to get into the miniature letters. But if you get used to it, then a very useful program. </p>
+<p style = "clear: both"> <img src = "https://smart-planets.ru/wp-content/uploads/2018/03/Wear-Internet-Browser.jpg" /> </p>
+<h2> Floppsy Droid Entertainment App </h2>
+<p> For those who work a lot, a small smart watch game has been invented, with which you can distract and relax. Floppsy Droid is called. The essence of the game is to prevent the green man from colliding with the pipe. The controls are simple and straightforward. The graphics are bright and colorful, the game will definitely cheer you up and inspire you to be productive. </p>
+<p style = "clear: both"> <img src = "https://smart-planets.ru/wp-content/uploads/2018/03/Floppsy-Dro> </p>
+<h2> Find my phone application. Now you won't be late for work </h2>
+<p> Everyone has at least once had a situation when in the morning you need to go to work or school, and the phone suddenly disappeared somewhere. You cannot go without it, but there is no time to search either. </p>
+<p> There is a solution. A new smartwatch app will solve this problem. Just install it on the device, and the next time you lose it, just go into the program and click on the button. The smartphone will beep. By the way, the function works even if the phone is in silent mode. </p>
+<h2> Wear mini launcher: all in one place </h2>
+<p> In the workflow, the most important thing is order at the workplace. It's the same in wearable gadgets. The developers suggest installing the Wear mini launcher program, which collects all available programs in one place. Now you don't need to look for them at the very end of the menu. One swipe - and installed applications are opened. </p>
+<p style = "clear: both"> <img src = "https://smart-planets.ru/wp-content/uploads/2018/03/Wear-mini-launcher.jpg" /> </p>
+<h2> Ksana Sweep: Pump Your Watch Face </h2>
+<p> Ksana Sweep smart watch app is watch faces. Thanks to the program, the information displayed on the display is configured. The dial looks stylish and solid, you can put the number of steps taken, calendar, missed calls, messages, world clock and much more on the main screen. </p>
+<h2> Invaders: have fun in line </h2>
+<p> Invaders is a smart watch game application that you can play while standing in line. This is an analogue of the Japanese game of the 70s Space invaders, which conquered the whole world. Here you will have to shoot back with the help of a laser cannon from aliens who want to capture the Galaxy. Fun and helps to kill time. </p>
+<p style = "clear: both"> <img src = "https://smart-planets.ru/wp-content/uploads/2018/03/Invaders.jpg" /> </p>
+<h2> Conclusions </h2>
+<p> There are many games and applications released on modern Chinese smart watches that are worth installing. Some of them make everyday life easier and save time, and some are designed for entertainment. The article presents the best samples that won the love of users. </p>
+<h2> Video review </h2>
+<p> <iframe src = "https://www.youtube.com/embed/Bj6_rgPSJ0o?feature=oembed"> </iframe> </p>
+
+<h1> Smartwatch with high autonomy </h1>
+<h2> Offline> 7 days </h2>
+<p> - gadgets that can work for more than a week without recharging the battery or changing the battery. </p>
+<p> Note that this category includes two types of devices, each with its own characteristics. The first variety is full-featured smartwatches, fitness bracelets and watch phones with capacious batteries and good energy optimization. The autonomy of such models can reach 10-14 days; it should be borne in mind that the characteristics usually take into account the operating time in the conditional "normal mode", at relatively low loads; so if active use is planned, it would not hurt to take a certain margin of autonomy. </p>
+<p> The second type of "long-playing" gadgets is ordinary wristwatches (sometimes even with an arrow dial), supplemented by separate "smart" features. Such devices often use coin-cell batteries, such as the CR2032. The term of their autonomy can reach a couple of years, but the functionality is extremely narrow: the mentioned "smart" features are usually limited to notification of calls and messages, less often - a pedometer and some other simple functions. </p>
+

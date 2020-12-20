@@ -1,0 +1,66 @@
+<h1> Where are passwords stored in Google Chrome? How to get it out and how to protect it? </h1>
+<p style = "clear: both"> <img src = "http://www.spy-soft.net/wp-content/uploads/paroli-google-chrome.jpg" /> </p>
+<blockquote> <p> Admin, tell me <strong> where passwords are stored in Google Chrome </strong> and how to extract them <strong>. </strong> </p> </blockquote>
+<p> If you are faced with a situation in which you need to find out where passwords are stored in Google Chrome, then I suggest you read this article. In it, I will try to tell in detail, but in an understandable language, not only about storage methods, but also about methods for encrypting passwords in the Google Chrome browser. By the way, about the same, but only in the Mozilla browser, we wrote in the article "Where Firefox stores passwords". </p>
+<h2> Where does Chrome store passwords? </h2>
+<p> Below I will show all the possible locations of the folders and the Google Chrome password file in different operating systems. </p>
+<h4> Chrome passwords are stored in the folder: </h4>
+<p> <strong> Windows XP </strong> <br /> C: \ Documents And Settings \ Spysoftnet \ Local Settings \ Application Data \ Google \ Chrome \ (if there is a User Data folder, then User Data \ Default \ </ p>
+<p> <strong> Windows Vista </strong> <br /> C: \ Users \ Spysoftnet \ AppData \ Local \ Google \ Chrome \ User Data \ Default </p>
+<p> <strong> Windows 7 </strong> <br /> C: \ Users \ Spysoftnet \ AppData \ Local \ Google \ Chrome \ User Data \ Default \ </p>
+<p> <strong> Windows 8 </strong> <br /> C: \ Users \ Spysoftnet \ AppData \ Local \ Google \ Chrome \ User Data \ Default \ </p>
+<p> <strong> Windows 10 </strong> <br /> </p>
+<p> <strong> Mac OS X </strong> <br /> </p>
+<p> <strong> Linux </strong> <br /> </p>
+<p> <strong> Chrome OS </strong> <br /> / home / chronos / </p>
+<h4> Chrome passwords are stored in the file: <br /> Login Data </h4>
+<p> This file is a SQLite database. By opening this file you can see several columns: </p>
+<p style = "clear: both"> <ul>
+  <li> Origin_url - site address </li>
+  <li> Username_value - login </li>
+  <li> Password_value - password </li>
+  <li> etc. </li>
+</ul>
+<img style = "float: left; margin: 0 10px 5px 0;" src = "http://www.spy-soft.net/wp-content/uploads/gde-hrom-sohranjaet-paroli.jpg" /> where chrome stores passwords </p>
+<p> All data in this file is stored in clear text. Everything except the data in the Password_value column. Chrome encrypts passwords using the 256-bit AES encryption algorithm. </p>
+<h2> How to open Login Data file? </h2>
+<p> The Login Data file can be opened using the DB Browser for SQLite utility. </p>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "http://www.spy-soft.net/wp-content/uploads/login-data-rasshifrovka.jpg" /> Login data </p>
+<p> You can download DB Browser for SQLite for free at this link. </p>
+<h2> How to extract Google Chrome passwords? </h2>
+<p> If these are your passwords, on your operating system, you can view the saved passwords using Google Chrome's own password manager. We wrote how to do this in this article. </p>
+<p> There is another way to get passwords from Chrome - this is using the ChromePass program from the developer Nirsoft. In addition, there are at least a few more similar programs, in order to find them, use the search on the site for the word "Chrome". </p>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "http://www.spy-soft.net/wp-content/uploads/chrome-login-data.jpg" /> ChromePass </p>
+<p> Included antivirus can work on this utility. But that shouldn't scare you, it's a 100% false positive. </p>
+<p> I want to warn you. If you copy the "Login Data" file from another computer and try to open passwords on your computer using a browser password manager, you will be disappointed. Fields where passwords should be will be empty or a message will be displayed that this may not be your profile. </p>
+<p> But, there is good news. These passwords are hidden from the user, but are entered on the sites that you are trying to access. Now the least thing left is to look at the password under the asterisks. You can find how to do this in the article "How to open a password under the asterisks" </p>
+<h2> How do I protect Google Chrome passwords? </h2>
+<p> Now a few words about protection. The only and most important rule you should know is to prevent your browser from remembering the logins and passwords entered. Use password managers instead. Better yet, remember passwords using special cards, we wrote about this easy way to remember even difficult passwords in the article "How to remember a password" </p>
+
+<h1> Storing passwords in Chrome </h1>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://habrastorage.org/storage1/382e6020/1f6a639b/e8d4a00f/3030e819.jpg" /> <br /> <b> Hello !</b> </p>
+<p> Not so long ago, I had an idea to create my own personal program for Google Chrome password backup. Yes, there are a lot of similar programs on the Internet, but the result of paranoia (that passwords are merged on someone's server "in reserve"), and the desire to find out what your favorite browser is breathing - outweighed the scales. </p>
+<p> I'll tell you based on Windows 7. </p>
+<p style = "clear: both"> I'll start with where the password file is stored. This file is "<b> Login Data </b>" in the "<u> C: \ Users \ SomeUser \ AppData \ Local \ Google \ Chrome \ User Data \ Default \ </u>" folder. <br /> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://habrastorage.org/storage2/b4f/629/dea/b4f629dea76a37972d9e678879d145cb.png" /> </p>
+<p> This is a SQLite database. </p>
+<p style = "clear: both"> <img src = "https://habrastorage.org/storage2/cb6/cb2/9f5/cb6cb29f536354f54290ab1254148837.png" /> </p>
+<p> It has 14 columns. We are only interested in 3: <b> origin_url </b> (link to the site itself), <b> username_value </b> (login), <b> password_value </b> (password). Among other columns there are also: the authorization page, the name of the input element for the login and password, and others. All data is <u> unencrypted </u> (seen in the screenshot), except for the <b> password_value </b> field. <br /> A byte array is in the password field. It looks like this. </p>
+<p style = "clear: both"> <img src = "https://habrastorage.org/storage2/0c7/54f/068/0c754f068f1c65e72d56bd70f81adf64.png" /> </p>
+<p> The encryption method is very convenient for developers. They used the Data Protection Application Programming Interface (an excellent article (as it turned out later and the only one) that describes how this system works) that Windows uses. <br /> More information in the link, the more this encryption system deserves a separate topic. In short, this system works in one of 2 modes. </p>
+<p> <ol>
+  <li> <b> Using a machine key. </b> <br /> The key is unique to the current system. But it allows different programs to work with encrypted data without transferring the key to each other, but excluding data leakage outside the machine, or rather the user. </li>
+  <li> <b> Using user key. </b> <br /> No comments. </li>
+</ol>
+<br /> It is also worth noting that this security system is used by the well-known IE version 7 and older. Protection in it is arranged an order of magnitude higher than that of Google Chrome. In addition, entropy is used there, and the registry is used as a storage. Microsoft developers were pleasantly surprised. </p>
+<p> At the end of the article there is the source code of the program. We will now analyze its main points. </p>
+<h4> So let's start! </h4>
+<p> We will need to read the bytes of the password field, since the password is stored in the byte array. For this I used <u> System.Data.SQLite Interop Library version 1.0.65.0 </u> (available in the archive). <br /> The project uses the <u> DPAPI </u> class, which was found on the Internet. At the time of the creation of the project, there was no purpose of writing an article, so the author of the class is lost, but I take off my hat to him - a serious work has been done. </p>
+<p> Let's declare the objects and variables we need: </p>
+<p style = "clear: both"> <img src = "https://habrastorage.org/storage2/1df/3ba/a06/1df3baa06608fbb6db2e38b1d1d3ec92.png" /> </p>
+<p> Next, we populate the DataTable DB with the database from our file: </p>
+<p style = "clear: both"> <img src = "https://habrastorage.org/storage2/055/5f8/a7a/0555f8a7a7c07a884bda583ade751d13.png" /> </p>
+<p> Now all that remains is to extract the necessary information from it and write it to a file. At this stage, the file is no longer used - the work is carried out only with the DataTable object: </p>
+<p style = "clear: both"> <img src = "https://habrastorage.org/storage2/d14/b7f/f25/d14b7ff2592fc6546814391f6daf8aee.png" /> </p>
+<p> As a result, we have an HTML document with our logins-passwords, which can be stored on your mobile phone, or printed and put in an envelope ... If you wish, you can write more fields, but personally I have enough of the above three. </ p >
+<p> If you have any questions, I will be happy to answer. Thank you very much for your attention! </p>
+

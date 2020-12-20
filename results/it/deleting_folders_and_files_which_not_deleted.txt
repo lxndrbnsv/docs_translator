@@ -1,0 +1,93 @@
+<h1> Instruct Unlocker to remove locked files </h1>
+<p> Easily and quickly delete files that are not deleted. Unlocker is an effective tool for removing locked files </p>
+<p> Deleting, renaming and moving files occupied by processes </p>
+<p> Delete temporary files, including index.dat </p>
+<p> Killing processes, unloading .dll files </p>
+<p> Simple and convenient interface, full context menu support </p>
+
+<h1> Programs for deleting non-removable files and folders </h1>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://ocomp.info/wp-content/uploads/2018/08/Fayl-ne-udalyaetsya.jpg" /> Good day everyone! </p>
+<p> It happens that you click on a file, press "Delete" and .. nothing! In a few seconds, an error will pop up about the impossibility of performing the operation. </p>
+<p> In this case, as a rule, without additional specials. programs are indispensable (as usual, there are simply no tools in the Windows arsenal to delete such files). </p>
+<p> Actually, in this article I wanted to give the best of what can now be found among software. I recommend that you have one of these utilities in your system (by the way, they can help out when you remove various virus add-ons, which often have a blocking module that prevents their "usual" removal through Explorer). </p>
+<p> And so what to choose. </p>
+<blockquote> <p> <em> Note: by the way, if you do not uninstall any program, then there are also tools here - https://ocomp.info/ne-udalyaetsya-programma.html </em> < / p> </blockquote>
+<p style = "clear: both"> <img src = "https://ocomp.info/wp-content/themes/wikiwp/images/uskwin.png" /> </p>
+<h2> Software for removing locked files </h2>
+<h3> IObit Unlocker </h3>
+<p> </p>
+<p> A simple and compact (only 2 MB) utility for unlocking and deleting almost any files from a disk, flash drives, etc. drives. Note that the entire deletion process takes place in 2-3 mouse clicks: first, right-click on the non-deleted file, then select "IObit Unlocker" from the menu (see screen below). </p>
+<p style = "clear: both"> <img src = "https://ocomp.info/wp-content/uploads/2018/08/Udalenie-fayla-v-IObit-Unlocker.jpg" /> </ p >
+<p> Deleting a file in IObit Unlocker </p>
+<p> Next, you will see a window where you can choose what to do with the file: unlock, unlock and rename, unlock and delete (see screen below). </p>
+<p> By the way, at the bottom of the window, the utility shows which process has locked the file (it can tell you what to stop / disable). </p>
+<p style = "clear: both"> <img src = "https://ocomp.info/wp-content/uploads/2018/08/IObit-Unlocker-razblokirovat-i-udalit-800x503.jpg" /> < / p>
+<p> IObit Unlocker - Unlock and Remove </p>
+<p> <ol>
+  <li> the program is embedded in the explorer: by right-clicking, you can send any folder or file to the IObit Unlocker "uninstall" window; </li>
+  <li> the ability to unlock files that are used by several processes at once (the program will close them sequentially); </li>
+  <li> in addition to forced deletion, you can forcibly rename the file, for example; </li>
+  <li> the ability to work with dozens of files at once; </li>
+  <li> support for all popular Windows 10/8/7 / Vista / XP; </li>
+  <li> completely in Russian. </li>
+</ol>
+</p>
+<h3> Unlocker </h3>
+<p> </p>
+<p> One of the most popular utilities for unlocking files (for further deletion, or renaming). </p>
+<p> The whole process of working with the utility is very simple: just right-click on the desired file / folder, and select the launch of the utility from the menu (see the screen below). </p>
+<p style = "clear: both"> <img src = "https://ocomp.info/wp-content/uploads/2018/08/Kak-udalit-papku-v-Unlocker-800x322.jpg" /> < / p>
+<p> How to delete a folder in Unlocker / Clickable </p>
+<p> Note that in some particularly problematic cases, the utility may "ask" for a reboot to delete the file (and will delete it immediately after rebooting the OS, before no process has had time to "occupy" the file). </p>
+<p> I will also add that Unlocker also copes with "broken" system DLLs, the removal of which blocks Windows (many similar programs simply cannot cope with this). </p>
+<blockquote> <p> <em> Cons: only recently have the developers fixed the "bad" compatibility of the utility with Windows 8/10 64 bits. </em> </p> </blockquote>
+<h3> Lockhunter </h3>
+<p> </p>
+<p> This is a free utility for removing locked files (with which you already this and that, and do not know what else to do). By the way, LockHunter is very effective against potentially unwanted programs, against malware that is embedded in other applications. </p>
+<p> Unlike other applications, LockHunter "sends" all deleted files to the trash, which means that in case of an error, you can always restore everything. Very useful, isn't it ?! </p>
+<p style = "clear: both"> <img src = "https://ocomp.info/wp-content/uploads/2018/08/Rabota-s-LockHunter-800x445.jpg" /> </p>
+<p> Working with LockHunter / Clickable </p>
+<p> <ol>
+  <li> shows processes blocking files or folders; </li>
+  <li> you can see detailed information on each problematic process; </li>
+  <li> allows you to unlock the file (close all blocking processes) to delete / rename the file; </li>
+  <li> can delete files on next PC restart; </li>
+  <li> allows you to delete almost any system process (carefully, not every process can be "slammed" like that, the PC can just restart immediately); </li>
+  <li> integrates into explorer (similar to the previous utilities); </li>
+  <li> works in all popular Windows XP, 7, 8, 10 (32 and 64 bits). </li>
+</ol>
+</p>
+<h3> FileASSASSIN </h3>
+<p> </p>
+<p> Quite an interesting utility from the creators of the famous Malwarebytes (anti-malware) program. FileASSASSIN comes in handy when: </p>
+<p> <ol>
+  <li> when deleting, you will see a message that you are denied access to the file; </li>
+  <li> you will see an error that the disk is write protected; </li>
+  <li> if the file is busy (locked) by another process or program; </li>
+  <li> the file is in use by another user; </li>
+  <li> the ability to delete files that have been infected with viruses and malware (often, it blocks them so that you cannot delete them). </li>
+</ol>
+</p>
+<p style = "clear: both"> <img src = "https://ocomp.info/wp-content/uploads/2018/08/FileASSASSIN-glavnoe-okno.jpg" /> </p>
+<p> FileASSASSIN - main window </p>
+<p> According to the developers of the utility, they use special. unique technology that unloads modules (blocking the file), closes descriptors, and gives you full access to the file. </p>
+<p> I note one drawback of the utility: the lack of the Russian language (although the program is very simple, and even those who do not speak English can quickly figure it out). </p>
+<h3> A couple more ways. </h3>
+<p> If the previous utilities did not give any results, then most likely, to delete the file, you need to resort to more radical methods: </p>
+<p> <ol>
+  <li> use a LiveCD disk (this is a disk or flash drive from which you can boot Windows without installing it on the hard drive. Of course, if Windows was booted from a flash drive, it will not block anything on the hard drive, and you can delete everything from it, anything!). This article will tell you how to prepare such a disk: https://ocomp.info/kak-sozdat-live-cd-fleshku.html </li>
+  <li> remove the hard drive and connect it to another PC / laptop (article on connecting a drive from laptop to PC - https://ocomp.info/kak-podklyuchit-zhestkiy-disk-ot-noutbuka-k-kompyuteru.html ); </li>
+  <li> use safe mode (it loads the minimum number of components, only those that are necessary for the direct operation of the OS). Thus, your file will most likely have nothing to block and you can delete it. </li>
+</ol>
+</p>
+<p><strong>PS</strong> </p>
+<p> By the way, pay attention to antiviruses. Often, when the level of security is increased, they are very zealous about any deletions (they can block such a simple operation). For example, Norton Antivirus 2011-2012 had this behavior when setting the maximum protection level. </p>
+<p style = "clear: both"> <img src = "https://ocomp.info/wp-content/uploads/2018/08/Glavnoe-okno-Norton-Antivirus-2012-800x527.jpg" /> < / p>
+<p> Norton Antivirus 2012 main window </p>
+<p> <strong> PS 2 </strong> </p>
+<p> If the utilities listed above could not help in deleting a file (folder), use one of my "old" instructions <em> (it contains alternative solutions to the problem) </em>: https://ocomp.info/kak -udalit-fayl-ili-papku-esli-ne-udalyayutsya.html </p>
+<p> <em> Supplements are welcome as always </em> </p>
+
+<h1> 20+ programs to remove files and clean your computer </h1>
+<p> A selection of programs that will help you clean your Windows hard drive and removable devices from unnecessary files. These tools will help you find and remove residual files after running individual applications, uninstall unnecessary applications. To ensure the safety of data, programs will help you delete some files without the possibility of further recovery, as well as block access to individual documents, if they are valuable. These programs will also cope with the elimination of files and folders blocked by any processes and delete files that cannot be deleted by conventional means. </p>
+

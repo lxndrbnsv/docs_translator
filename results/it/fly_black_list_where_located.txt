@@ -1,0 +1,68 @@
+<h1> How to blacklist a contact on Fly without additional applications and block calls from unwanted numbers. </h1>
+<p> Do you need to block incoming calls from certain numbers and need to block them from calling you? In this article, you will learn <strong> how to add a contact to the blacklist on Fly </strong> without additional applications and only using native Android tools. In this way, you can add a number to the blacklist on Fly FS502, 4410 Phoenix, 4404 Spark and similar android smartphones. </p>
+<p> Perhaps this method of <strong> blocking calls from unwanted numbers </strong> will work with other devices running on the Android operating system. </p>
+<p> Below we will see two ways how on Fly and similar devices <strong> on android to blacklist a contact </strong>. </p>
+<p> The first way to add a number to the blacklist on Fly is easier and is suitable for Android 4.0 and higher. <br /> The number to be blocked must be saved in the phone's memory, if it is on a SIM card, then transfer it to the device's memory. <br /> Now go to "Contacts" and open the number from the list of contacts that you want to block incoming calls. <br /> Next, open the "Menu" on the android. The menu for working with a contact on Fly can be opened by clicking on the icon at the bottom of the screen in the form of three horizontal bold dots. <br /> Next to the item "Blocking incoming calls" put a check mark. <br /> Done! All incoming calls from a blacklisted number on Fly will be blocked. If you need to re-allow receiving calls, uncheck the box. </p>
+<p> The second method also allows you to <strong> block calls from numbers added to the blacklist </strong> for Android versions below 4.0. <br /> Do not forget to transfer the contact to the phone memory if it is saved on the SIM card. <br /> To add a contact to the blacklist on Android Fly, open "Settings" and select "Calls". <br /> Next, select "All calls" and "Call rejection". <br /> Find the item "Blacklist" then "Add" and put a tick in front of "Enable blacklist". <br /> Now go to the contacts on Fly and call the "Menu". You can call up the menu by pressing and holding the contact until you see the menu. In it, select the item "Add to blacklist". <br /> To remove a contact from the blacklist on Fly, uncheck the box that we set earlier. </p>
+<p> <ul>
+  <li> I hope the information from the article <strong> how to add a number to the blacklist on Android Fly </strong> helped you. </li>
+  <li> We'd love to hear from you, if you add feedback, article additions, or helpful tips. </li>
+  <li> A big request to indicate the android model to which this method of blocking calls from unwanted numbers approached or did not fit. </li>
+  <li> Thank you for your responsiveness, mutual help and helpful advice on the topic of this article! </li>
+</ul>
+</p>
+<h2> Add a review, ask a question, or share a helpful tip. </h2>
+<p> <u> Author: Vladimir </u> <br /> 07/11/2019 <br /> 18 hours. 02 min. <br /> Message: <br /> Fly IQ 447 helped, thanks <br /> <u> Posted by Ana </u> <br /> 08-10-2018 <br /> 14 hours 49 min. <br /> Message: <br /> Fly iq 4515 - it helped, thanks. <br /> <u> Author: Mityai </u> <br /> 02/04/2018 <br /> 11 hours. 44 min. <br /> Message: <br /> Fly FS 407-no way helped to find the black list <br /> <u> Author: Seryoga </u> <br /> 23-12-2017 <br /> 02 h. 14 min. <br /> Message: <br /> Thank you bro. This creature dick is now luring me in. The first way to forev. Android 4.4.2. <br /> <u> Author: Love </u> <br /> 29-10-2017 <br /> 12 hours. 33 min. <br /> Message: <br /> The first method also worked for the fly FS451 model <br /> <u> Author: Lena Lenina </u> <br /> 09/12/2017 <br /> 18 hour. 01 min. <br /> Message: <br /> Thank you very much for the helpful advice! I have fly fs501. The first method came up <br /> <u> Author: Leonid </u> <br /> 07/22/2017 <br /> 00 hour. 35 min. <br /> Message: <br /> Thank you very much very useful information. You helped me out <br /> <u> Author: Sergey </u> <br /> 04/25/2017 <br /> 19 hours. 23 min. <br /> Message: <br /> I have a fly fs454 version of android 6.0, but my menu is in the upper right corner of the screen and there is no such function. <br /> <u> Author: Vladimir </u> <br /> 03/11/2017 <br /> 10 hours. 31 min. <br /> Message: <br /> for fly phoenix iq4410 recommendations did not work. very sorry! <br /> <u> Author: Alena </u> <br /> 01-12-2016 <br /> 22 hours. 50 min. <br /> Message: <br /> On my flyer it turned out to add a number to the blacklist in the first way android version 4.2 <br /> </p>
+
+<h1> How to blacklist fly on a phone </h1>
+<p> In order to answer the question, you need to log in or register </p>
+<p style = "clear: both"> <img src = "https://gagadget.com/media/cache/4f/19/4f19898a2bf7a510c25d727aa7f522e3.jpg" /> </p>
+<p> Which phone model? If your phone is on Android, you can block a contact in the "Phone" application in the "Filter" or "Blacklist", or "Blocked Contacts" section of the menu. It is likely that you can block a contact by opening a specific contact in the "Contacts" application. If your phone is not on Android, then read the instructions better. If your phone has the ability to block a contact, then it will be written about it. </p>
+<ul>
+  <li> I liked the answer: 1 </li>
+</ul>
+<p style = "clear: both"> <img src = "https://gagadget.com/media/cache/5b/43/5b437cb8f1d5860f70684123eafb7182.png" /> </p>
+<p> There is a video tutorial for android smartphones: </p>
+<ul>
+  <li> <em> Nobody liked the answer yet </em> </li>
+</ul>
+<p style = "clear: both"> <img src = "https://gagadget.com/static/img/Anonymous-avatar.png" /> </p>
+<p> I have fly IQ24 Plus on android. The number is added to the black list as follows: The contact is selected directly - then "View contact" - "Options" - "Incoming calls - direct blocking of an incoming call". </p>
+
+<h1> 3 WAYS TO ADD A SUBSCRIBER TO THE BLACK LIST </h1>
+<p style = "clear: both"> <img src = "https://smartfon-24.ru/wp-content/uploads/2018/06/kak-na-androide-dobavit-nomer-v-chernyj-spisok -696x452.jpg "/> </p>
+<p> In the age of high technologies, it is not easy to retire. Smartphones are our best friends everywhere. Because of this, anyone can invade personal space. Therefore, the question: How to add a number to the blacklist on android is relevant. In this article, we have described the three most convenient ways for an android to add a subscriber to the blacklist. Now it is easy to solve the problem with annoying advertisements, calls from scammers or annoying acquaintances. Add your emergency phone number in a couple of taps. </p>
+<h2> How to add a number to the blacklist on android </h2>
+<p> You can block a number using the built-in functions of your smartphone, using special applications, or redirect calls to voicemail. Let's take a closer look at each of the options. </p>
+<h3> Method # 1 </h3>
+<p> How to add a number to the blacklist on Android using system functions, our detailed instructions will answer: </p>
+<p> <ul>
+  <li> Go to the "Contacts" application; </li>
+  <li> Select the desired contact; </li>
+  <li> In the context menu, tick the "Block incoming call" item; </p> </ul>
+<p> You can also block an unsaved phone number (if provided by the firmware) </p>
+<p> </li>
+  <li> Entering the calls; </li>
+  <li> Selecting an unwanted number; </li>
+  <li> In the context menu, select the item add to the black list; <ul>
+If your device does not provide such an option, you will have to save the number. </p> </ul>
+<h3> Method # 2 </h3>
+<p> In this method, we will tell you how to add a number to the blacklist on android using special applications. Such applications will help protect yourself from unwanted calls and SMS. Download the application from PlayMarket and install. These applications are usually very easy to use. Just in case, here are a couple of examples: </p>
+<p> <ul>
+  <li> Easy to use CallBlocker Free application. It blocks incoming calls and SMS messages. The user receives notifications about the blocked subscriber. </li>
+  <li> The Blacklist application allows you to block saved and unsaved contacts, messages, numbers by first digits, hidden numbers. You can add to the Black List by dialing the number manually. </li>
+</ul>
+</p>
+<h3> Method # 3 </h3>
+<p> If the Blacklist function is not provided by the system, and there is no desire to install third-party applications at all, then the “Voicemail” function will help to cope with the task of adding a number to the blacklist on an android. <br /> It is necessary to redirect all incoming calls from a specific subscriber to voicemail by following these steps: </p>
+<p> <ul>
+  <li> Go to the phone book; </li>
+  <li> Find the contact you want; </li>
+  <li> Editing a contact by clicking on the corresponding pencil icon; </li>
+  <li> Call the additional menu by clicking not three dots at the top right; </li>
+  <li> Check the box "Voicemail only"; </li>
+  <li> Save changes. </li>
+</ul>
+</p>
+<p> To the question "How to add a number to the blacklist on android?", we gave three detailed answers. Each of them is effective in its own way. The choice should be made based on the capabilities of the smartphone. </p>
+

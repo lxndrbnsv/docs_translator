@@ -1,0 +1,34 @@
+<h1> AMD Driver Autodetect </h1>
+<p> </p>
+<h2> <img src = "https://cdn.comss.net/img/dl-260.png" /> <img src = "https://cdn.comss.net/img/dl-210.png "/> <img src =" https://cdn.comss.net/img/dl-220.png "/> </h2>
+<table> <tbody> <tr> <td style = "width: 110px"> Developer: </td> <td> Advanced Micro Devices, Inc. (AMD) (USA) </td> </tr> <tr> <td> License: </td> <td> Freeware (free) </td> </tr> <tr> <td> Version: < / td> <td> 19.12.3 </td> </tr> <tr> <td> Updated: </td> <td> 2019-12-19 </td> </tr> <tr> <td > Systems: </td> <td itemprop = "operatingSystem"> Windows 10/7 64-bit </td> </tr> <tr> <td> Interface: </td> <td> Russian / English </ td> </tr> <tr> <td> Rating: </td> <td> <img src = "https://cdn.comss.net/img/5.png" /> </td> </ tr> <tr> <td> Your rating: </td>
+</td></tr><tr><td>Category :</td> <td>
+   Drivers and Updates </td> </tr> <tr> <td> Size: </td> <td> 39.6 MB </td> </tr> </tbody> </table>
+<h4> About the program </h4>
+<h4> What's new </h4>
+<p> What's new in version 19.12.3 (18.12.2019) </p>
+<h4> System Requirements </h4>
+<p> The Automatic Driver Finder can only be used on systems running Microsoft Windows (7 or higher) and / or AMD Radeon graphics. The tool does not work with Linux systems, Apple Boot Camp and AMD FirePro graphics cards. </p>
+<h4> Useful links </h4>
+<h4> Detailed description </h4>
+<p> You can update drivers using standard Windows tools, but this is not the best way. It is best to find new drivers on the manufacturer's website, although this can be a tedious task. </p>
+<p> AMD Driver Autodetect automates the steps to find and install the latest drivers and relieves the user of this work. The application downloads and installs new versions of AMD drivers in one click. </p>
+<p> Please note that the application automatically detects the graphics card installed in the system and displays an error if you are using non-AMD hardware. </p>
+<p> The program automatically detects the video card model and operating system type. If an update is found, you can download the installer by clicking the “Download Now” button. Alternatively, you can limit the download speed using the dropdown menu. </p>
+<p> If the system has the latest driver installed, you will receive a notification. It is recommended that you run the utility periodically to check for the availability of new drivers. </p>
+<p> AMD Driver Autodetect eliminates the need to manually check AMD graphics drivers and saves you time. </p>
+<h4> User Score </h4>
+<h3> More programs </h3>
+<p> <b> AMD Radeon Software Adrenalin </b> <br /> Software and drivers for AMD Radeon GPUs </p>
+<p> <strong> AMD Cleanup Utility </strong> <br /> Utility to completely remove AMD video and audio drivers </p>
+
+<h1> Automatic driver update software </h1>
+<p style = "clear: both"> <img src = "https://mydiv.net/tim/finger-top.png" /> </p>
+<p style = "clear: both"> <img src = "https://mydiv.net/tim/finger-down.png" /> </p>
+<p> Manufacturers of computer hardware (video cards, motherboards, etc.) regularly update the drivers for their devices. This is just as important as updating programs, because errors and shortcomings are constantly found in the process. Even if there are no errors, you can always optimize the work of any program code. </p>
+<p> Updating drivers is necessary, but what's the best way to do it? You can manually go to the websites of your manufacturers and download drivers - this is the most reliable way, but also the slowest. But you can just install one of the programs from this set and do everything faster. Programs for updating drivers work according to the following principle: they scan all computer devices and check the driver version in their database by ID numbers. Driver databases are formed in advance, they include many drivers from different devices and different manufacturers. Then you can download and install the new driver. </p>
+<p> Such programs are also useful in cases where you cannot find a driver for your device. It is not uncommon for such specialized programs to find even the rarest drivers that you have been looking for on the Internet for days. </p>
+
+<h1> GeForce ® Experience ™ </h1>
+<p> Record and share your videos, screenshots and live gameplay with your friends. Keep your drivers up to date and optimize your game settings. GeForce Experience ™ will help you with all of this. This is a great companion app for your GeForce® graphics card. </p>
+

@@ -1,0 +1,127 @@
+<h1> Browsec VPN </h1>
+<p style = "clear: both"> <img src = "https://download-browser.ru/wp-content/uploads/2018/08/browsec-vpn-2018.jpg" /> </p>
+<p> <table style = "w> <tr> <td rowspan =" 7 "w> <img src =" https://download-browser.ru/wp-content/uploads/2018/08/browsec-vpn -2018.jpg "/> </p> </table>
+</td> Category: </td> <td> Google Chrome, Internet Explorer, Mozilla Firefox, Opera browser, VPN services, Web proxies, Browser extensions, Yandex Browser </td> </tr> <tr> OS Versions: </td> <td> Windows 7, Windows 8, Windows 10, iOS, Android </td> </tr> <tr> Developer: </td> <td> Browsec LLC </td> </ tr> <tr> Size: </td> <td> platform dependent </td> </tr> <tr> License: </td> <td> free </td> </tr> <tr> Russian version: </td> <td> no </td> </tr> <tr> Downloaded: </td> <td> 8 064 </td> </tr> </table>
+<h2> What do you need to do to install? </h2>
+<ul>
+  <li> download Browsec VPN for free the latest version from our resource at the official link; </li>
+  <li> install according to the instructions in this overview; </li>
+  <li> launch Browsec VPN and enjoy surfing the Internet! </li>
+</ul>
+<br /> <br />
+<h2> About extension </h2>
+<p> Which user has never had an offensive situation: you are looking for the necessary information, follow the link to a very promising site and OOPS! it is blocked in your country for some reason. Unpleasant, but quite solvable. You can find many programs on the Internet that hide your IP address, thereby deceiving tracking programs and letting them go to inaccessible sites. </p>
+<p> The Browsec VPN browser extension is ideal for this purpose. After installing it, you can start data encryption at any time. And you're done: all traffic will be forwarded through a secure cloud network. As a result, it will be impossible to analyze your actions (and understand that it is you). </p>
+<p> This method works both globally (for example, it opens access to sites prohibited in the country), and more narrowly, in particular, in the corporate network. It's not a secret for anybody that often the bosses set before the system administrators the task of blocking social networks and all kinds of "entertainment" sites on work computers. After installing Browsec VPN, this chaos no longer concerns you. Unless, of course, the boss sneaks up from behind and finds a blocked portal. </p>
+<h2> Key Features </h2>
+<p> Browsec VPN, being a browser extension rather than a standalone program, requires much less resources, while performing its functions perfectly. Once you click on its icon (appears to the right of the address bar), and it will start working. Your IP address will change to a foreign one, and now you can work with the sites you need in complete confidence in your safety. All you need is to download Browsec VPN for free. </p>
+<p> Browsec VPN bypasses both corporate network restrictions and regional bans. In addition, the extension solves the issue of data privacy. No one will be able to track the sites that you visit while the VPN is turned on. After all, according to the data, it was not you at all. </p>
+<h2> Pros and cons of the extension </h2>
+<p> <ul>
+  <li> Requires little space and network resources. </li>
+  <li> Helps to bypass the ban on visiting certain resources. </li>
+  <li> Hides your online activity. </li>
+  <li> You can download Browsec VPN in Russian. </li>
+</ul>
+</p>
+
+<h1> With Browsec you get </h1>
+<h3> Access to any content </h3>
+<p> Reach content regardless of geographical restrictions. </p>
+<h3> High connection speed </h3>
+<p> Enjoy market leading speeds of up to 100 Mbit / s. </p>
+<h3> Virtual location </h3>
+<p> Mask your geo-location by using a virtual one. </p>
+<h3> It's free </h3>
+<p> You can use Browsec completely free. No hidden fees. </p>
+
+<h1> BROWSEC-VPN </h1>
+<p> Browsec VPN Browser and Mobile Extension </p>
+<h1> Browsec VPN </h1>
+<p> <strong> BROWSEC VPN </strong> is a browser extension that helps you bypass site blocking. Works on browsers such as Mozilla Firefox, Google Chrome, Yandex browser and Opera. Has a simple and intuitive interface. Installation takes place in two clicks. </p>
+<h2> Browsec VPN Features </h2>
+<ul>
+  <li> Quick access to any content - allows you to open blocked websites. Enjoy unlimited content. </li>
+  <li> Encrypt Internet Traffic - Encrypts traffic and redirects it through its own cloud network. Your confidential data is safe and not available to fraudsters. </li>
+  <li> Anonymous browsing - no one can identify you and track your traffic. </li>
+  <li> Enabling on selected sites - setting allows you to use the extension only on selected sites </li>
+  <li> Disable extension on selected sites - the function allows you to add a list of Internet resources where Browsec will be disabled. </li>
+  <li> Use different locations for websites - the ability to set up different locations for your favorite websites. </li>
+  <li> Use Browsec connection for WebRTC. </li>
+</ul>
+<blockquote> <p> WebRTC (Real Time Web Communication) is a protocol that allows you to make audio and video calls from your browser. </p> </blockquote>
+<p> This setting will prevent WebRTC IP addresses from leaking when the extension is enabled. As a side effect, this can affect the quality of audio / video calls from the browser, so it's up to you to decide which is more important to you. </p>
+<h2> Benefits of Browsec </h2>
+<ul>
+  <li> Visit social networks in places where this opportunity is limited (for example, at work - when the employer blocks access to certain Internet resources) and enjoy the content. </li>
+  <li> Confidentiality. Hide your location for the sites you visit. </li>
+  <li> Hulu, Spotify, Pandora, SoundCloud, etc. - now you have free access to music and video portals, access to which is limited in some countries. </li>
+  <li> Browsec is an advanced analogue of ZenMate, Stealthy, Hola and friGate. </li>
+</ul>
+<h2> Required Permissions </h2>
+<ul>
+  <li> Access to your data on all sites </li>
+  <li> Read and change privacy settings </li>
+  <li> Control browser proxy settings </li>
+  <li> Access browser tabs </li>
+  <li> An extension can manage other add-ons </li>
+</ul>
+<h2> Extension for Google Chrome </h2>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/Chrome-e1531910463707.png" /> </p>
+<p> <table> <tr> <th> Version: </th> <td> 3.24.0 </td> </tr> <tr> <th> Last updated: </th> <td> August 19 2019 </td> </tr> <tr> <th> Size: </th> <td> 3.39 MB. </td> </tr> <tr> <th> Developer: </th> < td> Browsec LLC </td> </tr> <tr> <th> License: </th> <td> Free </td> </tr> <tr> <th> Language: </th> <td > English </td> </tr> </table> </p>
+<p> You can install Browsec VPN for Google Chrome in the Google online store </p>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/Magazin-Gugl-ustanovka-browsec-VPN-1024x506.png" / > </p>
+<p> <strong> Step 1. </strong> Add the extension to the browser </p>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/SHag-2-ustanovki-Browsec-vpn-1024x509.png" / > </p>
+<p> <strong> Step 2. </strong> Download and install the extension </p>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/shag-3-ustanovlennoe-rasshirenie-1024x886.png" /> < / p>
+<p> <strong> Step 3. </strong> The extension is installed, which will inform a message in the browser. </p>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/shag-5-uspeshnaya-ustanovka-1024x994.png" /> < / p>
+<p> <strong> Step 4. </strong> Launch Browsec VPN and enjoy. </p>
+<h2> Add-on for Mozilla Firefox </h2>
+ 
+<p> <table> <tr> <th> Version: </th> <td> 3.24.0 </td> </tr> <tr> <th> Last Updated: </th> <td> August 19 2019 </td> </tr> <tr> <th> Size: </th> <td> 3.39 MB. </td> </tr> <tr> <th> Developer: </th> < td> Browsec LLC </td> </tr> <tr> <th> License: </th> <td> Free </td> </tr> <tr> <th> Language: </th> <td > English </td> </tr> </table> </p>
+<p> Download and install the browsec sources by going to the Mozila website or download from the direct link on this site. </p>
+<h3> Option 1 </h3>
+<p> Install from Mozila's official website </p>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/shag-1-Browsec-VPN-Dopolneniya-dlya-Firefox-1024x616 .png "/> </p>
+<p> <strong> Step one </strong> - go to the Firefox website </p>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/shag-2-skachivaem-dopolnenie-1024x407.png" /> < / p>
+<p> <strong> Step two </strong> - press the + Add button, download the add-on </p>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/SHag-3-dobavlyaem-rasshirenie-1024x406.png" /> < / p>
+<p> <strong> Step three </strong> - in the pop-up window, click "Add" and install Browsec in Firefox </p>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/zapusk-rasshireniya-1024x407.png" /> </p>
+<p> <strong> Step four </strong> - launching the add-on </p>
+<h3> Option 2 </h3>
+<h4> For Firefox 55.0 and higher </h4>
+<table> <tr style = "text-align: left;" > <th> Version 3.24.0 Release 19.08.2019: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.23.1 Release 08/01/2019: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.23.0 released 07/29/2019: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.22.10 Release 07/10/2019: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.22.9 release 07/02/2019: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.22.8 Release 13.06.2019: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.22.7 released 05/28/2019: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.22.6 released 24.05.2019: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.22.5 Release 04/10/2019: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.22.2 released 02/25/2019: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.21.12 Release 16.01.2019: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.21.11 release 04.12.2018: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.21.10 release 23.10.2018: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.21.5 Release 23.09.2018: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.21.4 release 03.09.2018: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.21.3 Release 28.08.2018: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.21.2 release 09/08/2018: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.21.1 released 07/31/2018: </th> <td> Download </td> </tr> <tr style = "text-align: left;" > <th> Version 3.20.2 released 07/18/2018: </th> <td> Download </td> </tr> <tr> <th> Version 3.20.1 released 06/28/2018: </th> <td > Download </td> </tr> <tr> <th> Version 3.20.0 Released 06/19/2018: </th> <td> Download </td> </tr> <tr> <th> Version 3.19.7 05/11/2018 release: </th> <td> Download </td> </tr> <tr> <th> Version 3.19.4 02/21/2018 release: </th> <td> Download </td> </ tr> <tr> <th> Version 3.19.3 release 01.16.2018: </th> <td> Download </td> </tr> <tr> <th> Version 3.19.2 release 22.11.2017: </ th> <td> Download </td> </tr> <tr> <th> Version 3.19.1 release 22.11.2017: </th> <td> Download </td> </tr> <tr> <th > Version 3.19.0 release 20.11.2017: </th> <td> Download </td> </tr> <tr> <th> Version 3.18.0 release 15.11.2017: </th> <td> Download < / td> </tr> <tr> <th> Version 3.16.17 release 08.11.2017: </th> <td> Download </td> </tr> </table>
+<p> Download the extension file directly </p>
+<p> Go to the place where you downloaded the file </p>
+<p> Right-click on the file and select "open with" </p>
+<p> Select Firefox and click </p>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/Variant-2-shag-5-1024x456.png" /> < / p>
+<p> In the browser message that opens, click "Add" </p>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/Variant-2-shag-6-1024x364.png" /> < / p>
+<h2> Add-on for Opera </h2>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/a374c40d3ba952630747c69d9321d409-e1531917863961.png" /> </p>
+<p> <table> <tr> <th> Version: </th> <td> 3.24.0 </td> </tr> <tr> <th> Last Updated: </th> <td> August 19 2019 </td> </tr> <tr> <th> Size: </th> <td> 3.39 MB. </td> </tr> <tr> <th> Developer: </th> < td> Browsec LLC </td> </tr> <tr> <th> License: </th> <td> Free </td> </tr> <tr> <th> Language: </th> <td > English </td> </tr> </table> </p>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/1-Perehodim-na-sajt-opery-1024x498.png" / > </p>
+<p> <strong> Action 1. </strong> Go to the official website of the Opera </p>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/2-nazhimaem-dobavit-1024x500.png" /> </ p >
+<p> <strong> Action 2. </strong> Press the Add to Opera button </p>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/3-vse-ustanovleno-1024x516.png" /> </ p >
+<p> <strong> Step 3. </strong> Wait a bit while the add-on is downloaded and installed </p>
+<p> <strong> Step 4. </strong> Done. Launching the extension </p>
+<h2> Extension for Yandex browser </h2>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/Yandex-Browser-e1531917906193.png" /> </p>
+<p> <table> <tr> <th> Version: </th> <td> 3.24.0 </td> </tr> <tr> <th> Last Updated: </th> <td> August 19 2019 </td> </tr> <tr> <th> Size: </th> <td> 3.39 MB. </td> </tr> <tr> <th> Developer: </th> < td> Browsec LLC </td> </tr> <tr> <th> License: </th> <td> Free </td> </tr> <tr> <th> Language: </th> <td > English </td> </tr> </table> </p>
+<p> Yandex browser is built on the same platform as google chrome, so the extension is installed from the same google store. </p>
+<p> <strong> Stage 1. </strong> Go to the site of the Google store </p>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/Dejstvie-1-perehodim-v-magazin-gugl-hrom-1024x518 .png "/> </p>
+<p> <strong> Stage 2. </strong> Click on the "Install" </p>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/dejstvie-2-dobavlyaem-rasshirenie-v-brauzer-1024x493.png "/> </p>
+<p> <strong> Stage 3. </strong> In the pop-up notification, click "Install extension" </p>
+<p> <strong> Stage 4. </strong> Waiting for download and installation </p>
+<p style = "clear: both"> <img src = "https://browsec-vpn.ru/wp-content/uploads/2018/07/Dejstvie-3-rasshirenie-ustanovleno-1024x725.png" /> < / p>
+<p> <strong> Stage 5. </strong> Done. We see a notification that everything is installed. </p>
+

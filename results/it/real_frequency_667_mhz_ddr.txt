@@ -1,0 +1,94 @@
+<h1> How can I find out the frequency of the RAM? </h1>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://ida-freewares.ru/images/stories/TechTips/kak-uznat-chastotu-operativnoj-pamyati/mini.jpg" /> In this article, I will tell you how to find out the frequency of RAM, how at least two available methods. </p>
+<p> The performance of the computer depends on what kind of RAM is installed in the computer. And almost all users know this. And the matter is not only in volume, but also in the clock frequency of the boards themselves. Too slow speed can have a significant impact on how quickly your computer boots up, runs programs, or performs tasks. </p>
+<p> In addition, if you install two RAM dies at different speeds, they will be supported at a lower frequency, which can make it pointless to use a higher quality fast motherboard. However, not all users know how to find out this same frequency. Therefore, below I will give two simple and feasible methods for each. </p>
+<p> <em> Note </em>: It is also worth knowing that almost all programs for collecting computer characteristics provide such information. However, they can be too complex for ordinary users, so I did not describe them in the article. </p>
+<h2> Find out the clock speed of the RAM from the sticker on the board </h2>
+<p style = "clear: both"> <img src = "https://ida-freewares.ru/images/stories/TechTips/kak-uznat-chastotu-operativnoj-pamyati/1.nadpis.jpg" /> < / p>
+<p> It's worth knowing that manufacturers often indicate special markings on the sticker of the RAM card. And from this marking you can find out the clock frequency of the board. </p>
+<p> You need to look at the board and find there a phrase like "<strong> DDRx - xxxx </strong>", where </p>
+<p> <strong> DDRx </strong> is the generation of RAM. Today there are DDR, DDR2, DDR3, DDR4, and DDR5 (the first two are almost never found). Each of these technologies supports a specific frequency range. In this case, with the picture it is "DDR3". </p>
+<p> <strong> xxxx </strong> is, in fact, the clock frequency of the RAM. In this case, it is 1333 MHz. </p>
+<p> Sometimes, the combination with DDR is not present on the sticker. In this case, you can just write down the name of the board and see its characteristics on the Internet. </p>
+<p> It should be admitted that this method may not be suitable for everyone (although it does not require installing programs), since it is not always possible to twist the board in your hands. Therefore, I move on to an alternative, simpler option. </p>
+<h2> How to find out the frequency of RAM using CPU-Z </h2>
+<p style = "clear: both"> <img src = "https://ida-freewares.ru/images/stories/TechTips/kak-uznat-chastotu-operativnoj-pamyati/2.cpuz.png" /> < / p>
+<p> First of all, you need to install the CPU-Z program. By the way, it is a very functional and useful program that allows you to quickly find out the main characteristics of your computer. So I recommend not to delete it, it may still be useful to you when solving other problems. </p>
+<p> Start the program and then open the "Memory" tab. There, in the area called "Timings" there is a field "DRAM Frequency", which will display the real (physical) frequency of the RAM. It differs from what is stated in the characteristics. The latter is the effective frequency, which can be 2 or more times higher. The bottom line is that in one time step, more operations can be performed. Therefore, in order not to introduce additional marking codes, the real frequency is simply multiplied by this factor. For example, for DDR3 this factor is 2. Thus, with a real frequency of 667 MHz, the effective frequency is 1333 MHz. And if we consider the example from the picture, then the real frequency of the RAM is "798.2 MHz", that is, approximately 800 MHz, which corresponds to a DDR3-1600 board. </p>
+<p> <em> Note </em>: An important point, manufacturers usually indicate the effective frequency. </p>
+<p> Below is a table of frequencies for the generation of DDR3 mainboards: </p>
+<p> <table> <thead> <tr> <th> Real memory frequency </th> <th> Effective (doubled) frequency </th> <th> Standard name of RAM </th> <th> Peak rate data transfer </th> <th> Module name </th> </tr> </th> <tbody> <tr> <td> 400 MHz </td> <td> 800 MHz </td> <td> DDR3-800 </td> <td> 6400 MB / s </td> <td> PC3-6400 </td> </tr> <tr> <td> 533 MHz </td> <td> 1066 MHz < / td> <td> DDR3-1066 </td> <td> 8533 MB / s </td> <td> PC3-8500 </td> </tr> <tr> <td> 667 MHz </td> <td> 1333 MHz </td> <td> DDR3-1333 </td> <td> 10667 MB / s </td> <td> PC3-10600 </td> </tr> <tr> <td> 800 MHz </td> <td> 1600 MHz </td> <td> DDR3-1600 </td> <td> 12800 MB / s </td> <td> PC3-12800 </td> </tr> <tr> <td> 933 MHz </td> <td> 1866 MHz </td> <td> DDR3-1866 </td> <td> 14933 MB / s </td> <td> PC3-14900 </ td> </tr> <tr> <td> 1066 MHz </td> <td> 2133 MHz </td> <td> DDR3-2133 </td> <td> 17066 MB / s </td> <td > PC3-17000 </td> </tr> </tbody> </table> </p>
+<p> If you have a different generation of DDR boards, then you need to look at the corresponding table (the DDR number is indicated in the same tab in the "General" area in the "Type" field). </p>
+<p> Now, you know how to find out the clock speed of the RAM using two different methods. </p>
+
+<h1> DDR2 SDRAM </h1>
+<p> <b> DDR2 SDRAM </b> (English double-data-rate two synchronous dynamic random access memory - synchronous dynamic memory with random access and double data transfer rate, second generation) is a type of random access memory used in computing equipment as operational and video memory. Replaced DDR SDRAM. </p>
+<p> DDR2 was introduced in the second quarter of 2003, and became competitive with DDR by the end of 2004. </p>
+<p> In the 2010s, it was largely supplanted by DDR3 memory. </p>
+<h2> Contents </h2>
+<h2> Description [edit | edit code] </h2>
+<p style = "clear: both"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RAM_1GB_with_cooler.jpg/400px-RAM_1GB_with_cooler.jpg" /> </ p >
+<p style = "clear: both"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Desktop_DDR_Memory_Comparison.svg/220px-Desktop_DDR_Memory_Comparison.svg.png" /> < / p>
+<p style = "clear: both"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Laptop_SODIMM_DDR_Memory_Comparison_V2.svg/220px-Laptop_SODIMM_DDR_Memory_Compargison> / p>
+<p> Like DDR SDRAM, DDR2 SDRAM uses data transfer both on the edge and on the decay of the clock signal, due to which, at the same memory bus frequency as in conventional SDRAM, you can actually double the data transfer rate (for example, when running DDR2 at 100 MHz, the equivalent effective frequency for SDRAM is 200 MHz). The main difference between DDR2 and DDR is that the bus frequency is twice as high, through which data is transferred to the memory chip buffer. At the same time, in order to provide the necessary data flow, the transfer to the bus is carried out from four places simultaneously. The resulting latency turns out to be higher than for DDR. </p>
+<h3> Constructiveness [edit | edit code] </h3>
+<p> For application in standard computing systems, two constructs were used - DIMM for desktop systems and SO-DIMM for mobile. To avoid confusion with other generations of DDR memory, the modules are equipped with a key in the form of a slot that prevents the module from being inserted into a non-native slot. The DDR2 DIMM has 240 pins (120 on each side). </p>
+<p> I / O Interface: SSTL 18 Burst Length: 4/8 Prefetch Size: 4-bit New Features: ODT, OCD Calibration, Posted CAS, AL (Additive Latency) </p>
+<h3> Serial presence detect [edit | edit code] </h3>
+<p> Each module has a ROM chip, into which the manufacturer writes the electrical parameters of this module. The write structure is standardized for DDR2. Thus, the settings for working with the module are configured automatically. </p>
+<p> There are utilities that allow you to view information from SPD chips, for example CPU-Z. There is also the SPDTool utility, which allows you to change the information in the SPD chip of specific modules installed in the computer, if it is not hardware protected from being overwritten by the module manufacturer. </p>
+<h2> Compatibility [edit | edit code] </h2>
+<p> DDR2 is not backward compatible with DDR, therefore the key on DDR2 modules is located in a different place than DDR, and it is impossible to insert a DDR2 module into the DDR socket without damaging the latter (or the first). </p>
+<p> There are no adapters for installing DDR2 modules into DDR slots. There is an adapter (GC-DDR21) made by Gigabyte for installing DDR modules in DDR2 slots, but it can be considered more of a technological curiosity. The fact is that for such an adapter to function, you need a memory controller capable of working with both DDR and DDR2 memory - VIA PT880 Pro (GA-8VT880P Combo). </p>
+<h2> Technical standards [edit | edit code] </h2>
+<h3> Microcircuits [edit | edit code] </h3>
+<table> <tbody> <tr> <th> Chip type </th> <th> Memory frequency, MHz </th> <th> <b> Effective </b> Frequency, MHz </th> <th> Effective (doubled) speed, million transmissions / s </th> </tr> <tr> <td> DDR2-400 </td> <td> 100 </td> <td> 200 </td> <td > 400 </td> </tr> <tr> <td> DDR2-533 </td> <td> 133 </td> <td> 266 </td> <td> 533 </td> </ tr > <tr> <td> DDR2‑667 </td> <td> 166 </td> <td> 333 </td> <td> 667 </td> </tr> <tr> <td> DDR2‑ 800 </td> <td> 200 </td> <td> 400 </td> <td> 800 </td> </tr> <tr> <td> DDR2-1066 </td> <td> 266 </td> <td> 533 </td> <td> 1066 </td> </tr> </tbody> </table>
+<h3> Modules [edit | edit code] </h3>
+<p> For PC use, DDR2 RAM is supplied in 240-pin DIMMs with one key (slot in the pin strip). DIMMs differ in their maximum data transfer rate (often called bandwidth). </p>
+<p> <table> <tbody> <tr> <th> Module name </th> <th> <b> Effective </b> Frequency, MHz </th> <th> Type </th> <th> Peak data transfer rate, MB / s </th> </tr> <tr> <td> PC2‑3200 </td> <td> 200 </td> <td> DDR2‑400 </td> <td> 3200 </td> </tr> <tr> <td> PC2-4200 </td> <td> 266 </td> <td> DDR2-533 </td> <td> 4266 </td> </ tr> <tr> <td> PC2-5300 </td> <td> 333 </td> <td> DDR2-667 </td> <td> 5333 </td> </tr> <tr> <td > PC2-5400 </td> <td> 337 </td> <td> DDR2-675 </td> <td> 5400 </td> </tr> <tr> <td> PC2-5600 </ td > <td> 350 </td> <td> DDR2-700 </td> <td> 5600 </td> </tr> <tr> <td> PC2-5700 </td> <td> 355 </ td> <td> DDR2‑711 </td> <td> 5689 </td> </tr> <tr> <td> PC2‑6000 </td> <td> 375 </td> <td> DDR2‑ 750 </td> <td> 6000 </td> </tr> <tr> <td> PC2-6400 </td> <td> 400 </td> <td> DDR2-800 </td> <td > 6400 </td> </tr> <tr> <td> PC2‑7100 </td> <td> 444 </td> <td> DDR2‑888 </td> <td> 7111 </td> < / tr> <tr> <td> PC2‑7200 </td> <td> 450 </td> <td> DDR2‑900 </td> <td> 7200 </td> </tr> <tr> < td> PC2‑8000 </td> <td> 500 </td> <td> DDR2‑1000 </td> <td> 8000 </td> </tr> <tr> <td> PC2‑8500 </ td> <td > 533 </td> <td> DDR2-1066 </td> <td> 8533 </td> </tr> <tr> <td> PC2-9200 </td> <td> 575 </td> < td> DDR2‑1150 </td> <td> 9200 </td> </tr> <tr> <td> PC2‑9600 </td> <td> 600 </td> <td> DDR2‑1200 </ td> <td> 9600 </td> </tr> </tbody> </table> </p>
+<p> The fastest commercially available DDR2 memory is Team Xtreem PC2-10400, which, however, has large latencies - 6-6-6x and increased supply voltage - 2.35-2.45 V. For timings 5-5- The 5th, apparently, the fastest serial modules are the PC2-9600, and for the 4-4-4s - the PC2-8888 from Corsair and Geil Ultra Plus PC2-9280. There are also modules with the lowest latency, CL3, with significantly lower operating speed. The fastest of these are PC2-6400 [1]. </p>
+<p> In addition to the division by bandwidth and capacity, modules are divided by: </p>
+<p> <ul>
+  <li> the presence of an additional memory chip for the error correction code. They are indicated by ECC symbols, for example: PC2-6400 ECC; </li>
+  <li> the presence of a specialized addressing chip - register. "Regular" modules are referred to as "non-registered" or "unbuffered". The register in the buffered - "registered" - modules improves the signal quality of the command-address lines (at the cost of an additional clock delay during access), which allows you to raise frequencies and use up to 36 memory chips per module, creating high-capacity modules that are usually used in servers and workers stations. Almost all currently released DDR2 Reg modules are also equipped with ECC. </li>
+  <li> AMB (Advanced Memory Buffer) chip. These modules are called fully buffered, are designated F or FB, and have a different key location on the module. This is a further development of the idea of ​​registered modules - Advanced Memory Buffer buffers not only address signals, but also data, and uses a serial bus to the memory controller instead of a parallel one. These modules cannot be installed in motherboards designed for other types of memory, and the key position prevents this. </li>
+</ul>
+</p>
+<p> Generally, even if the motherboard supports registered and unbuffered modules, modules of different types (registered and unbuffered) cannot work together on the same channel. </p>
+<p> Despite the mechanical compatibility of the connectors, Registered memory simply will not start in a motherboard designed for use with regular (unbuffered) memory and vice versa. The presence / absence of ECC does not affect the situation in any way. All this applies to both conventional DDR and DDR2. </p>
+<p> It is absolutely impossible to use register memory instead of regular memory and vice versa. The only exceptions are currently dual-processor LGA1366 motherboards that work with both regular and Registered DDR3, but you cannot mix two types of memory in one system. </p>
+<p> Advantages over DDR <ul>
+  <li> Higher bandwidth </li>
+  <li> Generally less power consumption </li>
+  <li> Improved design for better cooling </li>
+</ul>
+ Disadvantages compared to DDR <ul>
+  <li> Usually higher CAS latency (3 to 6) </li>
+  <li> The resulting delays at the same (or even higher) frequencies are higher </li>
+</ul>
+</p>
+
+<h1> Memory frequency </h1>
+<p> <strong> Memory frequency </strong> - the higher the frequency, the faster information will be transferred for processing and the higher the computer performance. When talking about the frequency of RAM, they mean the data transfer rate, not the clock frequency. </p>
+<p> <ol>
+  <li> <strong> DDR </strong> - 200/266/333/400 MHz (clock frequency 100/133/166/200 MHz). <br /> <strong> DDR2 </strong> - 400/533/667/800/1066 MHz (200/266/333/400/533 MHz clock frequency). </li>
+  <li> <strong> DDR3 </strong> - 800/1066/1333/1600/1800/2000/2133/2200/2400 MHz (400/533/667/800/1800/1000/1066/1100/1200 MHz clock frequency). But due to the high timings (latencies), the memory modules of the same frequency are inferior in performance to DDR2. </li>
+  <li> <strong> DDR4 </strong> - 2133/2400/2666/2800/3000/3200/3333. </li>
+</ol>
+</p>
+<h3> Data rate </h3>
+<p> Data transmission frequency (it is correct to call it - data transmission rate, Data rate) - the number of data transmission operations per second through the selected channel. Measured in gigatransfers (GT / s) or megatransfers (MT / s). For DDR3-1333, the baud rate will be 1333 MT / s. </p>
+<p> You need to understand that this is not a clock frequency. The real frequency will be half of the indicated one, DDR (Double Data Rate) is the doubled data transfer rate. Therefore, DDR-400 memory runs at 200 MHz, DDR2-800 at 400 MHz, and DDR3-1333 at 666 MHz. </p>
+<p style = "clear: both"> <img src = "http://hardwareguide.ru/wp-content/uploads/2010/08/chastota-peredachi-dannih.jpg" /> </p>
+<p> The frequency of the RAM indicated on the board is the maximum frequency with which it can work. If you install 2 DDR3-2400 and DDR3-1333 boards, then the system will operate at the maximum frequency of the weakest board, i.e. at 1333. Thus, the throughput will decrease, but the decrease in throughput is not the only problem, errors may appear when loading the operating system and critical errors during operation. If you are going to buy RAM, you need to consider the frequency at which it can work. This frequency must match the frequency supported by the motherboard. </p>
+<h3> Maximum baud rate </h3>
+<p> The second parameter (in the photo PC3-10666) is the maximum data transfer rate measured in Mb / s. For DDR3-1333 PC3-10666, the maximum data transfer rate is 10.664 MB / s. </p>
+<p style = "clear: both"> <img src = "http://hardwareguide.ru/wp-content/uploads/2010/08/%D1%87%D0%B0%D1%81%D1%82% D0% BE% D1% 82% D0% B0-% D0% BE% D0% BF% D0% B5% D1% 80% D0% B0% D1% 82% D0% B8% D0% B2% D0% BD% D0 % BE% D0% B9-% D0% BF% D0% B0% D0% BC% D1% 8F% D1% 82% D0% B8.jpg "/> </p>
+<h2> Timings and memory frequency </h2>
+<p> Many motherboards, when installing memory modules on them, do not set the maximum clock frequency for them. One of the reasons is the lack of performance gain when the clock frequency is increased, because when the frequency is increased, the operating timings increase. Of course, this can improve performance in some applications, but it can also decrease performance in others, or it may not affect applications that do not rely on memory latency or bandwidth at all. </p>
+<p> Timing determines the memory delay time. For example, the CAS Latency parameter (CL, or access time) determines how many clock cycles of the memory module will delay the return of data requested by the processor. RAM with CL 9 will delay nine clock cycles to transfer the requested data, while RAM with CL 7 will delay seven clock cycles to transfer it. Both RAMs can have the same frequency and data transfer rates, but the second RAM will transfer data faster than the first. This issue is known as "latency". </p>
+<p> <strong> The lower the timing parameter, the faster the memory. </strong> </p>
+<p> For example. The Corsair memory module installed on the M4A79 Deluxe motherboard will have the following timings: 5-5-5-18. If you increase the clock frequency of the memory to DDR2-1066, the timings will increase and will have the following values ​​5-7-7-24. </p>
+<p> The Qimonda memory module, when operating at a clock frequency of DDR3-1066, has operating timings of 7-7-7-20, when the operating frequency is increased to DDR3-1333, the board sets timings at 9-9-9-25. As a rule, timings are written in the SPD and may differ for different modules. </p>
+<p> A-Data memory module with a clock frequency of DDR3-1333 sets the timings to 9-9-9-24, when the operating frequency is reduced to DDR3-1066, the timings are reduced to only 8-8-8-20. </p>
+

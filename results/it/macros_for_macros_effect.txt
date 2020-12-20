@@ -1,0 +1,46 @@
+<h1> Macros Effects: ME - Macroskin </h1>
+<p> Macros Effects software will make absolutely any mouse a macro, the main thing is that it is comfortable in the game! Macros Effects runs A4TECH X7 .amc macros written in Oscar Editors and is suitable for any mouse. Macros Effects is a software run macros for A4TECH X7. Macros Effects is actually an emulator of Oscar Editor and A4Tech X7 internal memory and replaces software and internal memory. Macros Effects does not interfere with the files and game engine and is 100% not considered cheats! </p>
+<p> ME is a very simple program for perception and is available to a novice user. In the following I will describe the essentials for using axis macros in online games. </p>
+<p style = "clear: both"> <img src = "http://www.flumbix.com/images/blog/macroskin-01-2019.png" /> </p>
+<p> 1. Button to exit the program and configure macro processing. </p>
+<p> 2. Here you can open a macro and save the macro. You can open a macro from any folder on your computer, it doesn't matter where you store the downloaded macros! Click save to load the saved macro and settings when you restart the program. </p>
+<p> 3. The script / macro commands window. You can simply copy the macro command lines from the * .amc file and paste into this window. </p>
+<p> 4. Tracking - if you select this mode manually with a mouse click, the loaded macro is activated and when you press the LMB the cursor will start moving the mouse. But for the convenience of activating the macro, the F8 key is assigned by default. "React to" - it is better to leave it pressed., In this mode the macro will be executed with repetitions while holding down the assigned key, the most optimal mode for axial macros in games. </p>
+<p style = "clear: both"> <img src = "http://www.flumbix.com/images/blog/macroskin-02-2019.png" /> </p>
+<p> 1. Tracking keys, that is, activating a macro. You can assign any button to activate a macro, but not a keyboard shortcut. And also the macro execution key - by default it is the left mouse button - LMB, but you can assign any other one, and in this case you can start macros by clicking or by cutting off with repeated LMB presses, and in this case, the script must be inserted into the window manually so that the LeftDown and LeftUp commands or the corresponding shooting commands in the game were not lost, but in existing versions this method does not work stably. </p>
+<p> 2. An alternative method - after activating this option, you will get rid of throwing the sight at the floor and twisting the character in the game. Make sure to always include the alternative method. </p>
+<p> 3. Since there is no sensor sensitivity setting in a regular mouse, changing this parameter will help you change the mouse speed in the game. Works only if there is no direct connection in the game! Restore state - after executing the macro, the pointer speed in Windows will retain its previous settings, but only if you write the MouseDragSpeed ​​N command at the beginning of the macro, the value of N changes from 1 to 20. If the mouse is directly connected in the game, the function will not work! </p>
+<p> The same can be attributed to the disadvantages - Bloody 5 or Oscar Editor software can be disabled, the macro remains in the memory of the mouse, and the presence of a macro in the internal memory is not visible for third-party programs, and of course you cannot turn off Macros Effects, which allows game centers to see it and decide whether to use Macros Effects software or not, take it yourself, there is always a risk, although banning for an included program, and even more so it is forbidden to search for it on your computer! In the game RAST for ME is banned in 99.9% of use! </p>
+<p> Macros Effects: Macroskin will suit the categories of players with low online, as well as using this program you can try and check what a game with macros is and see with your own eyes how you can control the recoil using a macro, but remember that the cheapest mouse is X7 compensate for the impact in the game will be definitely more stable and better! Don't jump to conclusions after playing with Macros Effects about macros in general! </p>
+
+<h1> Macros Effects </h1>
+<p style = "clear: both"> <img src = "https://iowin.net/sites/default/files/styles/279x176/public/macros-effects-glavnoe-menyu.png" /> </ p >
+<p> Macros Effects is ideal for customizing mouse shooting. The main task of the utility is to reduce recoil and optimize sensitivity. </p>
+<h2> Usage </h2>
+<p> The Macros Effects utility allows you to open and save macros. Opening is carried out from any directory on a personal computer. There is a tracking mode that activates the macro on click. During use, it is recommended to leave the default values ​​and use the F8 key. </p>
+<h2> Features </h2>
+<p> Users can assign any key to run the set values. Through the use of the utility, users can make adjustments to the mouse sensitivity right during the gameplay. Try to use an "alternative" method that will get rid of the sharp movement of the scope. After exiting the game, the mouse sensitivity in Windows returns to its previous mode. Try to save the values ​​for each online game so that when you enter, you can easily and easily adjust the appropriate values. Using the program makes life much easier for "snipers" who are used to playing with AWP in CS GO or 1.6, as well as in other online games. </p>
+
+<h1> Setting the A4Tech X7 macro </h1>
+<p> <strong> First, you need to move the macros to the OscarEditor library. </strong> </p>
+<p> 1. Option. <br /> Open the folder with macros <strong> MacroLibrary </strong>, for X7 F3 it is something like this <br /> <em> Program_Files_ (x86) \ OscarX7Editor5Mode \ OscarX7Editor5Mode \ ScriptsMacros \ Russian \ <strong> MacroLibrary </ strong > </em> the path depends on the mouse model. Copy or drag macros into the folder. </p>
+<p> 2. Option. <br /> Launch Oscar Editor (the interface may differ depending on the model), click on <em> <strong> button 7 </strong> </em> and then select the item <em> <strong> Macro manager. </ strong> </em> </p>
+<p style = "clear: both"> <img src = "https://www.ggmacro.ru/images/blog/sett_x7_x1.jpg" /> </p>
+<p style = "clear: both"> <img src = "https://www.ggmacro.ru/images/blog/sett_x7_x2.jpg" /> </p>
+<p style = "clear: both"> <img src = "https://www.ggmacro.ru/images/blog/sett_x7_x3.jpg" /> </p>
+<blockquote> <p> Note: <em> for the order in your macro collection, you can create a new folder and name it accordingly. </em> </p> </blockquote>
+<h3> VERY IMPORTANT </h3>
+<p style = "clear: both"> <img src = "https://www.ggmacro.ru/images/blog/sett_x7_x4.jpg" /> </p>
+<p style = "clear: both"> <img src = "https://www.ggmacro.ru/images/blog/sett_x7_x5.jpg" /> </p>
+<h1> Installing Bloody Macro </h1>
+<p style = "clear: both"> <img src = "https://www.ggmacro.ru/images/blog/sett_bloody_b1.jpg" /> </p>
+<p style = "clear: both"> <img src = "https://www.ggmacro.ru/images/blog/sett_bloody_b2.jpg" /> </p>
+<p style = "clear: both"> <img src = "https://www.ggmacro.ru/images/blog/sett_bloody_b3.jpg" /> </p>
+<h1> Importing X7 macros into Bloody </h1>
+<p> If suddenly you do not have .MGN macros or they conflict due to different versions, i.e. do not work, you can simply import X7 macros into Bloody software. </p>
+<blockquote> <p> Bloody software error: "an invalid line # was found in the text commentary", as well as: switching CPI, moving without firing or rotating the character in the game when pressing LMB - these are typical errors of incompatibility of Bloody software versions. It is treated by updating from the official site www.bloody.tw to the latest version of Bloody software or by installing AMC macros. </p> </blockquote>
+<p> First of all, copy the macros with the * .amc extension to the Bloody software macro library in the folder with your game. </p>
+<blockquote> <p><em> <strong> BLOODY 3 </strong> </em> - <em> Program Files (x86) -> Bloody3 -> Bloody3 -> Data -> Bloody3 -> English -> ScriptsMacros - > <strong> MacroGunLibrery <br /> </strong></em><em> <strong> BLOODY 4 </strong> </em> - <em> Program Files (x86) -> Bloody4 -> Bloody4 -> Data -> Bloody4 -> English -> ScriptsMacros -> <strong> MacroGunLibrery <br /> </strong> </em> <em> <strong> BLOODY 5 </strong> </em> - <em> Program Files (x86) -> Bloody5 -> Bloody5 -> Data -> Res -> English -> ScriptsMacros -> <strong> GunLib <br /> </strong> </em> <em> <strong> BLOODY 6 </ strong > </em> - <em> Program Files (x86) -> Bloody6 -> Bloody6 -> Data -> Res -> English -> ScriptsMacros -> <strong>GunLib</strong> </em> </p> </blockquote>
+<p style = "clear: both"> <img src = "https://www.ggmacro.ru/images/blog/sett_bloody_b4.jpg" /> </p>
+<p> In a new window, press the <em> <strong> M-MACRO </strong> </em> button and find the copied macro. Mark the macro with a tick and click <em> <strong> BACK </strong> </em>, in a new window we see the question: "<em> Transfer the selected file from Macro to the arsenal as a Macro-gun weapon? </em>" Click <strong> <em> YES </em> </strong> </p>
+

@@ -1,0 +1,48 @@
+<h1> Convert string to double java </h1>
+<p> Sometimes situations arise when, having a value of a certain type, it is necessary to assign it to a variable of a different type. We got acquainted with variables and their types in the last lesson, in this lesson we will look at the most popular <strong> type conversions in Java: </strong> </p>
+<h2> <strong> Java STRING to NUMBER </strong> </h2>
+<p> In the following examples, <tt>try-</tt> <tt> catch </tt> will be used. This is necessary to handle an error if the string contains characters other than numbers or a number that is outside the range of valid values ​​of a particular type. </p>
+<p> For example, the string "somenumber" cannot be cast to int or any other numeric type. In this case, an error will occur during the compilation. To avoid this, you should secure yourself using the <tt>try-</tt> <tt> catch </tt> construct. </p>
+<h3> <strong> String to byte </strong> </h3>
+<p> Using the constructor </p>
+<p> Using the valueOf method of the Byte class </p>
+<p> Using the parseByte method of the Byte class </p>
+<p> Converting a string to a byte array and back from a byte array to a string </p>
+<h3> <strong> String to short </strong> </h3>
+<p> Using the constructor </p>
+<p> Using the valueOf method of the Short class </p>
+<p> Using the parseShort method of the Short class </p>
+<h3> <strong> String to int </strong> </h3>
+<p> Using the constructor </p>
+<p> Using the valueOf method of the Integer class </p>
+<p> Using the parseInt method of the Integer class </p>
+<h3> <strong> String to long </strong> </h3>
+<p> Using the constructor </p>
+<p> Using Long's valueOf method </p>
+<p> Using Long's parseLong method </p>
+<h3> <strong> String to float </strong> </h3>
+<p> Using the constructor </p>
+<p> Using the valueOf method of the Float class </p>
+<p> Using the parseFloat method of the Float class </p>
+<h3> <strong> String to double </strong> </h3>
+<p> Using the constructor </p>
+<p> Using the valueOf method of the Double class </p>
+<p> Using the parseDouble method of the Double class </p>
+<h3> <strong> String to boolean <br /> </strong> </h3>
+<p> Converting a string to a boolean type in 2 ways. Note that a string that does not match true will be converted to boolean false. </p>
+
+<h1> Convert string to double in Java </h1>
+<p> <br /> Given a String, the challenge is to convert it to Double in Java. </p>
+<p> We can use various methods to accomplish a task: </p>
+<p> <strong> Syntax: </strong> </p>
+<p> website link </i> <br /> brightness_4 </i> <br /> code </i> </p>
+<p> <strong> Syntax: </strong> </p>
+<p> <strong> Examples: </strong> </p>
+<p> website link </i> <br /> brightness_4 </i> <br /> code </i> </p>
+
+<h1> How to convert a string to double? Or recommend another method of data entry. </h1>
+<p style = "clear: both"> <img src = "https://i.stack.imgur.com/BOMtA.png" /> </p>
+<h2> 3 answers 3 </h2>
+<p> However, despite the comment, the answer to the original question </p>
+<p> if the performance problem does not interest you, then it is most convenient like this: </p>
+

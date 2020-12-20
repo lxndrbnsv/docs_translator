@@ -1,0 +1,203 @@
+<h1> Ways to enable and configure the alarm clock on a laptop </h1>
+<p> If you need to get up early and have nothing at hand but a laptop, you can set an alarm on your laptop. There are several ways to set a wake-up signal for a specific time, using built-in Windows tools and third-party software. </p>
+<h2> Enabling hibernation </h2>
+<p> The laptop must be in sleep mode for the alarm to sound. Hibernation or complete shutdown will result in no signal at the set time. You can send your laptop to sleep yourself by selecting the appropriate item in the "Shutdown" menu. But there is also a more convenient option: </p>
+<ol>
+  <li> Open the Power Options section in the management console. </li>
+  <li> Go to the subsection "Actions when closing the lid." <img src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-1.jpg" /> </li>
+  <li> Proceed to modify the options currently unavailable. </li>
+  <li> Set the transition to sleep when the lid is closed. <img src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-2.jpg" /> </li>
+</ol>
+<p> Now you can safely close the laptop lid and not worry that the alarm will not go off at the time set in the scheduler. </p>
+<h2> Setting the alarm </h2>
+<p> As such, there is no alarm clock among Windows tools. But there is a task scheduler that can be used to perform various operations at a set time. With its help it will be possible to configure the automatic launch of the media player with the selected melody - why not an alarm clock? </p>
+<ol>
+  <li> Open the "Administration" section of the management console. <img src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-3.jpg" /> </li>
+  <li> Run the Task Scheduler tool. <img src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-4.jpg" /> </li>
+  <li> Choose to create a simple task. <img src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-5.jpg" /> </li>
+  <li> In the first window of the simple task creation wizard, enter the task name - let it be "Alarm clock". Click Next. <Img src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-6.jpg" /> </li>
+  <li> Set a trigger, that is, specify how often to run the task. For the alarm, you need to set "Daily". <Img src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-7.jpg" /> </li>
+  <li> In the “Daily” subsection, specify when to start waking you up in the morning and set the time to call. Click "Next". <Img src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-8.jpg" /> </li>
+  <li> Select the "Launch the program" action. <img src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-9.jpg" /> </li>
+  <li> Click on the "Browse" button and specify the path to the music file, the playback of which will wake you up in the morning. You don't need to add arguments and working folder. <Img src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-10.jpg" /> </li>
+</ol>
+<p style = "clear: both"> To set additional options for how the alarm sounds, check the box next to Finish with the checkbox "Open Properties" and click "Finish." <img style = "float: left; margin: 0 10px 5px 0; " src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-11.jpg" /> </p>
+<p style = "clear: both"> Go to the "Triggers" tab and click "Edit". In the field "Additional parameters" you can, for example, set the task to repeat every 5 minutes. <Img style = "float: left; margin: 0 10px 5px 0;" src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-12.jpg" /> </p>
+<p> The snooze can be set for 15 or 30 minutes, an hour, a day, or indefinitely, until you wake up and change the settings. </p>
+<p style = "clear: both"> <img src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-13.jpg" /> </p>
+<p style = "clear: both"> Then go back to the additional options window and go to the Conditions tab. <img style = "float: left; margin: 0 10px 5px 0;" src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-14.jpg" /> </p>
+<p> Check the box "Wake up the computer to complete the task" and uncheck the box "Run only when powered from the mains." Save the configuration by clicking OK. </p>
+<h2> Third party software </h2>
+<p style = "clear: both"> The disadvantage of using the scheduler is that you can't just take and configure the signal for 5 days, giving yourself two legal days off to sleep. But there is a way out: you can set an alarm clock on a laptop in the form of the Free Alarm Clock program. This free application works on all versions of Windows, from XP to 10. <Img style = "float: left; margin: 0 10px 5px 0;" src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-15.jpg" /> </p>
+<p> Immediately after starting Free Alarm Clock, you will see the default alarm clock. Such concern is good, but you still need to adjust the time and frequency of waking up yourself. </p>
+<p style = "clear: both"> <ol>
+  <li> Right click on the set alarm, select "Delete" so it doesn't ring at the wrong time. <img style = "float: left; margin: 0 10px 5px 0;" src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-16.jpg" /> </li>
+  <li> Click "Add" in the top bar. Set wake conditions with Free Alarm Clock. <Img style = "float: left; margin: 0 10px 5px 0;" src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-17.jpg" /> </li>
+</ol>
+</p>
+<p> There is nothing difficult in setting the conditions, but some explanations are still available for the options: </p>
+<ol>
+  <li> Set the alarm time. </li>
+  <li> Select days to wake you up at the specified time. </li>
+  <li> Write a message that will appear on the screen when you call (optional). </li>
+  <li> Indicate whether you want to display the written message. </li>
+  <li> Click the Browse button and specify the path to the music file that will wake you up. </li>
+  <li> Use the slider to set the appropriate volume level. </li>
+  <li> Turn on sound repeat. </li>
+  <li> Set the computer to automatically wake up and turn on the monitor. </li>
+  <li> Save the configuration by clicking OK. </li>
+</ol>
+<p> The fact that the program is running will be indicated by a glowing icon in the system tray. The main thing to remember is that the laptop should be put into sleep mode, and not turned off or sent to hibernation. The program will not run when the laptop is off, so you can oversleep. </p>
+<p style = "clear: both"> <img src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-18.jpg" /> </p>
+<p> In addition to Free Alarm Clock, there are other applications with similar functionality - Wakemeup, Alarm Master Plus. But these programs are distributed under a paid license, so Free Alarm Clock is more popular, although it cannot boast as many additional options as paid applications. </p>
+<h2> Using AIMP </h2>
+<p> If your laptop has an AIMP media player installed, you can use it as a full alarm clock. </p>
+<p style = "clear: both"> <ol>
+  <li> Start AIMP. Click on the timer icon in the right corner. <Img style = "float: left; margin: 0 10px 5px 0;" src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-19.jpg" /> </li>
+  <li> Go to the Alarm tab. </li>
+  <li> Check the box next to Alarm to activate the settings window. </li>
+  <li> Mark when the signal should be played - at a given time or after a given time. <img style = "float: left; margin: 0 10px 5px 0;" src = "https://lookfornotebook.ru/wp-content/uploads/2017/07/budilnik-20.jpg" /> </li>
+  <li> Select a track from your computer or from the AIMP playlist. </li>
+  <li> Set the ringer volume and indicate how long it will gradually increase. </li>
+  <li> Click Apply to save the configuration. </li>
+</ol>
+</p>
+<p> In the AIMP scheduler, which opens when you click on the timer icon, there are many more useful options: shutdown the computer, pause playback, exit the program at a specified time or after a specified time. This functionality is mostly redundant, but in non-standard situations it can also be useful. </p>
+
+<h1> Setting an alarm clock on a laptop in Windows </h1>
+<p style = "clear: both"> <img src = "http://proremontpk.ru/wp-content/uploads/2014/09/12.jpg" /> <br /> </p>
+<p> Time plays an important role in everyday life. With its help, people adhere to a certain routine: start the working day on time, go to lunch breaks, hold business meetings, etc. </p>
+<p> A standard alarm clock is now in every living room. Setting it up on a mobile phone or other devices is no longer news. Is it possible to set an alarm clock on a laptop? Undoubtedly, there is such a possibility. It's just that not everyone knows about her. </p>
+<p> <strong> There are two main methods to enable it: </strong> </p>
+<p> <ol>
+  <li> using standard utilities; </li>
+  <li> programs installed on the laptop. </li>
+</ol>
+</p>
+<h2> Standard Windows utilities </h2>
+<p> To set an alarm on a laptop, you can use the task scheduler built into the <strong> Windows </strong> <strong> 7 </strong> operating system. </p>
+<p> To call it, go to the <strong> Start menu, </strong> then enter the word <strong> Scheduler </strong> in the search bar. </p>
+<p style = "clear: both"> <img src = "http://proremontpk.ru/wp-content/uploads/2015/03/planirivshik.png" /> </p>
+<p> Photo: search bar </p>
+<p> <strong> You can use the second method: </strong> </p>
+<p> <ol>
+  <li> start menu; </li>
+  <li> then Control Panel; </li>
+  <li> select "System and Security", "Administration" </li>
+  <li> and finally Task Scheduler; </li>
+  <li> on the right in the opened part of the window follows - "Create a task"; </li>
+  <li> choosing the "General" tab, you need to enter the name of the task. For example, call it Alarm Clock. In the description - indicate "Inclusion"; </li>
+  <li> next tab "Triggers". Click - "Create". </li>
+</ol>
+</p>
+<p> If the user needs the call to be triggered at the same time every day, then you should set certain data for this. </p>
+<p style = "clear: both"> <img src = "http://proremontpk.ru/wp-content/uploads/2015/03/trigger-300x259.png" /> </p>
+<p> Photo: regular alarm </p>
+<ol>
+  <li> confirm and go to the "Action" column; </li>
+  <li> in the drop-down list select "Start the program"; </li>
+  <li> click "Browse" and choose the music file that will sound when the call is triggered; </li>
+  <li> save selection; </li>
+  <li> switch to the "Conditions" tab; </li>
+  <li> check the box "Wake up the computer to complete the task"; </li>
+  <li> by going to the "Options", the user can make adjustments when needed. </li>
+</ol>
+<p> This completes the installation. The main thing is not to forget to leave the computer in sleep mode, turn on the sound. </p>
+<p> <strong> To go to it, you need to make the following settings in the Control Panel: </strong> </p>
+<p> <ol>
+  <li> select "Power supply" from the list; </li>
+</ol>
+</p>
+<p> next - specify "Maximum performance" in the standard plan; </p>
+<p style = "clear: both"> <img src = "http://proremontpk.ru/wp-content/uploads/2015/03/setup_sleep_mode_windows7-300x300.gif" /> </p>
+<p> Photos: high performance </p>
+<ol>
+  <li> then - "Power plan setup"; </li>
+</ol>
+<p style = "clear: both"> <img src = "http://proremontpk.ru/wp-content/uploads/2015/03/setup_sleep_mode_windows7_2-300x300.gif" /> </p>
+<p> Photo: Battery Powered </p>
+<h2> Dedicated Free Alarm Clock </h2>
+<p> <strong> The program </strong> <strong> Alarm </strong> <strong> Clock </strong> is very simple and free. By installing it on a computer or laptop, it will not allow you to be late with the rise. </p>
+<blockquote> <p> It is enough to choose a melody that is pleasant to the ear and wake up with pleasure. It provides for adding a message that appears on the screen at the time of the call. </p> </blockquote>
+<p> In addition, it can wake up the computer and power on the monitor. You can set as many alarms as needed and edit them at any time. </p>
+<p style = "clear: both"> <img src = "http://proremontpk.ru/wp-content/uploads/2015/03/Free-Alarm-Clock-interface_thumb1-300x300.jpg" /> </ p >
+<p> Photo: program window </p>
+<p> <strong> It supports a wide variety of audio formats: </strong> </p>
+<p> <strong> In addition to the main function, Alarm Clock has: </strong> </p>
+<p> <ol>
+  <li> adding a signal with a message; </li>
+  <li> set a repeat of the daily schedule. </p> </ol>
+<p style = "clear: both"> <img src = "http://proremontpk.ru/wp-content/uploads/2015/03/Free-Alarm-Clock-message-attached-with-alarm_thumb1-300x300.jpg "/> </p>
+<p> Photo: add alarm </p>
+<p> The signals that it can play can be saved as backup files in * .alm format. </p>
+<p> The user can correct the messages at any time. </p>
+<p style = "clear: both"> <img src = "http://proremontpk.ru/wp-content/uploads/2015/03/Free-Alarm-Clock-edit-an-alarm_thumb1-300x300.jpg" / > </p>
+<p> If we talk about the repeat mode, then it can be set or canceled. The delay will take from one to ten minutes. </p>
+<p> <strong> Working with it is not difficult. To do this, use the Add button, which means - Add, to set the signal. </strong> In the new window that opens, you need to select the signal time, frequency of repetition, insert a text message that accompanies it. <br /> </p>
+<p> A program for recovering data from a hard drive after formatting. How it works here. </p>
+<p> If the user wants to hear a melody that is stored on the computer, then it is enough to specify it. </p>
+<p> <strong> For some options, you can enable or disable them: </strong> </p>
+<p> <ul>
+  <li> repeat sound; </li>
+  <li> wake up the PC from standby; </li>
+  <li> turn on the monitor; </li>
+  <li> set a call schedule. </li>
+</ul>
+</p>
+<p> If you need to change the settings, you can use the Edit button. </p>
+<blockquote> <p> The output is obtained by itself - the program is useful for everyone who is afraid to oversleep. </p> </blockquote>
+<p> For the Windows 8 operating system, all settings are also performed step by step similar to the seventh version. </p>
+<h2> Video: Set Alarm </h2>
+<p> <iframe src = "https://www.youtube.com/embed/5Jv6cAVCTCU"> </iframe> </p>
+<h2> How to set an alarm clock on a laptop in AIMP </h2>
+<p> There is another very convenient way to set an alarm clock on a laptop. The well-known AIMP player is used for this. </p>
+<p> <strong> Algorithm of actions: </strong> </p>
+<p> <ol>
+  <li> click on the round icon located on the right side of the program window; </li>
+  <li> go to the Alarm clock tab; </p> </ol>
+<p style = "clear: both"> <img src = "http://proremontpk.ru/wp-content/uploads/2015/03/aimpimage032-300x300.jpg" /> </p>
+<p> Photo: Alarm clock tab </p>
+<p> <strong> If you use the Scheduler tab, then in addition the user can specify parameters for certain actions - at a specified time or at the end of the song: </strong> </p>
+<p> <ol>
+  <li> turn off the computer; </li>
+  <li> close the program window; </li>
+  <li> end playing sound file. </p> </ol>
+<p style = "clear: both"> <img src = "http://proremontpk.ru/wp-content/uploads/2015/03/aimpimage034-300x300.jpg" /> </p>
+<p> Photo: planner window </p>
+<p> As for installing the AIMP player, everything is very simple. You just need to download the installation file of the program and follow the steps of the instruction sequentially. Even an inexperienced user can handle this. </p>
+<p> You have WIFI without network access. What to do? The answer is here. </p>
+<p> How to connect a 4G modem to an Android tablet. See instructions below. </p>
+<p> They have their pros and cons. It all depends on the needs of the person. This is a decisive factor in choosing a particular one. </p>
+
+<h1> How to set an alarm clock on a computer (laptop)? </h1>
+<p> Time plays a huge role in our world, because it not only allows you to live in the same rhythm with other people (come to work at the same time, break for lunch, attend any events), but also provides an opportunity for planning your life. </p>
+<p> In addition to a clock, every home has an alarm clock, which can be either an independent device or part of a device (tablet, smartphone, stereo system, etc.). </p>
+<p> Despite the fact that there are a lot of devices that allow setting the required time, computer owners are constantly trying to find ways to "install this mechanism" on their machine. </p>
+<p> In this article we will try to explain how to set an alarm clock on a computer or laptop. At the same time, two methods of performing this operation will be described, so that everyone can choose the most appropriate. </p>
+<p> This option assumes the use of a pre-installed "option package", which is available on all devices based on Windows 7 and 8. </p>
+<p> 1. Go to the "Start" menu and click on the inscription "All programs". </p>
+<p style = "clear: both"> <img src = "https://hyperione.com/wp-content/uploads/2016/11/fe7d48.jpg" /> </p>
+<p> 2. Then select the "Standard" folder, and in its submenu select the "System" folder. Click on Task Scheduler. </p>
+<p style = "clear: both"> <img src = "https://hyperione.com/wp-content/uploads/2016/11/61ba61.jpg" /> </p>
+<p> 3. A window will appear in front of you, in it you must click on the "Create task" option. </p>
+<p style = "clear: both"> <img src = "https://hyperione.com/wp-content/uploads/2016/11/5fba6e.jpg" /> </p>
+<p> 4. Another window will pop up, in which you have to set up your task. In the Name field, enter any word, such as alarm. Any set of letters can be entered in the Description field. </p>
+<p style = "clear: both"> <img src = "https://hyperione.com/wp-content/uploads/2016/11/a03c1a.jpg" /> </p>
+<p> 5. Go to the "Triggers" tab. Click on the "Create" button. </p>
+<p style = "clear: both"> <img src = "https://hyperione.com/wp-content/uploads/2016/11/7016aa.jpg" /> </p>
+<p> 6. In the pop-up window you can configure the alarm time, its frequency (call only today, weekly, and so on), as well as set additional parameters (repeat playback, etc.). Enter the required parameters and click on "OK". </p>
+<p style = "clear: both"> <img src = "https://hyperione.com/wp-content/uploads/2016/11/ca8a87.jpg" /> </p>
+<p> 7. Now go to the "Actions" tab. Click on "Create". Now click on the "Browse" button and select the required file, program to run. If you want music to play at a certain time, then you should choose the song file itself. In addition, you can set your alarm clock so that instead of the usual music for everyone, you will start a movie or some program. Once you have selected the file, click on "Ok". </p>
+<p style = "clear: both"> <img src = "https://hyperione.com/wp-content/uploads/2016/11/5b6c29.jpg" /> </p>
+<p> 8. There are also two tabs: "Conditions" and "Options". They allow you to make additional settings, however, if you only need an alarm clock, then you don't even have to go to them. </p>
+<p> Click on the "Ok" button. </p>
+<p> That's it, you've set an alarm clock on your computer! If in doubt that you can do everything right at once, try setting the "task" so that it starts up in about 10 minutes. This will allow you to make sure that the installed "clockwork" will work in the morning. </p>
+<p> The main condition for the alarm clock to work is the switched on PC / laptop. It can be in sleep mode, but must be turned on. </p>
+<p style = "clear: both"> <img src = "https://hyperione.com/wp-content/uploads/2016/11/d31238.jpg" /> </p>
+<p> This method involves installing a third-party program on your device (if you do not trust programs downloaded from the Internet, use the first method). </p>
+<p>Существует множество программ, а также утилит, позволяющих быстро установить на свой агрегат будильник, однако не все они отличаются своей богатой функциональностью.</p>
+<p>Наиболее популярными среди пользователей являются программы «Cool Calendar» (подходит только для Windows 7) и «Alarm Clock». Они довольно мало весят и просты в использовании.</p>
+<p>Скачивание утилит/программ производите только с проверенных источников, чтобы обезопасить свой ПК от возможного заражения.</p>
+<p>Описывать процесс установки и использования мы не будем, так как с этим может разобраться даже неопытный пользователь. А настройка программ практически ни чем не отличается от установки реального будильника.</p>
+<p>Вот и все, теперь вы знаете, как поставить будильник на компьютере или же ноутбуке.</p>
+

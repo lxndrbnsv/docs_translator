@@ -1,0 +1,142 @@
+<h1> Blackmart </h1>
+<p> Alternative market in your smartphone </p>
+<h1> Apto> Published in Android Market </h1>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://upgrade-android.ru/images/Aptoide-TV-min.png" /> Store of applications optimized for set-top boxes and Smart TV </p>
+<h1> APKUpdater </h1>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://upgrade-android.ru/images/APKUpdater-min.png" /> Can check for updates for programs on APKMirror and APKPure </p>
+<h1> Google Play </h1>
+<p> Official Android App Store </p>
+<h1> Hacked Google Play </h1>
+<p> The application is designed to bypass the license check of some games and applications </p>
+<h1> Xiaomi Market </h1>
+<p> Alternative Market for Android </p>
+<h1> F-Dro> Posted in Android Market </h1>
+<p> Open Source Android Repository </p>
+<h1> Cool Market </h1>
+<p> Alternative Market for Android </p>
+<h1> Google Play Services </h1>
+<p> Component providing the key functions of Android devices </p>
+<h1> Yandex Store </h1>
+<p> The official store for Android applications from the Russian company Yandex </p>
+<h1> Nine Store </h1>
+<p> Alternative store for applications and games for Android mobile devices </p>
+<h1> APKPure App </h1>
+<p> APKPure App - Alternative App Market </p>
+<h1> Apto> Published in Android Market </h1>
+<p> Alternative Market Application </p>
+<h1> AppSales </h1>
+<p> Automated tracking of program discounts on Google Play </p>
+<h1> Ac Market </h1>
+<p> Application for downloading paid applications and games from Data, which are in Google play </p>
+<h1> AppsFree </h1>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://upgrade-android.ru/images/AppsFree-min.png" /> Paid apps, games and icon packs temporarily available for free </p>
+<h1> Purchased Apps </h1>
+<p> Purchased and paid software manager </p>
+<h1> Yalp Store </h1>
+<p> Search and download programs from the Google Play Store without Google Services </p>
+<h1> Samsung Galaxy Apps </h1>
+<p> The official Samsung repository for many unique apps </p>
+<h1> 1Mobile Market </h1>
+<p> Alternate Application Directory </p>
+<h1> Market Helper </h1>
+<p> Solving the problem of incompatibility of applications from Google Play with your device </p>
+
+<h1> Blackmart </h1>
+<p> on 22 December 2019. Posted in Android Market </p>
+<p> Alternative market in your smartphone </p>
+<h1> Apto> incl. 21 December 2019. Posted in Android Market </h1>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://w3bsit3-dns.com/images/Aptoide-TV-min.png" /> Store of applications optimized for set-top boxes and Smart TV </p>
+<h1> APKUpdater </h1>
+<p> on 16 December 2019. Posted in Android Market </p>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://w3bsit3-dns.com/images/APKUpdater-min.png" /> Can check for updates for programs on APKMirror and APKPure </p>
+<h1> Google Play </h1>
+<p> on 28 November 2019. Posted in Android Market </p>
+<p> Official Android App Store </p>
+<h1> Hacked Google Market </h1>
+<p> on 07 September 2019. Posted in Android Market </p>
+<p> The application is designed to bypass the license check of some games and applications </p>
+<h1> Xiaomi Market </h1>
+<p> on 21 August 2019. Posted in Android Market </p>
+<p> Alternative Market for Android </p>
+<h1> F-Dro> on 18 March 2019. Posted in Android Market </h1>
+<p> Open Source Android Repository </p>
+<h1> CoolApk </h1>
+<p> on 16 August 2018. Posted in Android Market </p>
+<p> Alternative Market for Android </p>
+<h1> Google Play Services </h1>
+<p> on April 29, 2018. Posted in Android Market </p>
+<p> Component providing the key functions of Android devices </p>
+<h1> Yandex Store </h1>
+<p> on 17 October 2017. Posted in Android Market </p>
+<p> The official store for Android applications from the Russian company Yandex </p>
+<h1> Nine Store </h1>
+<p> on 02 September 2016. Posted in Android Market </p>
+<p> Alternative store for applications and games for Android mobile devices </p>
+<h1> APKPure App </h1>
+<p> on 22 December 2019. Posted in Android Market </p>
+<p> APKPure App - Alternative App Market </p>
+<h1> Apto> incl. 21 December 2019. Posted in Android Market </h1>
+<p> Alternative Market Application </p>
+<h1> AppSales </h1>
+<p> on 05 December 2019. Posted in Android Market </p>
+<p> Automated tracking of program discounts on Google Play </p>
+<h1> AcMarket </h1>
+<p> on 08 September 2019. Posted in Android Market </p>
+<p> Application for downloading paid applications and games from Data, which are in Google play </p>
+<h1> AppsFree </h1>
+<p> on 04 September 2019. Posted in Android Market </p>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "https://4pda.biz/images/AppsFree-min.png" /> Paid apps, games and icon packs temporarily available for free </p>
+<h1> Purchased Apps </h1>
+<p> on 07 July 2019. Posted in Android Market </p>
+<p> Purchased and paid software manager </p>
+<h1> Yalp Store </h1>
+<p> on 11 November 2018. Posted in Android Market </p>
+<p> Search and download programs from the Google Play Store without Google Services </p>
+<h1> Samsung Galaxy Apps </h1>
+<p> on 01 May 2018. Posted in Android Market </p>
+<p> The official Samsung repository for many unique apps </p>
+<h1> 1Mobile Market </h1>
+<p> on 04 December 2017. Posted in Android Market </p>
+<p> Alternate Application Directory </p>
+<h1> Market Helper </h1>
+<p> on 16 June 2017. Posted in Android Market </p>
+<p> Solving the problem of incompatibility of applications from Google Play with your device </p>
+<h1> Bao Market </h1>
+<p> on 28 June 2016. Posted in Android Market </p>
+
+<h1> Best App Stores for Andro> There is life outside of Google Play. This list of app stores will guide you through the best alternative markets for downloading the APK of your favorite games or apps, especially those not available in the official store </h1>
+<p style = "clear: both"> <img style = "float: left; margin: 0 10px 5px 0;" src = "https: //imag.malav> Apto> 9.12.0.1 </p>
+<p> Alternative app store for Android </p>
+<p> Alternative Google Play Store </p>
+<p> Control your Android with your PC </p>
+<p> Best Google Play Alternative in Lite Version </p>
+<p> Alternative app store? No, recommendation service </p>
+<p> APK for Google App Store </p>
+<p> Alternative app store for Android </p>
+<p> Russian-language version of 9Apps online store </p>
+<p> Download apps and mods for games for free </p>
+<p> Xiaomi App Store </p>
+<p> Thousands of modified games and applications </p>
+<p> Aptoide App Store for Android TV </p>
+<p> Alternative Google Play Store for Android </p>
+<p> Take a look at the iPhone App Store </p>
+<p> Store for free and hacked applications </p>
+<p> Select Google Play Apps </p>
+<p> Google Play Alternative Android Application Store </p>
+<p> App Store with Basic Design </p>
+<p> Google App Store for Android 3.0 </p>
+<p> MoboPlay App Store </p>
+<p> App Store, Play Store Alternative </p>
+<p> Application store for manga and anime lovers </p>
+<p> Alternative app store for Android </p>
+<p> An alternative to Google Play for downloading apps </p>
+<p> Turn your Android device into an iPhone </p>
+<p> Alternative app store for Android </p>
+<p> Hacked games store </p>
+<p> Alternative Google Play Resources for Android </p>
+<p> Chinese App Store </p>
+<p> Yandex App Store for Android </p>
+<p> Store for Samsung Apps and Exclusive Products </p>
+<p> Check out the new features of Aptoide </p>
+<p> Fashion oriented app store </p>
+

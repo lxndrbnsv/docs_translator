@@ -1,0 +1,229 @@
+<h1> Bank Opening: login to your personal account </h1>
+<p style = "clear: both"> <img src = "https://cabinet-bank.ru/wp-content/uploads/2019/06/otkritie.jpg" /> </p>
+<p> <strong> Bank Otkritie </strong> is a large Russian bank that occupies high positions among the country's credit institutions. The financial institution is engaged in both lending to the population and accepting funds for deposits. All operations with accounts can be performed in the personal account of the Opening bank online. It is enough to connect to the Internet bank on the official website of the bank. </p>
+<h2> Bank Opening: login to your personal account </h2>
+<p style = "clear: both"> <img src = "https://cabinet-bank.ru/wp-content/uploads/2019/06/otkritie-lkk.png" /> </p>
+<p> Any client of the bank can perform banking operations in the Internet bank around the clock, without making a visit to an ATM or an office of a credit institution. To enter the personal account of Otkritie Bank, go to the official website <strong> https://www.open.ru </strong> and select "Internet Bank" - "For individuals" in the upper right corner. On the page that opens, the system will offer to indicate your username and password specified during registration. </p>
+<blockquote><p> <strong> Pay attention! </strong> If you do not remember your online banking login and password, just re-register and get new login details. To restore access to your personal account, you must have a mobile phone at hand. </p> </blockquote>
+<p> The following operations are available to the clients of the Opening bank in the Internet bank: </p>
+<p> <ol>
+  <li> Information about current accounts and cards (account status, details for crediting funds, statement of transactions made with the card) </li>
+  <li> Payment for services (cellular, utilities, Internet and TV, taxes and fines) </li>
+  <li> Creation of payment templates (generated from any previous operation in the Internet bank) </li>
+  <li> Money transfers (between your own bank accounts, as well as to other banks by details) </li>
+  <li> Debit and credit card processing </li>
+  <li> Information about bonus rubles accumulated as part of the loyalty program (they can compensate for purchases in the amount of 3,000 rubles or more) </li>
+  <li> Information about balances by limits (cash withdrawal, transfer to a card of another bank) </li>
+  <li> Opening a deposit (the Client can choose one of 4 deposits: "Reliable", "Basic income", "Active replenishment", "Free management" depending on his needs) </li>
+  <li> Opening a savings account "My piggy bank" (the account allows you to receive 7% per annum on the account balance when funds are found on it from 10,000 rubles) </li>
+  <li> Opening a metal account (gold, silver, platinum, palladium) </li>
+  <li> Blocking and unblocking the card </li>
+  <li> Replenishment of the card from your account or with a card of another bank </li>
+  <li> Change card PIN-code </li>
+  <li> Activation and deactivation of the "SMS-info" service </li>
+  <li> Linking a card of another bank (allows you to make transfers between cards without specifying the details) </li>
+  <li> Investments (through Otkritie Broker) </li>
+  <li> Getting help from customer support </li>
+  <li> Search for the nearest branches and ATMs </li>
+  <li> Internet banking login settings (changing login and password, setting up login via social networks </li>
+  <li> Current exchange rate </li>
+</ol>
+</p>
+<h2> Registration of a personal account at Otkritie Bank </h2>
+<p> You can access your personal account remotely without visiting an ATM or bank office if you have any valid Otkritie bank card. Online banking is registered on the official website at <strong> https://ib.open.ru/r </strong>. </p>
+<p> On the page that opens, you need to indicate the card number (16 digits) and confirm your agreement with the rules for providing remote banking services (remote banking services). Next, an SMS code will be sent to your phone to continue the operation, after which you need to come up with a username and password, according to the rules set by the bank. Now you can enter your personal account using your new username and password. </p>
+<p style = "clear: both"> <img src = "https://cabinet-bank.ru/wp-content/uploads/2019/06/open-register.png" /> </p>
+<h2> I cannot enter the personal account of the bank Opening: what to do? </h2>
+<p> If you are unable to enter the personal account of the bank Opening with several attempts, we recommend that you use the password recovery option to avoid blocking your account. To restore access, you just need to re-register in the system. </p>
+<p> <strong> Also, when trying to log in, sometimes a window like this appears: </strong> </p>
+<p style = "clear: both"> <img src = "https://cabinet-bank.ru/wp-content/uploads/2019/06/page-lock-openbank.png" /> </p>
+<blockquote> <p> This login error can be solved by simply changing the IP address: just reconnect the Internet on the computer or restart the router and the error will disappear. </p> </blockquote>
+<p> In addition to these problems, sometimes it is simply not possible to log in: the bank periodically makes updates to the online banking service, while warning customers in advance about technical work at the scheduled time. Also, the personal account can sometimes work slowly with a large number of simultaneous transfers: for example, on New Year's and other major holidays. </p>
+<p> If these recommendations did not help you, then you should contact the Otkritie bank hotline and you will be provided with prompt assistance in restoring access. </p>
+<h2> Mobile application of the Bank Opening </h2>
+<p> The bank has a convenient mobile application that allows you to use the banking service from the screen of your mobile. The program is provided free of charge and is available for download to users of mobile devices based on iOS and Android. </p>
+<p> You can download the mobile bank in the application store of your device (Google Play or App Store) by entering the phrase "Opening Bank" in the search bar. Then press the "Install" button and wait for the operation to complete - a new icon will appear in the menu on the smartphone. </p>
+<p style = "clear: both"> <img src = "https://cabinet-bank.ru/wp-content/uploads/2019/06/openbank-app-1.png" /> </p>
+<p> If you already have access to the Internet bank, then you do not need to register again - the details for entering the mobile application and your personal account are the same. </p>
+<p> Possibly a mobile application: </p>
+<p> <ul>
+  <li> Registration in the system (if you have not previously connected your personal account) </li>
+  <li> Cards and accounts management </li>
+  <li> View information about the card balance, accrued cashback, details for receiving funds. You can also change the PIN-code of the card or block the card in case of loss </li>
+  <li> Opening deposits with one touch </li>
+  <li> Making payments and transfers </li>
+  <li> Live chat with customer support </li>
+  <li> Connecting Apple Pay and Android Pay payment services </li>
+  <li> Card issuance (the card can be delivered by a courier or you can pick it up yourself at the office) </li>
+</ul>
+</p>
+<blockquote> <p> When installing the application, we recommend setting up a login to your personal account using a PIN-code and a fingerprint at the first launch to save time. </p> </blockquote>
+<p> You can also download the official application of the Bank Opening from one of the links below: </p>
+<p> </p>
+<p> </p>
+<h2> Opening bank hotline </h2>
+<p> For help from bank employees, you can contact customer support. There are several ways to do this: </p>
+<p> <ul>
+  <li> call the toll-free number of the bank Opening 8 (800) 700-78-77 </li>
+  <li> for calls from abroad, use the phone +7 (495) 787-78-77 </li>
+  <li> write to the online chat on the official website or in your personal account </li>
+  <li> ask a question in the official group of the bank on social networks </li>
+</ul>
+</p>
+<p style = "clear: both"> <img src = "https://cabinet-bank.ru/wp-content/uploads/2019/06/openbank-phone.png" /> </p>
+<p> In your personal account, you can find out the balance of your card or account, clarify the balance of the loan debt, block the card and find out any information related to the bank's services. The hotline works around the clock. </p>
+<blockquote><p> <strong> Please note! </strong> To obtain personal information, you will need to pass customer identification: be prepared to provide your personal passport details and a code word. </p> </blockquote>
+<h2> Opencard debit card from Otkritie bank </h2>
+<p> Opencard debit card is a new bank card that allows its holders to receive cashback and interest on the account balance. Service of the card is free - you do not pay anything, only for issuing the card by the bank - a one-time 500 rubles For purchases with a card, you are awarded points depending on the category of purchase: up to 3% for all purchases and up to 11% in the selected category (it can be changed once a month through the application or the personal account of the bank). </p>
+<p style = "clear: both"> <img src = "https://cabinet-bank.ru/wp-content/uploads/2019/06/Opencard_9ab1.png" /> </p>
+<p> The main characteristics of the card: </p>
+<p> <ul>
+  <li> <strong> Card service </strong>: free </li>
+  <li> <strong> SMS-informing </strong>: the "SMS-info" service is provided free of charge for the first 45 days, then - 59 rubles per month </li>
+  <li> <strong> Transfer of funds from card to card of another bank </strong>: 20,000 rubles per month without commission </li>
+  <li> <strong> ATM cash withdrawals </strong>: free </li>
+  <li> <strong> Cashback for purchases </strong>: up to 3% for everything if the conditions are met and up to 11% in the selected category (it can be changed once a month) </li>
+  <li> <strong> Card replenishment </strong>: in your personal account, as well as at ATMs of Otkritie Bank and Alfa Bank - no interest </li>
+  <li> <strong> Percentage on the balance within the account "My piggy bank" </strong>: 7% per annum if there is an amount of 10,000 rubles or more on the savings account </li>
+  <li> <strong> Card currency </strong>: the card is multi-currency, you can simultaneously store rubles, dollars and euros on it </li>
+</ul>
+</p>
+<p> You can order a debit card Opencard of the bank Opening below: </p>
+<p style = "clear: both"> <img src = "https://cabinet-bank.ru/wp-content/uploads/2019/06/opencard-zakaz.png" /> </p>
+<p> The term for producing a card depends on the city and is about 7 calendar days. The card is delivered by courier to the specified address, you can also choose the nearest bank branch and receive it there. </p>
+<h2> Cash loan at the bank Opening: online application </h2>
+<p> If you need a cash loan, you can leave an application at the Otkritie Bank. The loan conditions are as follows: </p>
+<p> <ul>
+  <li> <strong> Loan amount </strong>: from 50,000 rubles to 5,000,000 rubles </li>
+  <li> <strong> Loan term </strong>: from 1 to 5 years </li>
+  <li> <strong> Interest rate </strong>: 9.9% per annum (in the first year of lending) </li>
+  <li> <strong> Application processing time </strong>: 3 minutes </li>
+</ul>
+</p>
+<p style = "clear: both"> <img src = "https://cabinet-bank.ru/wp-content/uploads/2019/06/kreditnal-open.png" /> </p>
+<p> Requirements for the borrower: </p>
+<p> <ul>
+  <li> <strong> Russian citizenship </strong> and registration in the city of Otkritie Bank presence </li>
+  <li> <strong> age </strong>: 21 to 68 years old </li>
+  <li> <strong> working time in last place </strong>: from 3 months </li>
+  <li> <strong> general work experience </strong>: at least 1 year </li>
+</ul>
+</p>
+<p> If you meet all the requirements, you can leave an application for a loan and find out the solution within 3 minutes online. </p>
+<p> You can apply for a loan below: </p>
+<p style = "clear: both"> <img src = "https://cabinet-bank.ru/wp-content/uploads/2019/06/kredit-open.png" /> </p>
+<h2> Open a current account for an individual entrepreneur / LLC in Otkritie Bank </h2>
+<p> If you are an individual entrepreneur or LLC, then you can open a current account at the Opening Bank. The bank provides convenient account management through a personal account and a mobile application, as well as flexible service rates. In total, the bank provides 5 tariffs for business: </p>
+<p style = "clear: both"> <img src = "https://cabinet-bank.ru/wp-content/uploads/2019/06/otkritie-rko.png" /> </p>
+<p> <ol>
+  <li> <strong> First Step Rate </strong>. The tariff is suitable for a new or small business. Account maintenance per month - 0 rubles, 3 external payments free of charge, 100,000 rubles of free transfers per month to individuals, cash withdrawals from an ATM per month up to 100,000 rubles at 0.99%. </li>
+  <li> <strong> Fast Growth Rate </strong>. Ideal for fast-growing businesses. The subscription service fee is 499 rubles per month, 7 free payments are provided. </li>
+  <li> <strong> "Own business" rate </strong>. This tariff will be very useful for businesses with a large number of payments. The subscription fee is 1290 rubles per month (860 rubles if paid for 3 months at once), 15 payments are provided free of charge. </li>
+  <li> <strong> Tariff "Worldwide" </strong>. The tariff plan is suitable for those who often accept payments from abroad. An individual exchange rate for foreign trade participants is provided. The cost per month is 1990 rubles (1327 rubles if paid for 3 months) </li>
+  <li> <strong> Tariff "Open Opportunities" </strong>. Tariff for businesses with high turnover. Account maintenance is 7990 rubles per month (5327 rubles if paid for 3 months). All external transfers are free. You can transfer 500,000 rubles to individuals per month without commission. </li>
+</ol>
+</p>
+<p> You can open a current account in the Opening bank and learn more about the terms of service at the link below: </p>
+<p style = "clear: both"> <img src = "https://cabinet-bank.ru/wp-content/uploads/2019/06/rko-otkritie.png" /> </p>
+<h2> How to pay off a loan at Otkrytie bank </h2>
+<p> You can pay for the loan either taken from the Otkritie bank or from any other bank in the country using the account details. You can find out the amount of the loan debt or the amount of the upcoming payment in one of the following ways: </p>
+<p> <ol>
+  <li> using the Otkritie Online Internet bank </li>
+  <li> at any branch of the bank (you must have a passport with you) </li>
+  <li> by phone at the bank's contact center </li>
+</ol>
+</p>
+<p> You can pay for a loan issued at the Opening Bank in one of the following ways: </p>
+<p> <ul>
+  <li> in your account or mobile application </li>
+  <li> transfer from card to card </li>
+  <li> depositing cash into an account through a bank ATM </li>
+  <li> transferring money between your accounts </li>
+</ul>
+</p>
+<p> For a guaranteed write-off of the loan payment, it is recommended to make the payment amount 1 day before the date of the scheduled write-off. </p>
+<p> The bank also has several services that are useful for clients regarding loan payments: </p>
+<h3> Skipping loan payment </h3>
+<p> The option is available once a year no earlier than 6 months from the date of the loan. <strong> The service allows you to skip 1 payment </strong>, and the amount of the monthly payment will be recalculated taking into account the missed month. A pass of payment is provided only by a client who has not previously admitted delays in payment. </p>
+<p> You can use the transfer of payment to the next month no later than 3 working days before the date of payment on the loan. To provide the service, you must contact the bank branch with a passport. </p>
+<h3> Transfer of loan payment </h3>
+<p> (allows you to reschedule the loan payment date this month). The service is available from the 3rd month after receiving a loan and is available no more than 1 time per year. To provide the service, you must contact the bank branch. </p>
+<h2> Refinancing a loan at the Opening bank </h2>
+<p> If you want to refinance a loan or credit card issued in another bank, then you can use the refinancing program from Otkritie Bank. Conditions for granting a loan for refinancing: </p>
+<p> <ul>
+  <li> <strong> Loan amount </strong>: from 50,000 rubles to 5,000,000 rubles </li>
+  <li> <strong> Loan term </strong>: from 1 to 5 years </li>
+  <li> <strong> Interest rate </strong>: 9.9% per annum (in the first year of lending) </li>
+  <li> <strong> Application processing time </strong>: 3 minutes </li>
+</ul>
+</p>
+<p> Requirements for the borrower: </p>
+<p> <ul>
+  <li> <strong> Russian citizenship </strong> and registration in the city of Otkritie Bank presence </li>
+  <li> <strong> age </strong>: 21 to 68 years old </li>
+  <li> <strong> working time in last place </strong>: from 3 months </li>
+  <li> <strong> general work experience </strong>: at least 1 year </li>
+</ul>
+</p>
+<p> If you meet all the requirements, you can leave an application for refinancing and find out the decision within 3 minutes. </p>
+<h2> Account "My Piggy Bank" in the bank Opening: conditions </h2>
+<p style = "clear: both"> <img src = "https://cabinet-bank.ru/wp-content/uploads/2019/06/kopilka-open.png" /> </p>
+<p> <strong> My Piggy Bank </strong> is a special savings account that allows you to earn interest on your account balance. If you have an amount of 10,000 rubles or more on your account, you get a remuneration of 7% per annum every month. </p>
+<p> A distinctive feature of this account is that you can freely use money, the amount of remuneration is calculated based on the average amount for each day throughout the month. Interest is credited to the account at the end of the month. </p>
+<p> You can connect an account in your personal account or the bank's mobile application. In the section "My piggy bank" you can also see how much money will be credited to your card at the end of the month. </p>
+
+<h1> Mobile Application <br /> "Discovery" </h1>
+<p> The bank is always at hand - solve financial issues <br /> instantly using your smartphone </p>
+<p style = "clear: both"> <img src = "https://cdn.open.ru/storage/files/app-store.svg" /> </p>
+<p style = "clear: both"> <img src = "https://cdn.open.ru/storage/files/google-play.svg" /> </p>
+<p> Deposits in rubles and dollars </p>
+<p> Open deposits online - the rate will be higher than at a bank branch. Calculate income in advance on a calculator and transfer interest to a card or account. </p>
+<p> We answer questions in the chat quickly and without unnecessary formalities. You do not have to introduce yourself by name, patronymic and confirm your passport data - we will spend this time helping you. </p>
+<p> Payment and transfers without commission </p>
+<p> Instantly pay for communications, internet, utilities, transport and other services without commission. Pay taxes, traffic fines and make payments on loans. Transfer money between accounts, from card to card, to clients of Otkritie and other banks by phone number. </p>
+<p> Convenient map management </p>
+<p> Check the balance, history of transactions, monitor the accrual of bonuses, see the details and order certificates. Money is safe - you can change the pin code or block the card at any time. </p>
+<p> To register, enter or scan the card number, dial the code from sms and come up with a password to enter. If you forget your mobile banking password, it is easy to recover it - just register again. </p>
+<p> All finances on one screen </p>
+<p> Manage cards, accounts, deposits and loans in one place. And discover new financial products without going to the bank. </p>
+<p> No card yet - order in the app </p>
+<p> We will deliver the finished Otkritie debit card free of charge in Moscow, St. Petersburg and 25 more cities. Не подходит доставка — карту всегда можно забрать в ближайшем отделении банка.</p>
+<p>Хорошо, что исправили последние ошибки, а то без приложения как без рук. Отличное приложение. Еще бы ориентирование горизонтальное добавили, чтоб условия вклада были видны))</p>
+
+<h1>Открытие банк личный кабинет</h1>
+<p style="clear: both"><br /><img src="https://bank-cabinet.ru/wp-content/uploads/2018/01/otk01-tit.jpg" /></p>
+<p>Банк изначально работал под именем «Карина-Банк», затем «Русский Банк Развития» и только с 2007 года — под названием Открытие. В 2015 году был выбран банком года. Сегодня каждый клиент Открытие может свободно пользоваться услугами личного кабинета в системе «Интернет-банка» или в мобильном приложении.</p>
+<h2>Открытие банк: вход в личный кабинет</h2>
+<p style="clear: both"><img src="https://bank-cabinet.ru/wp-content/uploads/2018/01/otk02-vhod.png" /> </p>
+<p>Разработчики постоянно работают над своим сервисом «Интернет-банк», чтобы сделать его максимально простым и безопасным.</p>
+<p>Для начала необходимо зайти на официальный сайт open.ru или openbank.ru На главной странице в верхней части необходимо выбрать «ИНТЕРНЕТ-БАНК». После этого откроется новая страница с безопасным протоколом, здесь нужно ввести логин и пароль, созданные вами ранее во время регистрации. В своём личном кабинете доступны все ваши карты и счета, платежи и переводы, вклады, возможность заказа новой или дополнительной карты и круглосуточный Чат с представителем банка Открытие.</p>
+<p style="clear: both"><img src="https://bank-cabinet.ru/wp-content/uploads/2018/01/otk03-vhod.jpg" /></p>
+<h2>Регистрация личного кабинета в банке Открытие</h2>
+<p>Если у вас есть карта, вклад или кредит банка Открытие, то вы самостоятельно можете получить доступ к личному кабинету. Для этого достаточно зайти на официальный сайт, выбрать «Интернет-банк», затем «Зарегистрироваться» указать шестнадцати значный номер вашей карты Открытие, банк отправит смс с кодом на привязанный номер к карте, которой необходимо ввести далее, для максимальной безопасности. Затем система предложит вам создать ваш личный логин и пароль для дальнейшего постоянного входа.</p>
+<p style="clear: both"><img src="https://bank-cabinet.ru/wp-content/uploads/2018/01/otk04-registr.jpg" /></p>
+<h2>Восстановление пароля личного кабинета</h2>
+<p>Если вы забыли свой логин и пароль, для начала попробуйте перепроверить раскладку клавиатуры, только английские или русские буквы, затем проверьте есть ли заглавные буквы, проверьте наличие и правильность цифр и символов. Если войти не удаётся, то необходимо восстановить данные.</p>
+<p>На странице входа есть кнопка «Забыли пароль?» если нажать на неё система сообщит вам, что для восстановления логина или пароля — просто пройдите заново регистрацию, в процессе которой создадите себе новый логин и пароль. О процессе регистрации более подробно описано в предыдущем пункте.</p>
+<p style="clear: both"><img src="https://bank-cabinet.ru/wp-content/uploads/2018/01/otk05-vosst.jpg" /></p>
+<h2>Мобильное приложение банка Открытие</h2>
+<p>«Открытие» ценит время клиентов, поэтому банк разработал мобильное приложение с которым не придётся никуда ходить или звонить — все необходимые возможности уже в вашем телефоне. По версии Globle Finance обладателем лучшего мобильного банкинга назначен банк Открытие.</p>
+<p>Приложение абсолютно бесплатное и его может скачать и установить любой пользователь. Для скачивания официального мобильного приложения и более подробного описания, перейдите по необходимой вам ссылке:</p>
+<h3>Мобильный банк для системы iOs</h3>
+<p style="clear: both"><img src="https://bank-cabinet.ru/wp-content/uploads/2018/01/Dostup-iOS.jpg" /></p>
+<h3>Скачать приложение банка на Андроид</h3>
+<p style="clear: both"><img src="https://bank-cabinet.ru/wp-content/uploads/2018/01/Dostup-Andr.jpg" /></p>
+<h3>Отсканировать QR-код:</h3>
+<p style="clear: both"><img src="https://bank-cabinet.ru/wp-content/uploads/2018/01/QR-%D0%BA%D0%BE%D0%B4.png" /></p>
+<h3>Ввод адреса в строке браузера</h3>
+<p>Введите app.open.ru в браузере своего телефона:</p>
+<p style="clear: both"><img src="https://bank-cabinet.ru/wp-content/uploads/2018/01/666.png" /></p>
+<p>Для активации личного кабинета в приложении «Открытие» достаточно указать номер карты, затем ввести высланный код по смс от банка и придумать короткий пин код для постоянного входа в приложение.</p>
+<h2>Телефон горячей линии</h2>
+<p>Обратная связь доведена до совершенства, максимально быстрое реагирование и полноценное консультирование по телефону. Так же вы можете связаться с консультантом банка Открытие несколькими способами:</p>
+<p> <ul>
+  <li>На главной странице внизу сайта есть форма «Задать вопрос», заполните свои данные, опишите подробно обращение и номер телефона, в зависимости от вопроса вам ответят письменно на указанный емайл или перезвонят по номеру телефона.</li>
+  <li>Наиболее удобный способ решения вопросов это «Чат». Он доступен в личном кабинете или мобильном приложении. Все вопросы с банком решаются в свободной форме, в режиме онлайн переписки. Заботливая онлайн поддержка сразу ответит на ваши вопросы без лишних формальностей, нет надобности представляться по имени, фамилии и отчеству, подтверждать паспортные данные — они сразу ответят на ваши вопросы.</li>
+  <li>Традиционный способ связи это звонок на горячую линию. Этот способ подходит если у вас нет под рукой интернета или активного мобильного приложения, тогда достаточно позвонить по номеру телефона:</li>
+</ul>
+</p>
+

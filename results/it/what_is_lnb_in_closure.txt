@@ -1,0 +1,86 @@
+<h1> Useful </h1>
+<h2> Short circuit on LNB </h2>
+<h1> What to do if the message “Attention has occurred a short circuit at LNB IN” appears on the screen? </h1>
+<p style = "clear: both"> <img src = "https://mastera-antenn.ru/images/lnb.jpg" /> </p>
+<p> If the following message appears on the TV screen: <strong> “Short circuit to </strong> <strong>LNB</strong> <strong>. Check the antenna cable "</strong>, there may be two reasons: </p>
+<p> <ol>
+  <li> The converter on the antenna is not working properly (wear, damage by lightning discharge or ice). </li>
+  <li> There are problems with the antenna cable (water ingress, freezing, mechanical damage, breakage, wear). </li>
+</ol>
+</p>
+<p> To eliminate the malfunction, it is necessary to carry out a complete <strong> diagnostics of the Tricolor TV satellite system </strong> with a phased testing of the system sections. </p>
+<p> For repair work, you should provide access to the antenna. Upon request, the master can take with him a ladder with a height of 6 to 10 meters. If access to the roof is restricted by the HOA or the management company, you must take the keys to the roof in advance. The installer can provide a letter of guarantee and a low-voltage system engineer certificate. </p>
+<p> Tricolor TV is repaired upon diagnosis. </p>
+<p> <strong> The cost of visiting the master for diagnostics: </strong> 800r. in Moscow, 1 200 rub. in the Moscow region. The cost of repairs is determined after identifying the exact cause of the breakdown. </p>
+<p> <strong> Submit an application: </strong> 8-999-802-91-02 </p>
+
+<h1> Why does the Tricolor receiver write "short circuit to LNB IN". </h1>
+<p> When installing the Tricolor equipment set for viewing encoded satellite broadcasts, one cannot but pay attention to the cable network inside the house or apartment. If the installation is negligent, the wrong choice of materials, the receiver often gives an error that informs that there was a short circuit on the LNB IN. There may be several reasons for this problem. The elimination of some will require extreme care and accuracy, while others mean physical damage to equipment. </p>
+<p style = "clear: both"> <img src = "https://otvet.tv/wp-content/uploads/2019/05/01-kart-3-600x338.jpg" /> </p>
+<h2> Reasons for the error </h2>
+<p> A short circuit on the Tricolor antenna can occur for the following reasons. </p>
+<p> <ol>
+  <li> The outdoor antenna unit was installed carelessly, which is why the receiver writes a “short circuit” during bad weather. </li>
+  <li> Incorrect cable used or expired. </li>
+  <li> There is damage to the cable line. </li>
+  <li> When organizing the switching, mistakes were made or low-quality components were used. </li>
+  <li> Broken antenna unit components. </li>
+  <li> Failure of firmware on the Tricolor receiver. </li>
+</ol>
+</p>
+<p> The first of the listed reasons can be easily diagnosed. <strong> If everything works well in clear weather, and a short circuit occurs in rain, you should check the nature of the cable installation on the antenna unit and its waterproofing </strong>. To prevent water from flooding the switching points, the wire must approach the converter from below, and the connections must be carefully wrapped with electrical tape. </p>
+<h2> Cable problems </h2>
+<p> Most often, LNB IN closure of Tricolor TV occurs due to cable damage. Some of the options are related to the quality of the products used for laying. Designed for indoor installation, the coaxial cable quickly breaks and breaks down in the area of ​​the outdoor antenna unit. </p>
+<p> Existing <em> line faults are visualized </em>. To repair them, cut a piece of the broken cable and install a jumper from the wire terminated with F-connectors. </p>
+<p> To get rid of problems during the operation of the cable structure, it is recommended: </p>
+<p> <ul>
+  <li> use <em> outdoor wire </em>; </li>
+  <li> carefully fix the sections of the cable line to prevent breaking, abrasion of external insulation due to swinging and friction against the walls; </li>
+  <li> in areas where there is a danger of mechanical damage, <em> place the wire inside a plastic corrugated pipe. </em> </li>
+</ul>
+</p>
+<p> A cable line laid according to all the rules will last even longer than stated for the wire used. Therefore, it is not worth saving on the purchase of it and additional materials. For tips on choosing a coaxial cable, see this article. </p>
+<h2> Installation errors and poor quality components </h2>
+<p> To understand where the installation problem may arise, it is worth reminding you what to do to install the F-connector. </p>
+<p> <ol>
+  <li> 1 cm of cable is stripped of external insulation. </li>
+  <li> The braiding and foil of the screen is folded back and placed on the insulation. </li>
+  <li> The central core is released from the inner insulation and pushed into the hole of the F-connector. </li>
+  <li> The connector is forcibly screwed onto the braid and foil laid on the insulation. </li>
+</ol>
+</p>
+<p> By the algorithm of the action, it is easy to understand where the error may occur. <strong> If the braiding is handled carelessly, it is easy to leave a thin wire that touches the central core and causes a short circuit. </strong> In addition, there is a danger of purchasing <em> low-quality connectors. </em> Small firms' products often do not meet manufacturing accuracy standards and may have scuffs, burrs on metal parts. When screwing up, their elements touch, causing an error on the receiver. </p>
+<p> <iframe src = "https://www.youtube.com/embed/3WoH60mJYUY"> </iframe> </p>
+<h2> Broken antenna unit component </h2>
+<p> A line short circuit error on the receiver occurs when the antenna unit converter breaks down. It is not difficult to check the correctness of the cause of the malfunction, but for this you have to get to the antenna unit. There, the cable connecting to the receiver is disconnected from the converter. If the error does not disappear on it, and the wires have already been checked, then the matter is in the breakdown of the antenna element. There is only one option for what to do. You will need to <em> purchase and install a new converter </em>, correctly wire the cables. </p>
+<h2> Receiver breakdown </h2>
+<p> Less often than not, a short circuit on the Tricolor antenna is false. The receiver gives an error due to a breakdown. In this case, the subscriber can: </p>
+<p> <ul>
+  <li> reset the device to factory settings in accordance with the instruction manual of the model; </li>
+  <li> install the latest software on the receiver. </li>
+</ul>
+</p>
+<p> At the end of the firmware update process, the device will reboot automatically. If the error persists even after disconnecting the antenna cable, the <em> receiver needs repair </em>. Here you will need the services of Tricolor specialists. </p>
+<p> You can hand over the receiver for repair at the nearest Tricolor subscriber service branch. Operators of the company will readily tell you what to do for the fastest solution of the problem and prompt the coordinates of the service center. </p>
+
+<h1> Tricolor and the problem of broadcasting </h1>
+<p> Why, instead of broadcasting, the message “no signal” appears, or the Tricolor started showing a short circuit on the antenna, what should I do? When this happens, there can be several reasons, namely: </p>
+<ol>
+  <li> Bad weather. </li>
+  <li> Settings failed. </li>
+  <li> The connection is damaged. </li>
+  <li> Antenna problem. </li>
+</ol>
+<h2> Short circuit reasons and solutions </h2>
+<p> If the TV screen shows the inscription "no signal", and it is bad weather outside, it is better to wait it out. The problem may resolve itself. </p>
+<p> The thunderstorm is over, but the reason remains, perhaps there was a <em> settings failure </em>, you need to reset them. This is done very easily and easily. In the future, these skills will come in handy in case of any problems with the receiver. </p>
+<p> If the setting of the receiver did not eliminate the cause, inspect the connection, and the antenna. <strong> It is slowly turned, fixing each position for 3-5 seconds, until an image appears </strong>. </p>
+<h2> How to remove a short circuit </h2>
+<p> When Tricolor writes that there has been a short circuit on the antenna, they inspect the coaxial cable connecting the heads of the satellite dish to the receiver. </p>
+<p> Visually, you need to check the braid on the core, or rather, whether a "hair" from it will fall on the connecting wires. They begin such an inspection from one end of the cable to the other, looking for fractures, cracks that will lead to a closure in the future. </p>
+<p style = "clear: both"> <img src = "http://televopros.ru/wp-content/uploads/2017/02/net-signala.jpg" /> </p>
+<p> <em> a lamp with a flashlight </em> and a battery that can be taken from a mobile phone will allow you to more reliably check the cable. By connecting them with a wire, they make a chain. <strong> A core is concluded between them - it is solid, if the light is on, no - they are looking for a break. </strong> So, in turn, they check each wire of the cable. They should call back well with the device, the braid too, and the resistance between the braid and the core is high. If the light comes on, then everything is in order. But if the light does not light up, we have a low resistance. This indicates a closure. </p>
+<p> When this happens, the cable must be replaced with a new one designed for outdoor use. <strong> And in order to better protect it from atmospheric phenomena, you can use a corrugated pipe. </strong> </p>
+<p> If the cable is too long, deliberately short it at one end between the central core and the braid, and check the device at the other. It caught fire, which means that the braiding shield and the cable core are intact. </p>
+<p> There are times when the wizards have incorrectly connected the ends of the f-connectors, which can damage the receiver, as well as the LNB. Noticing this, it is necessary to strip the upper insulation up to 2 cm, pull the silver screen back, strip the central wire and screw the f-connector, if it protrudes more than 2-3 mm, cut off the excess, except for the screen. <br /> <iframe src = " https://www.youtube.com/embed/QsfNwXEKaj4 "> </iframe> </p>
+

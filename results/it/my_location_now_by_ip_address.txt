@@ -1,0 +1,76 @@
+<h1> Hello-site.ru </h1>
+<p style = "clear: both"> <img src = "https://hello-site.ru/tpl/adapt/img/vipreg.png" /> </p>
+<h1> Determine location, city by ip. Find out your ip-address. </h1>
+<p> With this service you can find out your ip-address and the coordinates of your location. In addition, the service will allow you to determine the country, city and coordinates by the entered ip-address. The service is absolutely free, has no restrictions on the number of requests and saves the history of searches by ip-addresses. </p>
+<p> The service uses the sypexgeo api to determine locations by ip-address. </p>
+<p> Break your site visitors by ip-addresses. Check the operation of proxy servers. </p>
+
+<h1> Is it possible to find out my location by IP-address, and what IP hides in general. </h1>
+<p style = "clear: both"> <img src = "https://ocomp.info/wp-content/uploads/2019/07/Uznayut-li-moe-mestonahozhdenie-po-IP.png" /> < / p>
+<p> <em> Tell me, can they find out my location, home address, for example, by my IP? I just installed one chat on my phone, and my IP is displayed on the right (it seems). In general, on the one hand, I do not care, but on the other, sometimes it is a little anxious. </em> </p> </blockquote>
+<p> In general, by <em> IP-address </em> you can find out a lot about a user, including his location. But here it is worth making one remark right away: who will look for it? If the special services - then this will happen very quickly, if your neighbor (locksmith) - then most likely he will not find anything. </p>
+<p> Be that as it may, I want to call for normal behavior on the network (regardless of who is in front of you), and not stoop to insults (even against trolls 😒). </p>
+<p> <em> Below are more specific notes on IP. </em> </p>
+<h2> What hides the IP address. </h2>
+<p> <strong> What you can learn by IP </strong> </p>
+<p> Knowing your real IP-address, you can get information about: </p>
+<p> <ul>
+  <li> the current provider through which you access the network (available: to any user); </li>
+  <li> country, city and region (available to: any user); </li>
+  <li> your phone, e-mail, photo and other information, provided that it could get into the cache of search engines and was associated with your IP (available: for an experienced user); </li>
+  <li> to whom the Internet connection is registered (available: special services); </li>
+  <li> home address, passport details and other information that the Internet provider has on you (available: special services). </li>
+</ul>
+</p>
+<p> Of course, who exactly was sitting at the PC at this time (you or your friend, who came to visit), modern technologies do not help to determine yet. However, as you can imagine, the rest is a matter of technology. </p>
+<p> In general, I would recommend "treating" the IP as a phone number - the principle is much the same. </p>
+<p> <strong> Where can I leave my IP (it doesn't seem to be written anywhere.) </strong> </p>
+<p> If you yourself do not write it anywhere, and do not see that it is displayed, this does not mean at all that information about it is not transmitted (and does not remain). </p>
+<p> You "show" your IP when: </p>
+<p> <ul>
+  <li> using various chats (in many of them, at least this was the case before, you can easily find out the IP of any user); </li>
+  <li> visiting any sites, when sending messages, posts, comments, etc. (of course, this can only be viewed by the site owner, administrator, but by no means a simple outside user). As you understand, various social services also fall here. networks VK, OK, etc .; </li>
+  <li> using torrent trackers, and other P2P programs; </li>
+  <li> online games (sometimes you need to enter the IP address directly to connect.); </li>
+  <li> when sending e-mail messages, etc. </li>
+</ul>
+</p>
+<p> Ie in general, no matter what you do on the Internet, your IP is recorded everywhere (it just isn't shown to you). </p>
+<p> <strong> How can I find out my IP or another user </strong> </p>
+<p> Everything is simple with your IP: just go to the site https://2ip.ru/ (or use its analogue https://pr-cy.ru/browser-details/). An example is shown in the screenshot below. </p>
+<p style = "clear: both"> <img src = "https://ocomp.info/wp-content/uploads/2019/07/Servis-2IP-800x336.png" /> </p>
+<p> With the IP address of your "friend" (that is, another user), everything is somewhat more complicated: </p>
+<p> <ul>
+  <li> can be asked to tell you directly about it. 😊; </li>
+  <li> if he answers you by e-mail - you can view the message code, there is an IP (or use the corresponding function on the <em> 2ip.ru </em> service); </li>
+  <li> invite him to some chat (or ICQ, or mail agent.); </li>
+  <li> offer to play a network game where you need to enter IP, etc. </li>
+</ul>
+</p>
+<p> In general, if your "friend" is a rather experienced and careful person, most likely you will not recognize his real IP address. </p>
+<p> <strong> Where to get IP information </strong> </p>
+<p> If you already know the IP address for which you want to get more information, then you can use the same services that I gave above: </p>
+<p style = "clear: both"> <img src = "https://ocomp.info/wp-content/uploads/2019/07/Podrobnaya-informatsiya-ob-aypi-adrese-800x362.png" /> < / p>
+<p> Detailed information about the IP address </p>
+<p> As you can see on the screenshot, such services even show the location of the provider serving this IP on the map. Further, when contacting the provider of the relevant authorities, he will provide all the information about who used this IP on that day, to whom and what is registered, etc. (Of course, a simple user will not be able to get such information (by the way, 15 years ago everything was so "open" that any experienced user could find a lot without any official requests.)). </p>
+<p> By the way, you can also "google" on the desired IP - suddenly something got into the cache. You can find out how to do this in the article linked below. </p>
+<p style = "clear: both"> <em> <img src = "https://ocomp.info/wp-content/uploads/2019/04/Poisk-lyudey-v-internet.png" /> </ em> </p>
+<p> <em> How to find a person on the Internet. Search for people by first and last name, phone number, E-mail, etc. - https://ocomp.info/poisk-lyudey-v-internete.html </em> </p> </blockquote>
+<p> <strong> Is it possible to somehow hide my IP </strong> </p>
+<p> <em> Again, depending on who. </em> </p>
+<p> The vast majority of users will be satisfied with using a regular VPN (if anyone does not know, VPN encrypts your Internet connection and changes your real IP address). This prevents even your ISP from seeing which sites you visit and what you do there. </p>
+<p> You can learn more about VPN and how to set it up in one of my previous articles. </p>
+<p style = "clear: both"> <em> <img src = "https://ocomp.info/wp-content/uploads/2019/07/VPN.png" /> </em> </p>
+<p> <em> I will round off on this today (additions would be helpful.) </em> </p>
+
+<h1> Find the location of the IP address </h1>
+<h2> Information about the location of the IP address </h2>
+<table> <tr> <td> <table> <tr> <td align = "left"> 91.146.8.87 </td> </tr> <tr> <td align = "right"> <strong> Host < / strong> </td> <td align = "left"> host91-146-8-087.etth.mark-itt.net </td> </tr> <tr> <td align = "right"> < strong> Continent </strong> </td> <td align = "left"> Europe </td> </tr> <tr> <td align = "left"> RU </td> </tr> <tr > <td align = "left"> Russia </td> </tr> <tr> <td align = "left"> UD </td> </tr> <tr> <td align = "left"> Udmurtia </td> </tr> </table> </td> <td> <table> <tr> <td align = "left"> Izhevsk </td> </tr> <tr> <td align = " right "> <strong> Latitude </strong> </td> <td align =" left "> 56.85 </td> </tr> <tr> <td align =" right "> <strong> Longitude </ strong > </td> <td align = "left"> 53.2333 </td> </tr> <tr> <td align = "left"> 426008 </td> </tr> <tr> <td align = " left "> Europe / Samara (UTC +04: 00) <img src =" http://ip2geolocation.com/pics/time.png "/> </td> </tr> <tr> <td align =" left "> OOO NI (Ethernet To The Home broadband access) </td> </tr> <tr> <td align =" right "> <strong> Accuracy </strong> </td> <td align =" left " > <img src = "http://ip2geolocation.com/pics/acc3.png" /> </td> </tr> </table> </td> </tr> </table>
+<h2> Location of the IP address on the map </h2>
+<h2> Geolocation by IP </h2>
+<p> <strong> Geolocation </strong> is the identification of the geographic location of a device such as a PC, laptop, mobile phone, server, gadget, and so on by IP address. </p>
+<p> Since all IP addresses on the Internet are unique, and every owner and provider is officially registered, it should be possible to determine the geographic location of any PC or server simply by its IP address, at least in theory. One problem is that IP ranges are administered by several hundred regional agencies and it would not be very practical to query each one directly. Fortunately, some companies specialize in collecting IP address range information from around the world. They sell this information in the form of consolidated databases that can be easily integrated into any web server to quickly find information about a country, region, city, or Internet service provider. The accuracy of these databases ranges from 80 to 99.8% according to their own claims. </p>
+<p> Many web servers already use geolocation technology to automatically display content in the visitor's local language, providing regional search results or modified pages in certain countries, in accordance with local laws restricting music delivery to US citizens only, to prevent fraud. marketing purposes, during web analysis, this technology is also widely used in firewalls, domain name servers, ad servers, routing servers, mail systems, websites and other automated systems where geolocation can be useful. </p>
+<p> IP2GeoLocation.com is a web based IP geolocation service that searches for an IP address in a geolocation database and returns location information such as: continent, country code, country name, region or state, city, latitude and longitude, zip code, time zone, ISP or company name, and so on. To search, send a request to the service line, and you will receive the geographic location of the IP address within a few seconds. The search results index includes over 4 billion unique IP addresses. </p>
+<p> This free and simple online tool will let you know the owner, ISP and geographic location of any website, domain or IP address. Checking IP addresses is useful when you need to determine where your website visitors are coming from. You may have an e-commerce website and would like to know where your potential customers are, pre-fill in the country code on forms, display a different language, and reduce credit card fraud by implementing geo-location-based fraud prevention. Or, you may want to fight spammers and hackers, find out where they are. Just enter the IP address or hostname and you will be shown the map location, coordinates, country, region, city, and ISP. You may also be interested to know what your IP address reveals about you. </p>
+

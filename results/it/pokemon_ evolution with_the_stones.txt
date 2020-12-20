@@ -1,0 +1,53 @@
+<h1> Pokemon GO Guide: Evolution Stones </h1>
+<p style = "clear: both"> <img src = "https://gamerant.ru/wp-content/uploads/2017/03/pokemon-anime-sunflora-770x480.jpg" /> </p>
+<p> After the release of updates to the game Pokemon GO, fans have noticed some changes and additional features in it. One of the most important innovations is that some Pokémon can no longer be upgraded with candy alone, as was the case in the original version. For the evolution of characters, you will need special evolution stones. If you want to have exclusive Pokémon in your collection, then this guide is for you! Let's take a look at which Pokémon can be transformed using the Sun and King Stone. </p>
+<h2> Where can I find Pokemon GO evolution stones? </h2>
+<p> The only way to get your Evolution Stones is to visit the PokeStops and cross your fingers that the right stone will fall on your head. At the moment, there is no guaranteed way to get them differently. You can increase the chances of a lucky find by winding circles among a large cluster of PokeStops. Use this opportunity even if you need to travel to big cities! Combine your search for evolutionary stones with other goals in the game, such as capturing new Pokémon or hatching eggs. </p>
+<h3> Sunstone </h3>
+<p> With the help of the sun stone, you can develop the "grass" Pokémon - Sunkern and Gloom. The first Pokémon is easier to evolve, you need 50 candies and a Sunstone, and you can transform Sunkern into Sunflora. </p>
+<p> Gloom is a little more difficult to transform into Bellossom for several reasons. First, this requires 100 Oddish candies in addition to the Sunstone. Secondly, everyone who wants to collect a complete collection of Pokémon should know that Gloom can evolve into another Pokémon - Vileplume, and it will also cost 100 candies. Therefore, you will have to decide who to develop first. </p>
+<p style = "clear: both"> <img src = "https://gamerant.ru/wp-content/uploads/2017/03/pokemon-go-01.jpg" /> </p>
+<p> The best way to get hold of Oddish and Sunkern candy is to use traditional methods: get them out of the egg, catch them, transform the duplicates into a professor, or assign the Pokemon as your buddy Pokemon. It will take quite a while, but it will be worth it to get the complete collection. </p>
+<h3> King's Stone </h3>
+<p> With the help of the King's Stone, you can evolve two "water" Pokémon - Slowpoke and Poliwhirl. </p>
+<p> To transform Slowpoke into Slowking, you will need not only the Royal Stone, but 50 more Slowpoke candies. To find both water Pokémon and candy, you need to wander around the public lakes and ponds and collect as many of them as possible. </p>
+<p> Another water Pokemon, Poliwhirl, can be transformed into two forms - Politoed and Poliwrath. Each evolution requires 100 Poliwag candies and, of course, the Royal Stone. This is a large number, but with great perseverance and desire, players will be able to collect them and add unique pieces to their collection. </p>
+<p> Pokemon GO is a mobile role-playing game that is very popular among gamers. It is based on searching for locations of special virtual creatures - Pokemon using smartphones in real cities. Players can catch Pokémon, collect entire collections, train and develop these fun creatures, and fight other players. </p>
+
+<h1> Pokémon Evolution </h1>
+<p> During evolution, the Pokemon turns into a new Pokemon, which receives new characteristics and can learn new attacks. <br /> Some Pokémon can evolve into different forms depending on conditions. Some Pokémon do not have evolutions. <br /> If a Pokémon is equipped with Everstone, it will not evolve. </p>
+<h2> Contents </h2>
+<h2> Requirements </h2>
+<p> For a Pokémon to evolve, certain conditions must be met. </p>
+<h3> Level </h3>
+<p> Most Pokemon evolve at a certain level, for example, Bulbasaur at 16. There are a lot of such Pokemon and they are not shown on this page, look for them through the page All Pokemon. Sometimes, in addition to a certain level, a certain gender of the Pokemon is needed. </p>
+<p> Evolution depends on the gender of the Pokemon </p>
+<h3> Time of day </h3>
+<p> Some Pokémon evolve if they level up at certain times of the game day </p>
+<h4> Happiness </h4>
+<p> These Pokémon evolve if they level up with a happiness of 220. </p>
+<h4> Attack </h4>
+<p> These Pokémon evolve when they level up if they have a specific attack. </p>
+<h4> Location </h4>
+<p> These Pokémon evolve if they level up near evolution stones or in certain biomes. </p>
+<h4> Items held </h4>
+<ul>
+  <li> Gligar evolves into Gliscor if equipped with Razor Fang at Night </li>
+  <li> Happiny evolves into Chansey if equipped with an Oval Stone during the day. </li>
+  <li> Sneasel evolves into Weavile if equipped with a Razor Claw at Night. </li>
+</ul>
+<h4> Others </h4>
+<ul>
+  <li> Mantyke evolves into Mantine if it level up and has a Remora Pokemon in the team> <tbody> <tr> <th> Condition </th> <th> Pokemon </th> </tr> <tr> <td > Attack> Defense </td> <td> Hitmonlee </td> </tr> <tr> <td> Attack Exchange </h3> </li>
+</ul>
+<p> These Pokémon evolve when exchanged, some require certain items </p>
+<h4> Without subject </h4>
+<h4> With subject </h4>
+<h3> Stones of Evolution </h3>
+<p> These Pokémon evolve, if you touch them with an evolution stone, the stone will disappear. </p>
+
+<h1> Stone of Evolution </h1>
+<p> Influence of various stones </p>
+<p> some types of Pokémon are evolving. </p>
+<p> Evolution stones are extremely rare and after use they immediately disappear, possibly merging with the body of the Pokemon. In order for evolution to occur, the stone must be used directly on the Pokemon itself, which evolves from the action of this stone, and in most cases the Pokemon evolves only from one specific stone of evolution, and only some can evolve from various stones, but the type of new evolution directly depends on the type of stone , there is no Pokemon that has evolved into the same Pokemon with different stones. Evolution occurs regardless of the level of the Pokemon, it is worth giving him a stone, evolution will begin and it will be impossible to stop it even if the Pokemon at that moment is holding the Stone of Eternity object, which does not allow the Pokemon to evolve, even if it has reached the required level. The type of Pokémon and the stone are often interrelated, for example, fire Pokémon evolve using the Fire Stone, aquatic ones - Water Stone, herbal ones - Sun Stone. Evie is the only Pokemon capable of evolving from different stones. </p>
+

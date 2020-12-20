@@ -1,0 +1,106 @@
+<h1> WIM file format - description, how to open? </h1>
+<p> You can open file with WIM using special software abopted to do this. To open this format, download one of the proposed programs. </p>
+<h2> How to open a wim file </h2>
+ 
+<p> A file-based format introduced in Windows Vista. Allows you to download a single disk image to various computer platforms. Files such as drivers, updates and components can be managed in a file without loading an operating system image. </p>
+<p> WIM images can contain a variety of disk images that can be installed as new volumes in Windows. They can also be bootable, which means the computer can be booted from a disk image. </p>
+<p> How to open a wim file (Windows Imaging Format File) </p>
+
+<h1> Windows Imaging Format </h1>
+<table> <tbody> <tr> <th colspan = "2"> WIM file format </th> </tr> <tr> <th> Extension </th> <td>. <tt> .wim .swm .rwm .esd </tt> </td> </tr> <tr> <th> MIME type </th> <td> application / x-ms-wim [1] </td> </tr> <tr> <th> Developer </th> <td> Microsoft </td> </tr> <tr> <th> Format type </th> <td> Filename extension </td> </tr> < / tbody> </table>
+<p> <b> Windows Imaging Format (WIM) </b> is a file-based disk image format. The format was developed by Microsoft to deploy the latest releases of Windows operating systems - Windows Vista and Windows Server 2008, which use it as part of a standard installation procedure. However, it can be used with other Windows releases as well; it is also used in Windows Fundamentals for Legacy PCs, Microsoft's compact OS for legacy PCs based on Microsoft Windows XP Embedded Service Pack 2 and released on July 8, 2006. </p>
+<h2> Contents </h2>
+<h2> Structure [edit | edit code] </h2>
+<p> Like other disk image formats, WIM includes a collection of files and their associated file system metadata. However, unlike sector-specific formats (such as <tt> .ISO </tt> and <tt> .CUE </tt> / <tt> .BIN </tt>, which are most commonly used for CD images and DVD), WIM is a file-oriented format, that is, the smallest logical unit is a file. The advantage of this approach is the hardware independence of the format and the ability to store only one copy of a file that has many links in the file system tree (single instance storage). </p>
+<p> Although the architecture of the format is considered file-based, the files are stored inside a separate WIM database, thereby reducing the overhead for SMB to open and close multiple individual files after the transfer is complete. The cost of reading or writing many thousands of individual files on a local disk is offset by hardware and software disk caching as well as sequential reading or writing of data. </p>
+<p> WIM file can include several images, which are identified by a numeric index or unique name. The single instance storage technology, when adding a new image to the existing one, allows you to reduce the size of the WIM database if there are matching elements. The WIM image can also be split into several files, which are assigned the extension <tt> .swm </tt> </p>
+<p> One WIM file can link to another. [<i> source unspecified 1936 days </i>] For example, in WDS (Windows Deployment Services), the Res.rwm file stores the contents of the files, and the Image_Name.wim files contain a link to Res.rwm plus folder structure and permissions. [2] (English) </p>
+<h2> Tools [edit | edit code] </h2>
+<p> <b> Dism </b> - A standard Windows program (starting from Vista) with wide functionality [3], designed for servicing and preparing Windows images, including can be used to serve a Windows image (.wim file) or virtual hard disk (VHD file or VHDX file). </p>
+<p> <b> Imagex </b> is a command-line utility included with the microsoft WAIK for creating, editing, and deploying Windows WIM file images. Starting in Windows Vista, Windows Installer uses the WAIK API to install a new or cloned copy of Windows. The first ImageX implementation had build number 6.0.4007.0 (main.030212-2037). It was used by Microsoft OEM Partners to test Microsoft imaging technologies and was developed in parallel with the alpha versions of Longhorn. In assembly 6.0.5384.4, various innovations were added: read-write status differentiation, image splitting (SWM), WIM filter driver and LZX compression algorithms. This build was used in preliminary release candidates for Windows Vista. </p>
+<p> <b> GImagex </b> - Third-party utility that implements ImageX functionality in a graphical interface (GUI). Implements all the same functions as ImageX, but in a more user-friendly windowed view, does not require either WAIK installed on the system or ImageX executables. </p>
+<p> <b> Wimlib </b> - A third-party open source and cross-platform utility with a command line interface and syntax similar to <b> Imagex </b>, and a library for creating, extracting and modifying WIM images. Wimlib contains advanced implementations of XPRESS, LZX and LZMS compression algorithms, as a result of which more compression is achieved in comparison with similar technologies from microsoft. In addition, wimlib can be used to work with ESD (Electronic Software Download) archives. ESD archives are WIM archives that use LZMS compression in continuous mode and therefore are usually significantly smaller in size than regular WIM archives. Microsoft sometimes distributes ESD archives with encrypted content, wimlib cannot decrypt such archives on its own. </p>
+<h2> Working with images [edit | edit code] </h2>
+<p> A WIM image can also be mounted to a logical drive under Windows with a drive letter assignment to facilitate editing of its contents (thanks to this, a WIM image can be converted to an ISO image quite simply). It should be noted that the WimFltr.sys driver must be loaded prior to mounting the WIM using ImageX. </p>
+<p> Subsequently, APIs for working with WIM images were also published. Their functionality is implemented through the WIMGAPI.DLL library. Thus, independent developers can create their own software. </p>
+<p> WIM images can be bootable. In this case, the BOOT.WIM file contains the bootable version of Windows PE from which the installation process runs. The rest of the installation files are included in INSTALL.WIM. </p>
+<p> In addition to the standard Microsoft utilities, you can also extract files from a WIM image using the 7-Zip free file archiver. However, it will not open some files. </p>
+
+<h1> <img src = "http://www.wseven.info/wp-content/themes/default/images/windows7.gif" /> </h1>
+<h2> Extract Windows 7 files from installation DVD </h2>
+<p> Files installed by Windows 7 can be damaged or deleted by mistake or as a result of a computer infection with viruses, Trojans and other dangerous programs. Instead of reinstalling Windows 7 because of one or two corrupted files, you can extract the files you want from the Windows 7 installation DVD. </p>
+<p> All Windows 7 files are compressed and packed into the <strong> install.wim </strong> image file located in the <strong> sources </strong> folder of the Windows 7 installation disc. There are two ways to open a WIM file and extract from it needs data: </p>
+<p> <ol>
+  <li> Mount (connect) the install.wim file using the DISM utility. No third-party software is required for this, but the whole process will take place on the command line. </li>
+  <li> Open the install.wim image in the 7-zip archiver. To do this, you will need to download this archiver, but the whole procedure will be performed in the graphical interface. </li>
+</ol>
+</p>
+<h3> Mounting an Image Using DISM </h3>
+<p> 1. Insert the Windows 7 installation disc into your DVD drive, open it and copy the <strong> install.wim </strong> file from the <strong> sources </strong> folder to the D drive. </p>
+<p style = "clear: both"> <img src = "http://www.wseven.info/wp-content/uploads/2010/06/mount1.gif" /> </p>
+<p> 2. Create a folder on drive D and name it, for example, <strong> wseven </strong>. The install.wim image will be connected to this folder. <strong> Please note that you CANNOT use the root of the C drive </strong> as the folder for mounting the install.wim image. </p>
+<p> 3. Open <em> Start> All Programs> Accessories </em>, right-click on the command line icon and select <strong> Run as administrator </strong>. </p>
+<p style = "clear: both"> <img src = "http://www.wseven.info/wp-content/uploads/2010/04/deleteservice4.gif" /> </p>
+<p> 4. Run the command: </p>
+<p> dism / Mount-Wim /WimFile:D:\install.wim / name: "Windows 7 Ultimate" / MountDir: D: \ wseven </p>
+<p style = "clear: both"> <img src = "http://www.wseven.info/wp-content/uploads/2010/06/mount2.gif" /> </p>
+<p><em><strong>Explanations :</strong></em> </p>
+<p> <ul>
+  <li> dism is a command-line utility built into Windows 7 that allows you to mount and manage WIM images. </li>
+  <li> The / Mount-Wim option mounts the WIM file. </li>
+  <li> The / WimFile parameter lets you specify the location and name of the WIM file to mount. </li>
+  <li> The / name parameter lets you specify the name of the Windows 7 edition to be mounted. </li>
+  <li> The / MountDir parameter: Specifies the folder where the WIM will be mounted. </li>
+</ul>
+</p>
+<p> 6. Wait for the image to mount. This may take a few minutes. </p>
+<p> 7. Open the D: \ wseven folder, find the desired file in it and copy it to any location on your hard disk (for example, replace the damaged Windows 7 file). </p>
+<p style = "clear: both"> <img src = "http://www.wseven.info/wp-content/uploads/2010/06/mount3.gif" /> </p>
+<h3> Disable image in DISM </h3>
+<p> After copying the necessary files, the image can be turned off. </p>
+<p> 1. Close all folders and files. </p>
+<p> 2. Open <em> Start> All Programs> Accessories </em>, right-click on the command line icon and select <strong> Run as administrator </strong>. </p>
+<p> 3. Run the command: </p>
+<p> dism / Unmount-Wim / MountDir: D: \ wseven / discard </p>
+<p><em><strong>Explanations :</strong></em> </p>
+<p> <ul>
+  <li> The / Unmount-Wim switch unmounts the image. </li>
+  <li> The / MountDir parameter: Specifies the folder where the image to unmount is mounted. </li>
+  <li> The / discard option discards any changes made to the image. </li>
+</ul>
+</p>
+<p> 4. Wait for the image to unmount. </p>
+<p style = "clear: both"> <img src = "http://www.wseven.info/wp-content/uploads/2010/06/mount5.gif" /> </p>
+<p> 5. Delete the <strong> wseven </strong> folder and the <strong> install.wim </strong> file from drive D. </p>
+<h3> Opening a WIM file with a 7-zip archiver </h3>
+<p> 1. Download and install the free 7-zip archiver. </p>
+<p> 2. Insert the Windows 7 installation disc into your DVD drive, open the <strong> Sources </strong> folder and find the <strong> install.wim </strong> file there. </p>
+<p> 3. Right-click on the <strong> install.wim </strong> file and select <strong> Open with </strong> from the context menu that appears. </p>
+<p> 4. In the window that opens, select <strong> 7-zip File Manager </strong> and click <em> OK </em>. </p>
+<p style = "clear: both"> <img src = "http://www.wseven.info/wp-content/uploads/2010/06/installwim.gif" /> </p>
+<p> 5. The archiver window can display from one to five folders, depending on the edition of Windows 7. Installation images of 32-bit Windows 7 contain all editions except Enterprise, so there will be five folders: </p>
+<p> <ul>
+  <li> folder "1" contains all Windows 7 Starter folders and files; </li>
+  <li> in folder "2" - all folders and files Windows 7 Home Basic; </li>
+  <li> in folder "3" - Windows 7 Home Premium; </li>
+  <li> in folder "4" - Windows 7 Professional; </li>
+  <li> in folder "5" - Windows 7 Ultimate (Ultimate). </li>
+</ul>
+</p>
+<p> Windows 7 64-bit installation images do not have Starter Edition, so there will be only four folders: </p>
+<p> <ul>
+  <li> folder "1" contains all Windows 7 Home Basic folders and files; </li>
+  <li> in folder "2" - Home Premium; </li>
+  <li> in folder "3" - Professional; </li>
+  <li> in folder "4" - Ultimate. </li>
+</ul>
+</p>
+<p> The installation images of Windows 7 Enterprise (Enterprise) have only one folder - with the "Enterprise" itself, other editions are not included in the distribution. </p>
+<p> Open the folder with the most recent number to go to the directory listing of the most complete version of Windows 7. </p>
+<p style = "clear: both"> <img src = "http://www.wseven.info/wp-content/uploads/2010/06/installwim1.gif" /> </p>
+<p> 6. Open the required folder, find the required file in it, right-click on it and click <strong> Copy to ... </strong> </p>
+<p style = "clear: both"> <strong> <img src = "http://www.wseven.info/wp-content/uploads/2010/06/installwim2.gif" /> </strong> </ p>
+<p> 7. In the <strong> Copy </strong> window that opens, specify the location on your hard disk where the file will be copied and click <em> OK </em>. </p>
+<p style = "clear: both"> <img src = "http://www.wseven.info/wp-content/uploads/2010/06/installwim3.gif" /> </p>
+<p> After completing these operations, the archiver can be closed. </p>
+

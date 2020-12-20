@@ -1,0 +1,28 @@
+<h1> DGN file format - description, how to open? </h1>
+<p> You can open file with DGN using special software abopted to do this. To open this format, download one of the proposed programs. </p>
+<h2> How to open a DGN file </h2>
+ 
+<p> A 2D / 3D drawing format used by MicroStation structural design software. Also based on the Intergraph Standard File Format (ISFF) or the newer V8 DGN standard. Can be converted to the more versatile .DWG format using AutoCAD LDT. </p>
+<p> DGN files can be opened with Bentley Systems MicroStation or the free Bentley View software. The DGN format is supported by several other third-party programs. </p>
+<p> The DGN extension is short for "design". </p>
+<p> How to open a DGN file (MicroStation Design File) </p>
+
+<h1> <b> .dgn </b> File extension </h1>
+<h2> File Type MicroStation Design File </h2>
+<table> <tbody> <tr> <td> Developer </td> <td> Bentley Systems </td> </tr> <tr> <td> Category </td> <td> CAD Files </td> </tr> <tr> <td> Format </td> <td> N / A </table>
+<p> This file is saved in a binary format, which requires a specific program to read its contents. </p>
+<h2> .DGN variant # </h2>
+<p> A DGN file is a 2D / 3D drawing created by various CAD software such as MicroStation and Intergraph Interactive Graphics Design System. It can be saved in one of two formats: the standard Intergraph file format (ISFF) or the new V8 DGN standard. DGN files are commonly used to save construction projects for highways, bridges and buildings. </p>
+<p> DGN files can be opened by Bentley Systems MicroStation and Bentley's free viewer. The DGN format is also supported by several other third party software such as Autodesk AutoCAD and IMSI TurboCAD. DGN files can be converted to the more versatile .DWG format using AutoCAD LDT. </p>
+<p> NOTE. The DGN extension is not suitable for "design". </p>
+
+<h1> DGN - MicroStation Design File </h1>
+<h2> DGN Extension </h2>
+<h2> How to open a DGN file </h2>
+<p> <strong> Windows: </strong> Bentley Systems Bentley View, Bentley Systems MicroStation, Autodesk AutoCAD, AutoDWG DGN to DWG Converter, IMSI TurboCAD Deluxe, Oracle AutoVue, ESRI ArcGIS for Desktop, Corel PaintShop Pro, Intergraph Process, Power &amp; Marine, Solid Edge, PolyTrans-for-CINEMA-4D, TunnelCAD <br /> <strong> Mac OS: </strong> IMSI TurboCAD Deluxe </p>
+<h2> DGN extension description </h2>
+<p style = "clear: both"> <strong> Popularity: </strong> <img style = "float: left; margin: 0 10px 5px 0;" src = "http://fileext.ru/img/4Star.png" /> </p>
+<p> <strong> Developer: </strong> Bentley Systems </p>
+<p> The DGN extension is used in MicroStation CAD software developed and sold by Bentley Systems. * .DGN file contains a drawing that is created and used in the program. It is one of the main MicroStation formats and is based on either the Intergraph Standard File Format (ISFF) or the newer V8 DGN standard. The DGN format is also used in some other programs. DGN is short for design. .DGN files can be converted to the more versatile .DWG format using AutoCAD LDT software. </p>
+<p> <strong> HEX code: </strong> D0 CF 11 E0 A1 B1 1A E1 00 <br /> <strong> ASCII ext. code: </strong> RP.a… b </p>
+

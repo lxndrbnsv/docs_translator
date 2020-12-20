@@ -1,0 +1,35 @@
+<h1> Exponential notation. </h1>
+<p> <strong> Exponential form of numbers </strong> is usually used to write very large or very small numbers, which naturally contain a large number of non-significant zeros (1,000,000 = 1 · 10 6). Real numbers (finite and infinite decimal fractions) are written in floating point format, i.e. the position of the comma in the number may vary. </p>
+<p> Floating point format: <strong> A = m q n </strong> </p>
+<p> m - mantissa of number q - base n - number order </p>
+<p> <table border = "1"> <tr> <td> Natural form </td> <td> Exponential form </td> </tr> <tr> <td> Decimal notation 16000000000000000 = 1.6 10 16 </td> <td> 0.00000000000000016 = 1.610 -16 </td> </tr> <tr> <td> binary 11000000000000000 = 1.1 2 16 </td> <td> 0.00000000000000011 = 1.1 · 2 -16 </td> </tr> </table> </p>
+<p><i> <u> The range of change of numbers </u> </i> is determined by the number of digits reserved for storing the order of the number, <i><u> accuracy</u> </i> is determined by the number of digits allotted to store the mantissa. </p>
+<p> <strong> Normalized mantissa. </strong> </p>
+<p> Before storing a binary floating point value, you need to normalize the mantissa. This process is similar to normalizing a decimal floating point value. For example, a value of 1234.567 would be normalized to 1.234567 x 10 3 by moving the decimal point to one digit. Similarly, a value of 1101.101 would be normalized to 1.101101 x 2 3 by moving the decimal point and multiplying. Here are some examples: </p>
+<p> <table border = "1"> <tr> <td> Binary value </td> <td> Normalizes </td> <td> Exponent </td> </tr> <tr> <td> 1101.101 </td> <td> 1.101101 </td> <td> 3 </td> </tr> <tr> <td> .00101 </td> <td> 1.01 </td> <td> -3 < / td> </tr> <tr> <td> 1.0001 </td> <td> 1.0001 </td> <td> 0 </td> </tr> <tr> <td> 10000011.0 </td> < td> 1.0000011 </td> </tr> </table> </p>
+<p> You may have noticed that in the normalized mantissa, the number 1 is always to the left of the decimal point. <br /> When storing values, the unit is not written in the mantissa, but is implied. </p>
+<p> The exponents of short real values ​​are stored as 8-bit unsigned integers, with a slant of 127. </p>
+<p> Didn't find what you were looking for? Use search: </p>
+<p style = "clear: both"> <i> Best sayings: </i> <b> There are even, odd and credit weeks for students. </b> 9637 - <img style = "float: left; margin: 0 10px 5px 0; " src = "https://studopedia.ru/img/_plus.gif" /> | 7525 - <img style = "float: left; margin: 0 10px 5px 0;" src = "https://studopedia.ru/img/_minus.gif" /> or read everything. </p>
+<p> 91.146.8.87 © studopedia.ru Not the author of the materials that are posted. But it provides an opportunity for free use. Is there a copyright infringement? Write to us | Feedback. </p>
+<p> <b> Disable adBlock! <br /> and refresh the page (F5) </b> <br /> <small> really needed </small> </p>
+
+<h1> Exponential notation of numbers </h1>
+<p> Online <b> calculator </b> for converting numbers into <b> exponential </b> form and back, in another language for <b> calculating numbers </b> with the letter <b> E </b> ... <br /> On a computer (in particular in the text of computer programs), the exponential notation is written in the form <b> MEp </b> (example <b> 1e-10 </b>), where: </p>
+<p> <b> M </b> - mantissa, <br /> <b> E </b> (exponent) - the letter <b> E </b> in the number, meaning “<b> * 10 ^ </b> "(" ... multiply by ten to the power ... "), <br /> <b> p </b> - order. <br /> This is <b> necessary to </b> represent very <b> large </b> and very <b> small </b> numbers, and to unify their writing. </p>
+<p> Many calculator users are faced with the question: <b> What does the letter "E" mean in a digital calculator? </b> <br /> This is <b> Exponential notation </b> - representing real numbers in the form of mantissa and order ... Handy for <b> writing </b> very large and very small numbers. </p>
+<p> <b> For example </b>, let's decipher these numbers: <br /> <b> E </b> is <b> 10 </b>, the numbers after <b> E </b> are the exponent to which <b> 10 </b> is raised. <br /> <b> 0.66E004 = 0.66 * 10 ^ 4 = 0.66 * 10000 = 6600 <br /> 0.66E-007 = 0.66 * 10 ^ (- 7) = 0.66 * 0.0000001 = 0.000000066 <br /> 0.66E11 = 0.66 * 10 ^ 11 = 0.66 * 100000000000 = 66000000000 </b> <br /> Also <b> the calculator is able </b> not only to decipher large or small numbers with the letter <b> E </b> but and do the opposite, that is, convert the numbers to <b> exponential notation </b>. </p>
+<p> Let's calculate the numbers with the letter "<b> e </b>": <br /> <b> 1e-10 = 0.0000000001 </b> - zero point one ten-billion <br /> <b> 6e + 17 = -600000000000000000000 </b> <br /> There is a number <b> 2.6E3 </b>. What does the letter <b> E = 2 600 </b> mean - two thousand six hundred <br /> <b> 1E + 6 </b> = equal to one million <b> 1 000 000 </b> </p>
+
+<h1> Exponential-to-natural conversion </h1>
+<p> <b> Exponential notation </b> - representation of real numbers in the form of mantissa and order. Convenient for representing very large and very small numbers, as well as for unifying their writing. </p>
+<p> On a computer (in particular in the text of computer programs), exponential notation is written in the form <b> MEp </b>, where: </p>
+<p> <b> E </b> (exponent) - the letter E, meaning "* 10 ^" ("... multiply by ten to the power of ..."), </p>
+<p> Let's decipher the number <b>3.5E2</b> </p>
+<p> <b> E </b> is 10, the numbers after <b> E </b> are the exponent to which 10. </p>
+<p> 3.5E2 = 3.5 ∙ 10 2 = 3.5 ∙ 100 = 350 </p>
+<p> 6.02E + 3 = 6.02 ∙ 10 3 = 6.02 ∙ 1000 = 6020 </p>
+<p> 6.02E + 4 = 6.02 ∙ 10 4 = 6.02 ∙ 10000 = 60200 </p>
+<p> 6.02E-9 = 6.02 ∙ 10 -9 = 6.02 ∙ 0.000000001 = 0.00000000602 </p>
+<p> 6.02214129E23 = 6.02214129 ∙ 10 23 = 6.02214129 ∙ 99999999999999991611392 = 602214128999999968641024 </p>
+

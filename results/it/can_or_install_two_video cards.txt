@@ -1,0 +1,94 @@
+<h1> Connecting two video cards to one computer </h1>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2018/04/Kak-podklyuchit-dve-videokartyi-k-odnomu-kompyuteru.png" / > </p>
+<p> Several years ago, AMD and NV> </p>
+<h2> How to connect two video cards to one PC </h2>
+<p> If you have assembled a very powerful gaming or work system and want to make it even more powerful, then purchasing a second video card will help. In addition, two models from the middle price segment can work better and faster than one top-end one, while costing several times less. But in order to do this, you need to pay attention to several points. Let's take a closer look at them. </p>
+<h3> Things to know before connecting two GPUs to one PC </h3>
+<p> If you are just going to purchase a second graphics adapter and still do not know all the nuances that need to be observed, then we will describe them in detail so that during assembly you will not have various problems and component breakdowns. </p>
+<ol>
+  <li> Make sure your PSU has sufficient power. If the website of the video card manufacturer says that it requires 150 watts, then two models will require 300 watts. We recommend taking a power supply unit with a power reserve. For example, if you now have a 600-watt block, but for the cards to function, you need 750, then do not save on this purchase and buy a 1-kilowatt block, so you will be sure that everything will work correctly even at maximum loads. </li>
+</ol>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2018/01/Ventilyator-bloka-pitaniya.png" /> </p>
+<p> </li>
+  <li> The second required point is that your motherboard supports a bundle of two graphics adapters. That is, at the software level, it should allow two cards to work simultaneously. Almost all motherboards allow Crossfire, but SLI is more complicated. And for NVIDIA video cards, licensing is required by the company itself, so that the motherboard at the software level allows the inclusion of SLI technology. </li>
+  <li> And of course, there must be two PCI-E connectors on the motherboard. One of them must be sixteen-lane, that is, PCI-E x16, and the second PCI-E x8. When 2 video cards join together, they will work in x8 mode. </p>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2018/04/Podklyuchenie-dvuh-videokart-k-odnomu-kompyutru.png" /> < / p>
+<p> </li>
+  <li> Video cards should be the same, preferably from the same company. It is worth noting that NVIDIA and AMD are only engaged in the development of GPUs, while the graphics chips themselves are made by other companies. In addition, you can buy the same card in the overclocked state and in the stock state. In no case should you mix, for example, 1050TI and 1080TI, the models must be the same. After all, a more powerful card will drop to the frequencies of a weaker one, thereby you simply lose your money without getting a sufficient performance boost. </li>
+  <li> And the last criterion is whether your video card has a connector for an SLI or Crossfire bridge. Please note that if this bridge is included with your motherboard, then it 100% supports these technologies. </p>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2018/04/Podklyuchenie-dvuh-videokart-k-odnomu-kompyuteru.png" /> < / p>
+<p> We have covered all the nuances and criteria associated with installing two graphics adapters in one computer, now let's move on to the installation process itself. </p>
+<h3> Connecting two video cards to one computer </h3>
+<p> There is nothing complicated in connection, the user is only required to follow the instructions and be careful not to accidentally damage the computer components. To install two video cards you will need: </p>
+<p> <ol>
+   Open the side of the case or place the motherboard on a table. Insert two cards into the corresponding PCI-e x16 and PCI-e x8 slots. Check that they are secure and screw them with the appropriate screws to the case. </p> </ol>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2018/04/Podklyuchenie-dvuh-videokart-k-odnomu-kompyutru-1.png" / > </p>
+<p>
+   Be sure to connect the power to the two cards using the appropriate wires. </p>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2018/04/Podklyuchenie-pitaniya-videokartyi.png" /> </p>
+<p>
+   Connect the two graphics cards using the bridge that comes with your motherboard. The connection is made through the special connector mentioned above. </p>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2018/04/Podklyucheniya-mosta-dlya-videokart.png" /> </p>
+<p> </li>
+  <li> This completes the installation, it remains only to assemble everything into the case, connect the power supply and the monitor. It remains to configure everything in Windows itself at the program level. </li>
+  <li> For NVIDIA graphics cards, go to <em> NVIDIA Control Panel </em>, open the <em> Configure SLI </em> section, set the dot in front of <em> Maximize 3D performance </ em> and <em> "Auto-Select" </em> next to <em> "Processor" </em>. Don't forget to apply the settings. </p>
+<p style = "clear: both"> <img src = "https://lumpics.ru/wp-content/uploads/2018/04/Nastroyka-SLI-v-paneli-upravleniya-NVIDIA.png" /> < / p>
+<p> </li>
+  <li> AMD software automatically enables Crossfire so no additional steps are required. </li>
+</ol>
+</p>
+<p> Before buying two video cards, think carefully about what models they will be, because even a top-end system is not always able to pull out the work of two cards at the same time. Therefore, we recommend that you carefully study the characteristics of the processor and RAM before assembling such a system. </p>
+<p> Thank the author, share the article on social networks. </p>
+
+<h1> Advantages and disadvantages of two different video cards on the same computer </h1>
+<p style = "clear: both"> <img src = "https://fps-up.ru/img/art/dve-videokarty-na-odnom-kompyutere-plyusy-i-minusy.jpg" /> < / p>
+<p> Installing two or more graphics cards working together provides improved video, 3D and gaming performance over a single graphics card. Both AMD and Nvidia offer solutions to work with two or more graphics cards, but the requirements and benefits need to be considered before deciding whether or not to make this decision. </p>
+<h2> Dual Graphics System Requirements </h2>
+ 
+<p> To use two video cards, you need basic hardware, AMD or Nvidia, to run their graphics technologies. AMD's graphics solution is proprietary CrossFire, and Nvidia's solution is SLI. There are ways to use two different brands together. For each of these solutions, you need a compatible motherboard with the required PCI Express graphics slots. Without one of these slots in the motherboard, dual-card technology is not possible. </p>
+<h2> Benefits </h2>
+<p> There are two real benefits to running multiple graphics cards. The main reason is the improved performance in games. With two or more graphics cards that share functions for rendering 3D images, PC games can run at higher FPS and higher resolutions and with additional filters. This extra capacity can significantly improve the quality of graphics in games. Of course, many modern video cards can play the game up to 1080p. The real advantage is the ability to control games at higher resolutions, such as 4K displays that are 4x the resolution, or control multiple monitors. </p>
+<p> </p>
+<p> Another benefit is for people who want to upgrade later without replacing their graphics card. By purchasing a graphics card and motherboard that can handle two cards, you can add a second graphics card later to improve performance without having to remove your existing graphics card. The only problem with this plan is that graphics card cycles approximately every 18 months, which means that a compatible card can be difficult to find if you don't intend to purchase one within two years. </p>
+<h2> Disadvantages </h2>
+<p> The big drawback of having two video cards in one computer is the cost. With top-end graphics cards already priced at $ 500 or more, many consumers find it difficult to afford a second. While ATI and Nvidia offer cheaper cards that support two cards, it is often better to spend the same amount of money on one card with the same or sometimes better performance than two inexpensive ones. </p>
+<p> Another problem is that not all games benefit from multiple graphics cards. This situation has improved significantly since the first dual-card tweaks were introduced, but some graphics engines still do a poor job of handling two graphics cards. In fact, some games may show slight performance degradation when compared to a single graphics card. In some cases, stuttering occurs causing the video to appear choppy. </p>
+<p> Dual AMD Radeon Graphics Connected via DVI Cable </p>
+<p> Modern video cards are very energy intensive. Having two of these in a system can nearly double the amount of electrical power needed to run them in tandem. For example, a single high-end graphics card may require a 500W PSU to function properly. Having two of the same cards can require about 850 watts. Most desktop computers don't have such powerful power supplies. Check your computer's power and requirements before purchasing more powerful hardware. </p>
+<p> The performance benefits in a dual-card environment are dependent on other components of the computer system. Even with two highest-end graphics cards, the lower processor can regulate the amount of data the system can provide to the graphics cards. As a result, dual video cards are generally only recommended on high-end systems. </p>
+<h2> Who should install two video cards? </h2>
+ 
+<p> For the average consumer, running two graphics cards doesn't make much sense. The overall cost of a motherboard and graphics card, not to mention the other basic hardware that is required to provide sufficient graphics speed, is prohibitive. However, this solution makes sense if you want to run games on multiple displays or at extreme resolutions. </p>
+
+<h1> Is there a practical use of two video cards in games </h1>
+<p style = "clear: both"> <img src = "https://agepc.ru/wp-content/uploads/2019/08/foto-nvlink-na-dvuh-videokartah.jpg" /> </ p >
+<p> Last updated October 12, 2019 12:46 pm </p>
+<p> Two video cards installed on one computer and combined using SLI (Scalable Link Interface) from NVIDIA or CrossFire from AMD give a performance increase of 15-30%. Very rarely, depending on the optimization of games, the gain can reach 50%. AMD CrossFire technology is significantly less optimized than NVIDIA SLI. </p>
+<h2> Further development of parallel GPU connection </h2>
+<p style = "clear: both"> With the release of the new generation of GeForce RTX graphics cards, NVIDIA announced a new NVLink interface (bridge) for connecting two GPUs for collaboration. They are connected using NVLink Bridge <img style = "float: left; margin: 0 10px 5px 0;" src = "https://agepc.ru/wp-content/uploads/2019/08/nvlink-bridge.jpg" />. The data transfer speed over the new interface has increased 10 times compared to SLI. From 10 GB / s to 100 GB / s. NVLink only supports GeForce RTX 2080 and RTX 2080 Ti, the 2070 and 2060 do not. </p>
+<p> Judging by my analysis of various gaming tests conducted with two latest generation video cards (2080Ti), the new interface in almost all modern games in 8k resolution (7680 × 4320 pixels) provides at least 40% performance gain compared to working in SLI mode on two 1080Ti. Below in the image I have shown the results of one of these tests. </p>
+<p style = "clear: both"> <img src = "https://agepc.ru/wp-content/uploads/2019/08/foto-rezultatov-testov-dvuh-v> </p>
+<p> 8k monitors are still very expensive now and the practical use of such a test is minimal, but it shows well the prospects for a possible increase in the use of two video cards in the near future. </p>
+<p> It is worth paying attention to the test results of two RTX 2080. They are significantly worse than its older brother. In the game Rise of the Tomb Raider, two 2080Ti in 8k give 50fps, and 2080 only 37fps. This is a huge drop in productivity. I don't think this is due to the lack of video memory. </p>
+<p> Most likely, the drivers for parallelizing graphics data are better optimized for 2080Ti, since in its characteristics it is close to professional NVIDIA solutions for parallel computing, for which the new interface was originally developed. I hope that later versions of the drivers will be brought to mind and they will be optimized much better. </p>
+<blockquote> <p> By the way, NVLink, unlike SLI, supports the merging of the video memory of both video cards. </p> </blockquote>
+<h2> How to install two video cards on a PC </h2>
+<p> In the future, we will have to very competently plan the purchase of a computer. If the difference in power consumption between 2 and 4 RAM strips is not significant, then when installing 2 video cards or more, we will need to take into account their total power consumption. </p>
+<p> The motherboard must have slots for installing two video cards and with mandatory support for their joint work. To find out if a motherboard supports dual video cards, go to the motherboard manufacturer's official page and check the specifications. It can also be identified by the presence of the Crossfire, SLI or NVLink logo on the box. </p>
+<p> The power supply must also have enough power to pull all the hardware of the computer + 2 video cards. Now this requires about 900 watts. </p>
+<p> When using two video cards, games become processor dependent. The higher the resolution you use and the more stress you put on the video card (s), the less this will show. As the monitor resolution decreases and the load on the video card (s) decreases, this effect decreases until it disappears completely, since the bottleneck becomes the video processor, not the central processor. </p>
+<p> To work with two top-end video cards, you will have to fork out for the most powerful processor, otherwise it all makes no sense. </p>
+<p> High-quality cooling of all your system unit components should be organized, since the heat dissipation is very high. </p>
+<p> Link NVLink only to video cards made on the same type of GPU. The manufacturer is not important, but the frequency of the GPU is important, since when combined, both video cards will work at a lower frequency. For example, we have one card that has an operating frequency of 1695 MHz, and the other 1770 MHz, then in joint mode they both will work at 1695 MHz. Damn, everything is exactly like RAM. </p>
+<p> A pair of graphics cards require a computer case with enough capacity to install them and additional hardware. </p>
+<p> In the GPU driver control panel, NVLink, SLI or Crossfire must be enabled. </p>
+<h2> Conclusions and conclusions </h2>
+<p> With the release of NVLink, AMD's CrossFire technology can be safely buried. It was already worse in implementation than SLI, and now it is not a competitor at all. AMD urgently needs to come up with something new, since the technologies of joint work of two or more video cards will become much more productive, which will entail their spread. This will be another competitive advantage. </p>
+<p> I think that the parallel operation of two or more video cards will be similar in development to multi-core processors. Chip manufacturing processes are already so small that it becomes expensive to produce more complex chips. </p>
+<blockquote> <p style = "clear: both"> Notice the rise in prices for top-end graphics cards. I still remember the days when the top-end video accelerator ATI Radeon 9700pro <img style = "float: left; margin: 0 10px 5px 0;" src = "https://agepc.ru/wp-content/uploads/2019/08/foto-radeon-9700pro.jpg" /> cost 16,000 rubles (about 500 bucks). Now, even taking into account the growth of the course, the top-end video costs $ 1,500. </p> </blockquote>
+<p> Making a multi-core GPU most likely will not work, since it is much more complicated than the central one. Yes, and you will have to invent something with heat removal. It's easier to debug the technology of parallel computing and bring its high-quality support into all games, and not as it is now. With the release of the next generation of video cards, it will be really clear where the development will go. </p>
+<blockquote> <p> We can already say for sure that support for the operation of two or more video cards will not be in those models, which in total cost will be equal or more expensive than the top version from their own generation. There simply won't be any sense in buying such a tandem (as it is now). It would be better to take one top-end vidyahu than two average ones, and after a year or two take another one (already cheaper) and increase productivity by 100%. By this time, the best optimization will be brought up and new games will appear for such performance. Now manufacturers update the lineup of video cards approximately every 18 months. Most likely these terms will be </p> </blockquote>
+<p> At the time of this writing, the state of affairs is such that it makes sense to install two video cards in a computer only if you have a monitor resolution of 4k or more. Only then will you get a speed boost in games. For lower resolutions it is advisable to buy one good video card. </p>
+<p> In general, while the use of two video cards in the computer remains the lot of the rich Pinocchio, and this will remain the next 2-3 years. With an approximate calculation, the cost of a gaming system with two modern top-end video cards went for 300 thousand along with an 8k monitor? and a little cheaper at 4k. </p>
+<p> I want to please more mundane users that there is nothing to be very upset about, since for the most popular resolutions and monitors one middle-level video card is still more than enough. I talked about this in more detail in the article on choosing a monitor and video card. <br /> </p>
+
