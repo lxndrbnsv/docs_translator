@@ -30,14 +30,14 @@ for text_file in text_files:
     )
     input_area.click()
     time.sleep(1)
-    input_area.send_keys(text_file.replace(".txt", ""))
+    input_area.send_keys(text_file.replace(".txt", "").replace("_", " "))
     time.sleep(1)
 
     file_name = browser.find_element_by_xpath(
         '//*[@id="yDmH0d"]/c-wiz/div/div[2]/c-wiz/div[2]/'
         'c-wiz/div[1]/div[2]/div[2]/c-wiz[2]/div[5]/'
         'div/div[1]/span[1]/span/span'
-    ).text
+    ).text.replace(" ", "_")
 
     browser.get(url_docs)
     file_input = browser.find_element_by_xpath(
@@ -53,7 +53,7 @@ for text_file in text_files:
         'div/form/div[2]/div[2]/button/span'
     )
     translate_button.click()
-    sleep_time = random.choice(range(10, 120))
+    sleep_time = random.choice(range(10, 30))
     print(f"Waiting {str(sleep_time)} seconds...")
     time.sleep(sleep_time)
     text = str(browser.find_element_by_tag_name(

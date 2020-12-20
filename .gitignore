@@ -1,7 +1,6 @@
 venv/
-webdriver/
 __pycache_/
-data/
 results/
 .idea/
 *~
+*.zip
