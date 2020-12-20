@@ -1,5 +1,6 @@
 import os
 import time
+import random
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -52,7 +53,9 @@ for text_file in text_files:
         'div/form/div[2]/div[2]/button/span'
     )
     translate_button.click()
-    time.sleep(5)
+    sleep_time = random.choice(range(10, 120))
+    print(f"Waiting {str(sleep_time)} seconds...")
+    time.sleep(sleep_time)
     text = str(browser.find_element_by_tag_name(
         "pre"
     ).get_attribute("innerHTML").replace("&lt;", "<").replace("&gt;", ">"))
@@ -61,5 +64,6 @@ for text_file in text_files:
         new_file.write(text)
 
     os.remove(f"./data/компьютеры/{text_file}")
+    print("--- --- ---")
 
 browser.quit()
